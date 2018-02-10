@@ -1,1 +1,608 @@
-Abanji, Adanja, Addhiranirr, Adharanji, Affri, Ahdahni, Ahdni, Ahdri, Ahjara, Ahnarra, Ahnassi, Ahndahra, Ahnia, Ahnisa, Ahzini, Aina, Ajira, Anjari, Arabhi, Aravi, Ashidasha, Bahdahna, Bahdrashi, Baissa, Bhusari, Chirranirr, Dahleena, Dahnara, Ekapi, Harassa, Habasi, Idhassi, Inerri, Inorra, Kaasha, Khamuzi, Khazura, Khinjarsi, Kiseena, Kishni, Kisimba, Kisisa, Nisaba, Rabinna, Shaba, Shivani, Shotherra, Shunari, Tsabhi, Tsajadhi, Tsalani, Tsani, Tsiya, Tsrazami, Ubaasi, Udarra, Unjara, Vanjirra, Zahraji, Abhuki, Ahdarji, Ahjazda, Ashni, Atahba, Atrabhi, Ayisha, Nahrahe, Kishashi, Nahsi, fara, jirra, kasha, Krivva, mirra, thasa, Shamada, Shomara, Shuravi, Talasma, Tsalajma, Tsarrina, Tsavi, Tsramla, Tsrava, Vajhira, Yushi, Zabhila, Zahrasha, Ahkari, Ahjisi, Atahbah, Khayla, zhinda, Shavari, Tsavani, Tsrasuna, Zaynabi, Badali, Burri, Kirai, Mabeba, Muhada, Tarrami, Zulana, Abadusa, Abahrimaya, Abandarra, Abelaya, Abenil, Abernura, Abernura, Abizah, Abuana, Adabibi, Adajadhi, hai, Adharama, Adhazabi Aba, Adusa, Aelif, Afehaba, Ahainaz, Ahathka, Ahirneriba, Ahmuna, Aihrima, Aireh, Aisarbana, Aitrabhi, Akethi, Anala, Anbi, Andarri, Anisha, Arimaia, Arrunirai, Aruda, Arumarr, Ashalki, Atahba, Athadda, Atharra, Aza, Azahrr, Azartah, Azbi, Azdazi, Azeriba, Aznabi, Aznara, Azreshilla, Azum, Azuni, Azuruna, Baimarri, Bakkhara, Barnibi, Bataba, Bayya, Bazali, Berriza, Bezeni, Bezera, Bilunna, Bishanti, Bisussah, Biya, Bizinda, Butaba, Chirsusah, Dadazi, Dagila, Dahari, Daifa, Dakharri, Darali, Dazshi, Dehdri, Dehnarra, Dethadda, Dimarra, Dordura, Dortabi, Dulaya, Dunurra, Durrali, Duzi, Duzuni, Ehtayah, Eilara, Ejukki, Elamusa, Elenabi, Enarri, Ensa, Ensi, Erdama, Ernabi, Erranza, Erunirai, Eshaba, Eshmini, Evani, Ezipa, Ezreba, Fabasi, Fada, Fada, Fadama, Fahana, Falana, Fayna, Fedura, Felari, Felira, Feluni, Fezreba, Fihada, Fijirra, Filadi, Hahakil, Haheiba, Hahnissi, Haina, Halitazi, Hamira, Hanali, Hani, Hanubina, Hariba, Harrani, Hashuri, Hatiha, Hayya, Hazari, Heathre, Hehayda, Heleni, Hensora, Hezura, Hihainaz, Himalla, Hiyaza, Hizala, Huddima, Hulinda, Igarri, Ilanadzeh, Ilara, Ildani, Ilekama, Inama, Irkki, Irnadza, Irrki, Iruzda, Ishalga, Jainda, Jalamya, Jilarga, Jiluza, Jimila, Jiyya, Reeza, Juluda, Jurairia, Jurana, Juranda, Jurni, Kaasha, Kada, Kadalura, Kala, Kalari, Kalarra, Kamunara, Karina, Kasafia, Kashapi, Kauzanabi, Kazargi, Kazarri, Kazdi, Kazirra, Kazra, Khaba, Khalajo, Khalama, Khali, Khalima, Khana, Khanni, Khara, Khasabi, Khaygi, Khayradani, Khezuli, Khizuna, Khurga, Khurra, Khuzi, Kiasha, Kihrasha, Kubiba, Kunamu, Kunira, Kurdi, Kurshara, Kuzashi, Kuzda, Kuzrni, Kuzulaza, Lamanu, Laurri, Lazami, Lusha, Maedarri, Maezalaya, Magdi, Mahazi, Maila, Majdi, Malazu, Malbirra, Malira, Mamaea, Manabi, Manarni, Mansa, Marali, Marami, Mararanza, Marasadra, Marashi, Marazira, var, Masarha, Masura, Matani, Matbia, Mathi, Mazduni, Mazu, Melae, Merani, Merani, Mideyah, Milaya, Milira, Mina, Minurta, Mirani, Miranibi, Mirari, Mirudda, Mizahabi, Mizrali, Mubayda, Mulama, Munaea, Mura, Muzuli, Naballi, Nabina, Nabira, Nadahi, Nagarra, Naiba, Najirra, Nakala, Naluza, Namu, Naradani, Naragara, Narahni, Narguli, Narrama, Naruza, Narzura, Nayya, Nazala, Neshtat, Nirai, Nizil, Nudabibi, Nuhunza, Nuifa, Nuledhi, Nulla, Nurisipa, Nuthanda, Nuzalu, Odaini, Ohama, Oonama, Paadeza, Paaniir, Paawelaya, Palami, Pamaea, Pamunara, Panisa, Pinirai, Pirharri, Pulaya, Pulemu, Pulu, Punabi, Punala, Punamu, Punirai, jhirr, Rabeba, Rabiza, Raehsi, Raeififeh, Raerabhi, Raezargi, Rahiba, Rakalu, Rakkhiza, Ranabi, Ranabia, Rashiha, Rayfa, Razashi, zaym, Razila, Rejmina, Riba, Rihiri, Rilbirri, Ririna, Sabani, Sabarapa, Sabibi, Sadaifa, Sahira, Saifa, Salita, Samaea, Samati, Samati, Samsu, Sanabi, Sanobani, Sanua, Sapila, Sarirna, Sarnibi, Sashawi, Sayya, Sebazi, Sena, Senamu, Sepaea, Serabhi, Sezali, Sezera, ad, Shabani, Shadazi, Shadeya, Shadura, Shadya, Shalar, Shamaea, Shamara, Shamiri, Shandi, Shara, Shashara, Shasirba, Shausa, Shawia, Shazah, Shekestra, Shiba, Shilaya, Shimsamu, Shirai, Shodara, Shonsora, Shoshmina, Shumiri, Shuni, Shurami, Shuzura, Sibati, Sihada, Silezu, Silurra, Sindabi, Sobani, Sumaea, Surasha, Surdu, Suzabi, Tahadi, Tahara, Tahayda, Takhiri, Tamaya, Tamu, Taranbari, Taranza, Taseena, Tashishi, Tasisa, Tazadra, Tazia, Tebeba, Thahala, Thahiri, Thalara, Thalinfar, Thanala, Thathali, Thazahrr, Tinti, Tirusa, Tohiba, Tsamabi, Tsamara, Tsanji, Tsazrebi, Tsigara, Tsigila, Tukhari, Tulira, Tumira, Tunasi, Tunsanti, su, Udamaji, Udanta, Umisashi, Unishi, Unjasi, Urbani, Urilumezi, Urizali, Uzipa, Vabashi, Vahara, Vaifa, Valashi, Varisipa, Vasanha, ira, Yabizah, Yahirai, Yahiri, Yamaea, Yamanu, Yana, Yansun, Yanu, Yasana, Yazita, Yenabi, Yutahbah, Zabani, Zabdi, Zadai, Zadala, Zaeri, Zahanabi, Zaharai, Zaheida, Zahra, Zaina, Zainabaza, Zainjhad, Zairan, Zairuni, Zaizami, Zajinni, Zalapu, Zalar, Zalasu, Zalayza, Zalema, Zalinra, Zalirra, Zalmimi, Zalurrah, Zara, Zayansora, Zayaza, Zayshara, Zazabhuki, Zazanisa, Zebatba, Zebba, Zenira, Zeria, Zeriba, Zessura, Zetisha, Zibakka, Zirani, Zithana, Zithiri, Zukhara, Zunala, Zurana, Zurka
+a b a n j i
+a d a n j a
+a d dh i r a n i r r
+a dh a r a n j i
+a f f r i
+a h d a h n i
+a h d n i
+a h d r i
+a h j a r a
+a h n a r r a
+a h n a s s i
+a h n d a h r a
+a h n i a
+a h n i s a
+a h z i n i
+a i n a
+a j i r a
+a n j a r i
+a r a b h i
+a r a v i
+a sh i d a sh a
+b a h d a h n a
+b a h d r a sh i
+b a i s s a
+b h u s a r i
+ch i r r a n i r r
+d a h l e e n a
+d a h n a r a
+e k a p i
+h a r a s s a
+h a b a s i
+i dh a s s i
+i n e r r i
+i n o r r a
+k a a sh a
+kh a m u z i
+kh a z u r a
+kh i n j a r s i
+k i s e e n a
+k i sh n i
+k i s i m b a
+k i s i s a
+n i s a b a
+r a b i n n a
+sh a b a
+sh i v a n i
+sh o th e r r a
+sh u n a r i
+t s a b h i
+t s a j a dh i
+t s a l a n i
+t s a n i
+t s i y a
+t s r a z a m i
+u b a a s i
+u d a r r a
+u n j a r a
+v a n j i r r a
+z a h r a j i
+a b h u k i
+a h d a r j i
+a h j a z d a
+a sh n i
+a t a h b a
+a t r a b h i
+a y i sh a
+n a h r a h e
+k i sh a sh i
+n a h s i
+f a r a
+j i r r a
+k a sh a
+k r i v v a
+m i r r a
+th a s a
+sh a m a d a
+sh o m a r a
+sh u r a v i
+t a l a s m a
+t s a l a j m a
+t s a r r i n a
+t s a v i
+t s r a m l a
+t s r a v a
+v a jh i r a
+y u sh i
+z a b h i l a
+z a h r a sh a
+a h k a r i
+a h j i s i
+a t a h b a h
+kh a y l a
+zh i n d a
+sh a v a r i
+t s a v a n i
+t s r a s u n a
+z a y n a b i
+b a d a l i
+b u r r i
+k i r a i
+m a b e b a
+m u h a d a
+t a r r a m i
+z u l a n a
+a b a d u s a
+a b a h r i m a y a
+a b a n d a r r a
+a b e l a y a
+a b e n i l
+a b e r n u r a
+a b e r n u r a
+a b i z a h
+a b u a n a
+a d a b i b i
+a d a j a dh i
+h a i
+a dh a r a m a
+a dh a z a b i a b a
+a d u s a
+a e l i f
+a f e h a b a
+a h a i n a z
+a h a th k a
+a h i r n e r i b a
+a h m u n a
+a i h r i m a
+a i r e h
+a i s a r b a n a
+a i t r a b h i
+a k e th i
+a n a l a
+a n b i
+a n d a r r i
+a n i sh a
+a r i m a i a
+a r r u n i r a i
+a r u d a
+a r u m a r r
+a sh a l k i
+a t a h b a
+a th a d d a
+a th a r r a
+a z a
+a z a h r r
+a z a r t a h
+a z b i
+a z d a z i
+a z e r i b a
+a z n a b i
+a z n a r a
+a z r e sh i l l a
+a z u m
+a z u n i
+a z u r u n a
+b a i m a r r i
+b a k kh a r a
+b a r n i b i
+b a t a b a
+b a y y a
+b a z a l i
+b e r r i z a
+b e z e n i
+b e z e r a
+b i l u n n a
+b i sh a n t i
+b i s u s s a h
+b i y a
+b i z i n d a
+b u t a b a
+ch i r s u s a h
+d a d a z i
+d a g i l a
+d a h a r i
+d a i f a
+d a kh a r r i
+d a r a l i
+d a z sh i
+d e h d r i
+d e h n a r r a
+d e th a d d a
+d i m a r r a
+d o r d u r a
+d o r t a b i
+d u l a y a
+d u n u r r a
+d u r r a l i
+d u z i
+d u z u n i
+e h t a y a h
+e i l a r a
+e j u k k i
+e l a m u s a
+e l e n a b i
+e n a r r i
+e n s a
+e n s i
+e r d a m a
+e r n a b i
+e r r a n z a
+e r u n i r a i
+e sh a b a
+e sh m i n i
+e v a n i
+e z i p a
+e z r e b a
+f a b a s i
+f a d a
+f a d a
+f a d a m a
+f a h a n a
+f a l a n a
+f a y n a
+f e d u r a
+f e l a r i
+f e l i r a
+f e l u n i
+f e z r e b a
+f i h a d a
+f i j i r r a
+f i l a d i
+h a h a k i l
+h a h e i b a
+h a h n i s s i
+h a i n a
+h a l i t a z i
+h a m i r a
+h a n a l i
+h a n i
+h a n u b i n a
+h a r i b a
+h a r r a n i
+h a sh u r i
+h a t i h a
+h a y y a
+h a z a r i
+h e a th r e
+h e h a y d a
+h e l e n i
+h e n s o r a
+h e z u r a
+h i h a i n a z
+h i m a l l a
+h i y a z a
+h i z a l a
+h u d d i m a
+h u l i n d a
+i g a r r i
+i l a n a d z e h
+i l a r a
+i l d a n i
+i l e k a m a
+i n a m a
+i r k k i
+i r n a d z a
+i r r k i
+i r u z d a
+i sh a l g a
+j a i n d a
+j a l a m y a
+j i l a r g a
+j i l u z a
+j i m i l a
+j i y y a
+r e e z a
+j u l u d a
+j u r a i r i a
+j u r a n a
+j u r a n d a
+j u r n i
+k a a sh a
+k a d a
+k a d a l u r a
+k a l a
+k a l a r i
+k a l a r r a
+k a m u n a r a
+k a r i n a
+k a s a f i a
+k a sh a p i
+k a u z a n a b i
+k a z a r g i
+k a z a r r i
+k a z d i
+k a z i r r a
+k a z r a
+kh a b a
+kh a l a j o
+kh a l a m a
+kh a l i
+kh a l i m a
+kh a n a
+kh a n n i
+kh a r a
+kh a s a b i
+kh a y g i
+kh a y r a d a n i
+kh e z u l i
+kh i z u n a
+kh u r g a
+kh u r r a
+kh u z i
+k i a sh a
+k i h r a sh a
+k u b i b a
+k u n a m u
+k u n i r a
+k u r d i
+k u r sh a r a
+k u z a sh i
+k u z d a
+k u z r n i
+k u z u l a z a
+l a m a n u
+l a u r r i
+l a z a m i
+l u sh a
+m a e d a r r i
+m a e z a l a y a
+m a g d i
+m a h a z i
+m a i l a
+m a j d i
+m a l a z u
+m a l b i r r a
+m a l i r a
+m a m a e a
+m a n a b i
+m a n a r n i
+m a n s a
+m a r a l i
+m a r a m i
+m a r a r a n z a
+m a r a s a d r a
+m a r a sh i
+m a r a z i r a
+v a r
+m a s a r h a
+m a s u r a
+m a t a n i
+m a t b i a
+m a th i
+m a z d u n i
+m a z u
+m e l a e
+m e r a n i
+m e r a n i
+m i d e y a h
+m i l a y a
+m i l i r a
+m i n a
+m i n u r t a
+m i r a n i
+m i r a n i b i
+m i r a r i
+m i r u d d a
+m i z a h a b i
+m i z r a l i
+m u b a y d a
+m u l a m a
+m u n a e a
+m u r a
+m u z u l i
+n a b a l l i
+n a b i n a
+n a b i r a
+n a d a h i
+n a g a r r a
+n a i b a
+n a j i r r a
+n a k a l a
+n a l u z a
+n a m u
+n a r a d a n i
+n a r a g a r a
+n a r a h n i
+n a r g u l i
+n a r r a m a
+n a r u z a
+n a r z u r a
+n a y y a
+n a z a l a
+n e sh t a t
+n i r a i
+n i z i l
+n u d a b i b i
+n u h u n z a
+n u i f a
+n u l e dh i
+n u l l a
+n u r i s i p a
+n u th a n d a
+n u z a l u
+o d a i n i
+o h a m a
+o o n a m a
+p a a d e z a
+p a a n i i r
+p a a w e l a y a
+p a l a m i
+p a m a e a
+p a m u n a r a
+p a n i s a
+p i n i r a i
+p i r h a r r i
+p u l a y a
+p u l e m u
+p u l u
+p u n a b i
+p u n a l a
+p u n a m u
+p u n i r a i
+jh i r r
+r a b e b a
+r a b i z a
+r a e h s i
+r a e i f i f e h
+r a e r a b h i
+r a e z a r g i
+r a h i b a
+r a k a l u
+r a k kh i z a
+r a n a b i
+r a n a b i a
+r a sh i h a
+r a y f a
+r a z a sh i
+z a y m
+r a z i l a
+r e j m i n a
+r i b a
+r i h i r i
+r i l b i r r i
+r i r i n a
+s a b a n i
+s a b a r a p a
+s a b i b i
+s a d a i f a
+s a h i r a
+s a i f a
+s a l i t a
+s a m a e a
+s a m a t i
+s a m a t i
+s a m s u
+s a n a b i
+s a n o b a n i
+s a n u a
+s a p i l a
+s a r i r n a
+s a r n i b i
+s a sh a w i
+s a y y a
+s e b a z i
+s e n a
+s e n a m u
+s e p a e a
+s e r a b h i
+s e z a l i
+s e z e r a
+a d
+sh a b a n i
+sh a d a z i
+sh a d e y a
+sh a d u r a
+sh a d y a
+sh a l a r
+sh a m a e a
+sh a m a r a
+sh a m i r i
+sh a n d i
+sh a r a
+sh a sh a r a
+sh a s i r b a
+sh a u s a
+sh a w i a
+sh a z a h
+sh e k e s t r a
+sh i b a
+sh i l a y a
+sh i m s a m u
+sh i r a i
+sh o d a r a
+sh o n s o r a
+sh o sh m i n a
+sh u m i r i
+sh u n i
+sh u r a m i
+sh u z u r a
+s i b a t i
+s i h a d a
+s i l e z u
+s i l u r r a
+s i n d a b i
+s o b a n i
+s u m a e a
+s u r a sh a
+s u r d u
+s u z a b i
+t a h a d i
+t a h a r a
+t a h a y d a
+t a kh i r i
+t a m a y a
+t a m u
+t a r a n b a r i
+t a r a n z a
+t a s e e n a
+t a sh i sh i
+t a s i s a
+t a z a d r a
+t a z i a
+t e b e b a
+th a h a l a
+th a h i r i
+th a l a r a
+th a l i n f a r
+th a n a l a
+th a th a l i
+th a z a h r r
+t i n t i
+t i r u s a
+t o h i b a
+t s a m a b i
+t s a m a r a
+t s a n j i
+t s a z r e b i
+t s i g a r a
+t s i g i l a
+t u kh a r i
+t u l i r a
+t u m i r a
+t u n a s i
+t u n s a n t i
+s u
+u d a m a j i
+u d a n t a
+u m i s a sh i
+u n i sh i
+u n j a s i
+u r b a n i
+u r i l u m e z i
+u r i z a l i
+u z i p a
+v a b a sh i
+v a h a r a
+v a i f a
+v a l a sh i
+v a r i s i p a
+v a s a n h a
+i r a
+y a b i z a h
+y a h i r a i
+y a h i r i
+y a m a e a
+y a m a n u
+y a n a
+y a n s u n
+y a n u
+y a s a n a
+y a z i t a
+y e n a b i
+y u t a h b a h
+z a b a n i
+z a b d i
+z a d a i
+z a d a l a
+z a e r i
+z a h a n a b i
+z a h a r a i
+z a h e i d a
+z a h r a
+z a i n a
+z a i n a b a z a
+z a i n jh a d
+z a i r a n
+z a i r u n i
+z a i z a m i
+z a j i n n i
+z a l a p u
+z a l a r
+z a l a s u
+z a l a y z a
+z a l e m a
+z a l i n r a
+z a l i r r a
+z a l m i m i
+z a l u r r a h
+z a r a
+z a y a n s o r a
+z a y a z a
+z a y sh a r a
+z a z a b h u k i
+z a z a n i s a
+z e b a t b a
+z e b b a
+z e n i r a
+z e r i a
+z e r i b a
+z e s s u r a
+z e t i sh a
+z i b a k k a
+z i r a n i
+z i th a n a
+z i th i r i
+z u kh a r a
+z u n a l a
+z u r a n a
+z u r k a

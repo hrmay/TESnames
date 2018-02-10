@@ -1,1 +1,794 @@
-Asum, Bunish, Busheeus, Chalureel, Chiwish, Chulz, Chuna, Haran, Hathei, Heedul, Huleeya, Huzei, Inee, Itan, Meer, Milos, Neetinei, Okaw, Peeradeeh, Rasha, Reemukeeus, Reesa, Seewul, Skeetul, Tanan, Teegla, Tul, Ukawei, Ula, Utadeek, Weeltul, Weer, An-Zaw, Bun-Teemeeta, Dan-Ru, Effe-Tei, Eleedal-Lei, Gah Julan, Gam-Kur, Geel-Lah, Haj-Ei, Han-Tulm, Heem-La, Heir-Zish, Im-Kilaya, Jeelus-Tei, Jeer-Maht, J'Ram-Dar†, Junal-Lei, Keerasa-Tan, Miun-Gei, Mush-Mere, Okan-Shei, Oleen-Gei, Olink-Nur, Reeh-Jah, Silm-Dar, Tee-Lan, Tim-Jush, Vistha-Kai, Wanan-Dum, Wih-Eius, Wud-Neeus, Wuleen-Shei, Amusei, Deeh, Geel, Jeelius, Mahei, Otumeel, Pajeen, Reenum, Sakeepa, Saliith, Teekeeus, Teinaava, Usheeja, Wumeek, Yinz'r, Ah-Malz, Ajum-Kajin, Beem-Kiurz, Dar Jee, Deetum-Ja, Dreet-Lai, Er-Teeus, Geem Jasaiin, Gin-Wulm, Jee-Tah, Jeetum-Ze, Oleed-Ei, Pad-Ei, Tun-Zeeus, Weebam-Na, Deekus, Derkeethus, Madesi, Neetrenaza, Usha, Veezara, Beem-Ja, Brand-Shei*, Gajul-Lei, Gulum-Ei, Ilas-Tei, Jaree-Ra, Talen-Jei, Teeba-Ei, Bunach, Aseepa, Asheeus, Ashgar, Azeenus, Azinar, Bahrei, Banka, Barnaxi, Batuus, Beeheisei, Beenalz, Benas, Beshnus, Bewlus, Bezeer, Bijot, Bosekus, Buujhan, Buxutheeus, Chakuk, Chalish, Chanka, Chilwir, Chitakus, Claurth, Daneem, Darasken, Dazash, Debameel, Deejeeta, Deekonus, Deekum, Deerlus, Demeepa, Dezanu, Dowoseez, Dreevureesh, Drumarz, Dunaxith, Eoki, Esqoo, Ghelos, Gilustulm, Hareeya, Hikathus, Hjorn, Iggistill, Ilus, Jaraleet, Jeela, Jeelus, Jilux, Kamatpa, Kankeeus, Keesekeeth, Kepanuu, Kiameed, Klankaatu, Kluleesh, Kudleez, Lohupeel, Lotash, Luteema, Maahi, Maheelius, Maneeshik, Mathei, Meejapa, Meenjee, Meenosh, Meensuda, Miharil, Mikeesh, Mobareed, Mohimeem, Mopakuz, Motuu, Mujeen, Muranatepa, Napetui, Nazuux, Nebutil, Neeluka, Neetzara, Neposh, Netapatuu, Nexith, Nodeeus, Nosaleeth, Nowajeem, Nuduxith, Nuleez, Obaxith, Okalg, Okeeh, Onuja, Oosh, Opatieel, Pacheeva, Pacheevutar, Parash, Paduxi, Pejureel, Petaxai, Pideelus, Pimsy, Pojeel, Powaj, Radeelan, Radithax, Rareel, Rarez, Redieeus, Reekisk, Resari, Rezei, Rultkath, Rupah, Rushmeek, Sakeeus, Seemarz, Sejaijilax, Shadutsei, Shakiis, Skalasha, Skeehei, Sureeus, Tanaka, Teeka, Teelawei, Teineeja, Terezeeus, Tikaasi, Tikkus, Tlixilja, Tlosee, Tsatheitepa, Tsoglaez, Tulalurash, Ukatsei, Ulawa, Uralgnaza, Ushmeek, Utadeek, Utamukeeus, Utatul, Veekas, Veelisheeh, Veenaza, Visskar, Voneesh, Vudeelal, Vushtulm, Vuskayeeth, Wayiteh, Wunalz, Xozuka, Yelus, Heem-Jas, Abijoo-Anoo, Ah-Ra, Ahaht-Ei, Ahaht-Naat, Alan-Tei, Am-Sakka, An-Jeen-Sakka, An-Jeen-Seek, An-Taeed, Anooz-Izt, Anooz-Lar, Aojee-Da, Aojee-Ei, Aojee-Mota, Aomee-Shehs, Atl-Xulith, Az-Muz, Azeex-Eix, Azjai-Tee, Baar-Taeed, Bar-Neeus, Batar-Meej, Beek-Kajin, Beek-Metaku, Beem-Jee, Bimee-Kas, Brand-Ra, Bur-Tee, Bur-Waska, Chee-Sakka, Chee-Sei, Cheedal-Gah, Cheedal-Jeen, Dakee-Goh, Dakee-Mota, Dal-Eekwa, Deed-Mema, Deet-Zeeus, Depasa-Chath, Deroh-Metaku, Ei-Ei, Ei-Eiuus, Ei-Etaku, Eleedal-Kia, Eleedal-Lai, Er-Jaseen, Ereel-Dum, Gah-Dum, Gam-Kur, Geeh-Lurz, Geel-Gei, Gjomee-Loh, Gom-Tulm, Hal-Nei, Heek-Dimik, Heir-Marza, Hixeeh-Raj, Im-Kajin, Im-Nei, Im-Zish, Ja-Reet, Jee-Tul, Jeeba-Eius, Jeer-Tei, Jeetum-Tulm, Jin-Ei, Kamax-Ei, Keema-Ja, Keema-Ru, Keema-Ta, Keerasa-Lan, Kud-Lan, Lara-Eix, Loh-Jat, Luh-Maxath, Mahei-Muz, Marz-Ja, Meema-Zaw, Meer-Mesei, Miun-Eidu, Mush-Shei, Muz-Shah, Nam-Shah, Neeti-Nur, Nema-Pachat, Noyei-Heem, Nulaz-Eidu, Odeel-Shehs, Okan-Sakka, Okaw-Dar, Oleen-Jei, Oleen-Tul, Olik-Jah, Onurai-Betu, Otumi-Lar, Owai-Leem, Pekai-Jee, Pimaxi-Loh, Pimaxi-Zeeus, Ree-Kia, Reezal-Jul, Sar-Keer, Shanil-Nei, Tah-Tehat, Taleel-Bex, Talen-Lurash, Tan-Skee, Taleel-Bex, Tee-Marza, Topeeth-Gih, Topith-Kuz, Tsatva-Lan, Tumma-Beekus, Tunbam-Kahz, Ukka-Dimik, Ukka-Malz, Uta-Chuna, Uta-Ra, Uxith-Ei, Vara-Zeen, Vistha-Jush, Vuh-Dimik, Wanam-Jush, Wanum-Neeus, Weedum-Eius, Wideem-Voh, Wuja-Lei, Wuja-Sei, Xal-Geh, Xil-Vilax, Yinz-Hei, Ahaht, Akish, Banalz, Beekatan, Eutei, Gilm, Gish, Hul, Kasa, Milah, Nakuma, Neesha, Nuralg, Nush, Okur, Onasha, Shatalg, Tasha, Wusha, Ah-Meesei, Am-Ra, An-Deesei, Chanil-Lee, Cheesh-Meeus, Deesh-Meeus, El-Lurasha, Ereel-Lei, Gih-Ja, Jeed-Ei, Kal-Ma, Keel-Raniur, Meeh-Mei, Meen-Sa, Mim-Jeen, Muz-Ra, Nam-La, Olank-Neeus, On-Wan, On-Wazei, Seen-Rei, Beelei, Beewos, Bejeen, Deetsan, Druja, Marz, Numeen, Ocheeva, Pasha, Rana, Shaleez, Skaleel, Witseidutsei, Bur-Meema, Dar-Ma, Hal-Liurz, Kud-Ei, Mach-Na, Seed-Neeus, Sheer Meedish, Tar-Meena, Weedum-Ja, Akeenus, Akishan, Aleeta, Aleeto, Amatkeeus, Amussa, Aseis, Asheemar, Asska, Awas, Azum, Bahrez, Baseekus, Baseenar, Beekaw, Beela, Beexutl, Betzi, Bezarbeeh, Bishalus, Bixitleesh, Bokeeus, Buki, Chalaree, Chanaius, Chaneej, Chimatei, Chirurgeon, Cholasistu, Chosumeel, Churasu, Dafeeso, Dajaheel, Dakee, Daleez, Damatez, Damee, Damonalus, Dasha, Deegeeta, Deel, Deetul, Deetwos, Dergla, Deyapa, Dosa, Drujal, Druxolneeus, Easeeto, Eatzapa, Eukkaneeus, Ezei, Geeh, Ghekuknaza, Gideelar, Hikinu, Hixultvutar, Ianix, Imhey, Inue, Jeetum, Jukka, Juutenma, Kaloo, Keerasa, Kiurz, Kizta, Klumuk, Kudda, Kulusi, Kunasheeth, Leetu, Lineem, Lohulurash, Loseitsei, Lunsu, Luraxith, Luxultava, Markka, Martul, Meenai, Meerana, Mereel, Milaw, Misei, Miuni, Najeepa, Nameel, Natalgreesh, Nathrasa, Nebaxireet, Neeka, Neer, Neetizei, Neetra, Niima, Nijuna, Nijuneel, Nojaxia, Nokama, Nowa, Nubaree, Nukorash, Nutum, Nuwisha, Omeeta, Osheeja, Padeehei, Padeel, Pakee, Pameel, Peekeus, Peelgah, Pegareem, Pinooh, Porath, Pujeerish, Pulaya, Puweel, Puyatha, Raleetal, Reekatul, Reekaturl, Reekeepa, Reesa, Ruko, Rupaheel, Rutabeeh, Ruxultav, Saxolt, Sharava, Shatasha, Shatuna, Shuliish, Shumeesh, Simeesh, Sisar, Skeetees, Sumanirr, Supowateer, Teegya, Telixith, Terameen, Tlixult, Tlonkaan, Tludul, Tulut, Tumaka, Uazee, Ukasha, Veemarz, Veezil, Villa, Vorh, Wahirat, Wareem, Weewish, Wemeerit, Wenaxi, Xixuai, Xula, Xohaneel, Zatzu, Adzi-Mota, Ah-Kajul, Ah-Mudeska, Ah-Seeba, Ah-Zish, Ahaht-Malz, Ajim-Kiurz, Ajul-Kahz, Am-Eepa, Am-Jasuda, Am-Meesei, An-Dar, An-Jeen, Anozz-Crath, Az-Loh, Azbai-Meenus, Azeez-Eix, Bar-Beekus, Beek-Ja, Beek-Nassa, Beek-Nei, Beek-Ru, Beem-Tei, Ber-Jaseen, Ber-Lurash, Bijum-Mei, Bura-Natoo, Chana-La, Chee-Dooka, Chee-Dum, Chee-Osheeka, Chee-Saak, Cheesh-Mei, Chukka-Li, Dakee-Kia, Dan-Meesei, Dar-Liurz, Dar-Zish, Dee-Nur, Dee-Weska, Deechee-Noo, Deem-Ja, Deet-Waska, Desh-Wazei, Detu-Meeus, Dosu-Nur, Dreet-Wulm, Duk-Marza, Ereel-Maxath, Ereel-Sa, Fal-Xoc, Gah-Ju, Geeh-Dooka, Geeh-Sakka, Geel-Nur, Gin-Wan, Haj-Tei, Haj-Tulm, Han-Ma, Hara-Na, Heed-Jush, Heed-Nakal, Heek-Sa, Heem-Dum, Heita-Meen, Hiis-Ja, Hul-Tei, Io-Io, Itan-Nur, Ix-Utha, Jazeez-Geel, Jee-Ma, Jeeba-Naza, Jeeba-Noo, Jeeda-Tei, Jeelus-Lei, Jotep-Jasaiin, Junal-Nakal, Kal-Mei, Kani-Meedish, Keel-Kia, Keel-Lurash, Kizta-Lee, Kizta-Raj, Kud-Jat, Lara-Geel, Lara-Ma, Lara-Zish, Leel-Vata, Lorpat-Xeed, Mach-Neeus, Mahei-Jee, Mahei-Ma, Marz-Loh, Meema-Na, Meenai-Enoo, Meenai-Makka, Meer-Zish, Mewah-Lee, Mim-Jas, Mim-Naza, Mujee-Naat, Murak-Lei, Muz-Medul, Muz-Muz, Na-Kesh, Nam-Ja, Neeja-Meen, Neeta-Li, Nesh-Ja, Nesh-Tan, Nolu-Azza, Nomu-Goh, Nuleem-Malem, Odeel-Medul, Odeel-Tul, Oleed-Meen, Onai-Ruul, Onurai-Maht, Otumi-Wulm, Owai-La, Pad-Maxath, Pash-Riha, Peek-Majin, Pekai-Vilax, Rabeen-Ei, Ree-Kilaya, Ree-Zish, Reeh-Li, Reeh-Nur, Sali-Jah, Shanil-Ja, Shazara-Ta, Shei-Beekus, Shei-Chuna, Shei-Osheeja, Silm-Jusha, Slim-Jah, Supo-Gith, Talen-Dum, Tana-Teeus, Tar-Ei, Tar-Jekka, Tar-Shehs, Teeba-Deesei, Teeba-Ja, Teeba-Makka, Tim-Kasi, Tsona-Ei, Tumma-Shah, Tunbam-Na, Ukka-Meedish, Ula-Reen, Uta-Deeka, Uta-Tei, Uwa-Jekka, Uwa-Meenus, Veek-Gai, Veest-Halu, Veest-Nakal, Veth-Veidal, Vuh-Naat, Wanam-Betu, Wanam-Jaa, Weedum-Ja, Wih-Jat, Wuja-Ei, Wuleen-Ze, Xijai-Teel, Xil-Zish, Zasha-Ja
+a s u m
+b u n i sh
+b u sh e e u s
+ch a l u r e e l
+ch i w i sh
+ch u l z
+ch u n a
+h a r a n
+h a th e i
+h e e d u l
+h u l e e y a
+h u z e i
+i n e e
+i t a n
+m e e r
+m i l o s
+n e e t i n e i
+o k a w
+p e e r a d e e h
+r a sh a
+r e e m u k e e u s
+r e e s a
+s e e w u l
+s k e e t u l
+t a n a n
+t e e g l a
+t u l
+u k a w e i
+u l a
+u t a d e e k
+w e e l t u l
+w e e r
+a n - z a w
+b u n - t e e m e e t a
+d a n - r u
+e f f e - t e i
+e l e e d a l - l e i
+g a h j u l a n
+g a m - k u r
+g e e l - l a h
+h a j - e i
+h a n - t u l m
+h e e m - l a
+h e i r - z i sh
+i m - k i l a y a
+j e e l u s - t e i
+j e e r - m a h t
+j u n a l - l e i
+k e e r a s a - t a n
+m i u n - g e i
+m u sh - m e r e
+o k a n - sh e i
+o l e e n - g e i
+o l i n k - n u r
+r e e h - j a h
+s i l m - d a r
+t e e - l a n
+t i m - j u sh
+v i s th a - k a i
+w a n a n - d u m
+w i h - e i u s
+w u d - n e e u s
+w u l e e n - sh e i
+a m u s e i
+d e e h
+g e e l
+j e e l i u s
+m a h e i
+o t u m e e l
+p a j e e n
+r e e n u m
+s a k e e p a
+s a l i i th
+t e e k e e u s
+t e i n a a v a
+u sh e e j a
+w u m e e k
+y i n z ' r
+a h - m a l z
+a j u m - k a j i n
+b e e m - k i u r z
+d a r j e e
+d e e t u m - j a
+d r e e t - l a i
+e r - t e e u s
+g e e m j a s a i i n
+g i n - w u l m
+j e e - t a h
+j e e t u m - z e
+o l e e d - e i
+p a d - e i
+t u n - z e e u s
+w e e b a m - n a
+d e e k u s
+d e r k e e th u s
+m a d e s i
+n e e t r e n a z a
+u sh a
+v e e z a r a
+b e e m - j a
+b r a n d - sh e i*
+g a j u l - l e i
+g u l u m - e i
+i l a s - t e i
+j a r e e - r a
+t a l e n - j e i
+t e e b a - e i
+b u n a ch
+a s e e p a
+a sh e e u s
+a sh g a r
+a z e e n u s
+a z i n a r
+b a h r e i
+b a n k a
+b a r n a x i
+b a t u u s
+b e e h e i s e i
+b e e n a l z
+b e n a s
+b e sh n u s
+b e w l u s
+b e z e e r
+b i j o t
+b o s e k u s
+b u u j h a n
+b u x u th e e u s
+ch a k u k
+ch a l i sh
+ch a n k a
+ch i l w i r
+ch i t a k u s
+c l a u r th
+d a n e e m
+d a r a s k e n
+d a z a sh
+d e b a m e e l
+d e e j e e t a
+d e e k o n u s
+d e e k u m
+d e e r l u s
+d e m e e p a
+d e z a n u
+d o w o s e e z
+d r e e v u r e e sh
+d r u m a r z
+d u n a x i th
+e o k i
+e s q o o
+g h e l o s
+g i l u s t u l m
+h a r e e y a
+h i k a th u s
+h j o r n
+i g g i s t i l l
+i l u s
+j a r a l e e t
+j e e l a
+j e e l u s
+j i l u x
+k a m a t p a
+k a n k e e u s
+k e e s e k e e th
+k e p a n u u
+k i a m e e d
+k l a n k a a t u
+k l u l e e sh
+k u d l e e z
+l o h u p e e l
+l o t a sh
+l u t e e m a
+m a a h i
+m a h e e l i u s
+m a n e e sh i k
+m a th e i
+m e e j a p a
+m e e n j e e
+m e e n o sh
+m e e n s u d a
+m i h a r i l
+m i k e e sh
+m o b a r e e d
+m o h i m e e m
+m o p a k u z
+m o t u u
+m u j e e n
+m u r a n a t e p a
+n a p e t u i
+n a z u u x
+n e b u t i l
+n e e l u k a
+n e e t z a r a
+n e p o sh
+n e t a p a t u u
+n e x i th
+n o d e e u s
+n o s a l e e th
+n o w a j e e m
+n u d u x i th
+n u l e e z
+o b a x i th
+o k a l g
+o k e e h
+o n u j a
+o o sh
+o p a t i e e l
+p a ch e e v a
+p a ch e e v u t a r
+p a r a sh
+p a d u x i
+p e j u r e e l
+p e t a x a i
+p i d e e l u s
+p i m s y
+p o j e e l
+p o w a j
+r a d e e l a n
+r a d i th a x
+r a r e e l
+r a r e z
+r e d i e e u s
+r e e k i s k
+r e s a r i
+r e z e i
+r u l t k a th
+r u p a h
+r u sh m e e k
+s a k e e u s
+s e e m a r z
+s e j a i j i l a x
+sh a d u t s e i
+sh a k i i s
+s k a l a sh a
+s k e e h e i
+s u r e e u s
+t a n a k a
+t e e k a
+t e e l a w e i
+t e i n e e j a
+t e r e z e e u s
+t i k a a s i
+t i k k u s
+t l i x i l j a
+t l o s e e
+t s a th e i t e p a
+t s o g l a e z
+t u l a l u r a sh
+u k a t s e i
+u l a w a
+u r a l g n a z a
+u sh m e e k
+u t a d e e k
+u t a m u k e e u s
+u t a t u l
+v e e k a s
+v e e l i sh e e h
+v e e n a z a
+v i s s k a r
+v o n e e sh
+v u d e e l a l
+v u sh t u l m
+v u s k a y e e th
+w a y i t e h
+w u n a l z
+x o z u k a
+y e l u s
+h e e m - j a s
+a b i j o o - a n o o
+a h - r a
+a h a h t - e i
+a h a h t - n a a t
+a l a n - t e i
+a m - s a k k a
+a n - j e e n - s a k k a
+a n - j e e n - s e e k
+a n - t a e e d
+a n o o z - i z t
+a n o o z - l a r
+a o j e e - d a
+a o j e e - e i
+a o j e e - m o t a
+a o m e e - sh e h s
+a t l - x u l i th
+a z - m u z
+a z e e x - e i x
+a z j a i - t e e
+b a a r - t a e e d
+b a r - n e e u s
+b a t a r - m e e j
+b e e k - k a j i n
+b e e k - m e t a k u
+b e e m - j e e
+b i m e e - k a s
+b r a n d - r a
+b u r - t e e
+b u r - w a s k a
+ch e e - s a k k a
+ch e e - s e i
+ch e e d a l - g a h
+ch e e d a l - j e e n
+d a k e e - g o h
+d a k e e - m o t a
+d a l - e e k w a
+d e e d - m e m a
+d e e t - z e e u s
+d e p a s a - ch a th
+d e r o h - m e t a k u
+e i - e i
+e i - e i u u s
+e i - e t a k u
+e l e e d a l - k i a
+e l e e d a l - l a i
+e r - j a s e e n
+e r e e l - d u m
+g a h - d u m
+g a m - k u r
+g e e h - l u r z
+g e e l - g e i
+g j o m e e - l o h
+g o m - t u l m
+h a l - n e i
+h e e k - d i m i k
+h e i r - m a r z a
+h i x e e h - r a j
+i m - k a j i n
+i m - n e i
+i m - z i sh
+j a - r e e t
+j e e - t u l
+j e e b a - e i u s
+j e e r - t e i
+j e e t u m - t u l m
+j i n - e i
+k a m a x - e i
+k e e m a - j a
+k e e m a - r u
+k e e m a - t a
+k e e r a s a - l a n
+k u d - l a n
+l a r a - e i x
+l o h - j a t
+l u h - m a x a th
+m a h e i - m u z
+m a r z - j a
+m e e m a - z a w
+m e e r - m e s e i
+m i u n - e i d u
+m u sh - sh e i
+m u z - sh a h
+n a m - sh a h
+n e e t i - n u r
+n e m a - p a ch a t
+n o y e i - h e e m
+n u l a z - e i d u
+o d e e l - sh e h s
+o k a n - s a k k a
+o k a w - d a r
+o l e e n - j e i
+o l e e n - t u l
+o l i k - j a h
+o n u r a i - b e t u
+o t u m i - l a r
+o w a i - l e e m
+p e k a i - j e e
+p i m a x i - l o h
+p i m a x i - z e e u s
+r e e - k i a
+r e e z a l - j u l
+s a r - k e e r
+sh a n i l - n e i
+t a h - t e h a t
+t a l e e l - b e x
+t a l e n - l u r a sh
+t a n - s k e e
+t a l e e l - b e x
+t e e - m a r z a
+t o p e e th - g i h
+t o p i th - k u z
+t s a t v a - l a n
+t u m m a - b e e k u s
+t u n b a m - k a h z
+u k k a - d i m i k
+u k k a - m a l z
+u t a - ch u n a
+u t a - r a
+u x i th - e i
+v a r a - z e e n
+v i s th a - j u sh
+v u h - d i m i k
+w a n a m - j u sh
+w a n u m - n e e u s
+w e e d u m - e i u s
+w i d e e m - v o h
+w u j a - l e i
+w u j a - s e i
+x a l - g e h
+x i l - v i l a x
+y i n z - h e i
+a h a h t
+a k i sh
+b a n a l z
+b e e k a t a n
+e u t e i
+g i l m
+g i sh
+h u l
+k a s a
+m i l a h
+n a k u m a
+n e e sh a
+n u r a l g
+n u sh
+o k u r
+o n a sh a
+sh a t a l g
+t a sh a
+w u sh a
+a h - m e e s e i
+a m - r a
+a n - d e e s e i
+ch a n i l - l e e
+ch e e sh - m e e u s
+d e e sh - m e e u s
+e l - l u r a sh a
+e r e e l - l e i
+g i h - j a
+j e e d - e i
+k a l - m a
+k e e l - r a n i u r
+m e e h - m e i
+m e e n - s a
+m i m - j e e n
+m u z - r a
+n a m - l a
+o l a n k - n e e u s
+o n - w a n
+o n - w a z e i
+s e e n - r e i
+b e e l e i
+b e e w o s
+b e j e e n
+d e e t s a n
+d r u j a
+m a r z
+n u m e e n
+o ch e e v a
+p a sh a
+r a n a
+sh a l e e z
+s k a l e e l
+w i t s e i d u t s e i
+b u r - m e e m a
+d a r - m a
+h a l - l i u r z
+k u d - e i
+m a ch - n a
+s e e d - n e e u s
+sh e e r m e e d i sh
+t a r - m e e n a
+w e e d u m - j a
+a k e e n u s
+a k i sh a n
+a l e e t a
+a l e e t o
+a m a t k e e u s
+a m u s s a
+a s e i s
+a sh e e m a r
+a s s k a
+a w a s
+a z u m
+b a h r e z
+b a s e e k u s
+b a s e e n a r
+b e e k a w
+b e e l a
+b e e x u t l
+b e t z i
+b e z a r b e e h
+b i sh a l u s
+b i x i t l e e sh
+b o k e e u s
+b u k i
+ch a l a r e e
+ch a n a i u s
+ch a n e e j
+ch i m a t e i
+ch i r u r g e o n
+ch o l a s i s t u
+ch o s u m e e l
+ch u r a s u
+d a f e e s o
+d a j a h e e l
+d a k e e
+d a l e e z
+d a m a t e z
+d a m e e
+d a m o n a l u s
+d a sh a
+d e e g e e t a
+d e e l
+d e e t u l
+d e e t w o s
+d e r g l a
+d e y a p a
+d o s a
+d r u j a l
+d r u x o l n e e u s
+e a s e e t o
+e a t z a p a
+e u k k a n e e u s
+e z e i
+g e e h
+g h e k u k n a z a
+g i d e e l a r
+h i k i n u
+h i x u l t v u t a r
+i a n i x
+i m h e y
+i n u e
+j e e t u m
+j u k k a
+j u u t e n m a
+k a l o o
+k e e r a s a
+k i u r z
+k i z t a
+k l u m u k
+k u d d a
+k u l u s i
+k u n a sh e e th
+l e e t u
+l i n e e m
+l o h u l u r a sh
+l o s e i t s e i
+l u n s u
+l u r a x i th
+l u x u l t a v a
+m a r k k a
+m a r t u l
+m e e n a i
+m e e r a n a
+m e r e e l
+m i l a w
+m i s e i
+m i u n i
+n a j e e p a
+n a m e e l
+n a t a l g r e e sh
+n a th r a s a
+n e b a x i r e e t
+n e e k a
+n e e r
+n e e t i z e i
+n e e t r a
+n i i m a
+n i j u n a
+n i j u n e e l
+n o j a x i a
+n o k a m a
+n o w a
+n u b a r e e
+n u k o r a sh
+n u t u m
+n u w i sh a
+o m e e t a
+o sh e e j a
+p a d e e h e i
+p a d e e l
+p a k e e
+p a m e e l
+p e e k e u s
+p e e l g a h
+p e g a r e e m
+p i n o o h
+p o r a th
+p u j e e r i sh
+p u l a y a
+p u w e e l
+p u y a th a
+r a l e e t a l
+r e e k a t u l
+r e e k a t u r l
+r e e k e e p a
+r e e s a
+r u k o
+r u p a h e e l
+r u t a b e e h
+r u x u l t a v
+s a x o l t
+sh a r a v a
+sh a t a sh a
+sh a t u n a
+sh u l i i sh
+sh u m e e sh
+s i m e e sh
+s i s a r
+s k e e t e e s
+s u m a n i r r
+s u p o w a t e e r
+t e e g y a
+t e l i x i th
+t e r a m e e n
+t l i x u l t
+t l o n k a a n
+t l u d u l
+t u l u t
+t u m a k a
+u a z e e
+u k a sh a
+v e e m a r z
+v e e z i l
+v i l l a
+v o r h
+w a h i r a t
+w a r e e m
+w e e w i sh
+w e m e e r i t
+w e n a x i
+x i x u a i
+x u l a
+x o h a n e e l
+z a t z u
+a d z i - m o t a
+a h - k a j u l
+a h - m u d e s k a
+a h - s e e b a
+a h - z i sh
+a h a h t - m a l z
+a j i m - k i u r z
+a j u l - k a h z
+a m - e e p a
+a m - j a s u d a
+a m - m e e s e i
+a n - d a r
+a n - j e e n
+a n o z z - c r a th
+a z - l o h
+a z b a i - m e e n u s
+a z e e z - e i x
+b a r - b e e k u s
+b e e k - j a
+b e e k - n a s s a
+b e e k - n e i
+b e e k - r u
+b e e m - t e i
+b e r - j a s e e n
+b e r - l u r a sh
+b i j u m - m e i
+b u r a - n a t o o
+ch a n a - l a
+ch e e - d o o k a
+ch e e - d u m
+ch e e - o sh e e k a
+ch e e - s a a k
+ch e e sh - m e i
+ch u k k a - l i
+d a k e e - k i a
+d a n - m e e s e i
+d a r - l i u r z
+d a r - z i sh
+d e e - n u r
+d e e - w e s k a
+d e e ch e e - n o o
+d e e m - j a
+d e e t - w a s k a
+d e sh - w a z e i
+d e t u - m e e u s
+d o s u - n u r
+d r e e t - w u l m
+d u k - m a r z a
+e r e e l - m a x a th
+e r e e l - s a
+f a l - x o c
+g a h - j u
+g e e h - d o o k a
+g e e h - s a k k a
+g e e l - n u r
+g i n - w a n
+h a j - t e i
+h a j - t u l m
+h a n - m a
+h a r a - n a
+h e e d - j u sh
+h e e d - n a k a l
+h e e k - s a
+h e e m - d u m
+h e i t a - m e e n
+h i i s - j a
+h u l - t e i
+i o - i o
+i t a n - n u r
+i x - u th a
+j a z e e z - g e e l
+j e e - m a
+j e e b a - n a z a
+j e e b a - n o o
+j e e d a - t e i
+j e e l u s - l e i
+j o t e p - j a s a i i n
+j u n a l - n a k a l
+k a l - m e i
+k a n i - m e e d i sh
+k e e l - k i a
+k e e l - l u r a sh
+k i z t a - l e e
+k i z t a - r a j
+k u d - j a t
+l a r a - g e e l
+l a r a - m a
+l a r a - z i sh
+l e e l - v a t a
+l o r p a t - x e e d
+m a ch - n e e u s
+m a h e i - j e e
+m a h e i - m a
+m a r z - l o h
+m e e m a - n a
+m e e n a i - e n o o
+m e e n a i - m a k k a
+m e e r - z i sh
+m e w a h - l e e
+m i m - j a s
+m i m - n a z a
+m u j e e - n a a t
+m u r a k - l e i
+m u z - m e d u l
+m u z - m u z
+n a - k e sh
+n a m - j a
+n e e j a - m e e n
+n e e t a - l i
+n e sh - j a
+n e sh - t a n
+n o l u - a z z a
+n o m u - g o h
+n u l e e m - m a l e m
+o d e e l - m e d u l
+o d e e l - t u l
+o l e e d - m e e n
+o n a i - r u u l
+o n u r a i - m a h t
+o t u m i - w u l m
+o w a i - l a
+p a d - m a x a th
+p a sh - r i h a
+p e e k - m a j i n
+p e k a i - v i l a x
+r a b e e n - e i
+r e e - k i l a y a
+r e e - z i sh
+r e e h - l i
+r e e h - n u r
+s a l i - j a h
+sh a n i l - j a
+sh a z a r a - t a
+sh e i - b e e k u s
+sh e i - ch u n a
+sh e i - o sh e e j a
+s i l m - j u sh a
+s l i m - j a h
+s u p o - g i th
+t a l e n - d u m
+t a n a - t e e u s
+t a r - e i
+t a r - j e k k a
+t a r - sh e h s
+t e e b a - d e e s e i
+t e e b a - j a
+t e e b a - m a k k a
+t i m - k a s i
+t s o n a - e i
+t u m m a - sh a h
+t u n b a m - n a
+u k k a - m e e d i sh
+u l a - r e e n
+u t a - d e e k a
+u t a - t e i
+u w a - j e k k a
+u w a - m e e n u s
+v e e k - g a i
+v e e s t - h a l u
+v e e s t - n a k a l
+v e th - v e i d a l
+v u h - n a a t
+w a n a m - b e t u
+w a n a m - j a a
+w e e d u m - j a
+w i h - j a t
+w u j a - e i
+w u l e e n - z e
+x i j a i - t e e l
+x i l - z i sh
+z a sh a - j a

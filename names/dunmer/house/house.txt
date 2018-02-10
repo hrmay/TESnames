@@ -1,1 +1,6 @@
-Hlaalu, Redoran, Dres, Sadras, Telvanni, Indoril
+hlaalu
+redoran
+dres
+sadras
+telvanni
+indoril

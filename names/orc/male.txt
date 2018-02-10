@@ -1,1 +1,769 @@
-Moghakh, Atulg, Azuk, Bagamul, Bakh, Baronk, Bashag, Bazgulub, Bogakh, Bologra, Borug, Both, Bugdul, Bugharz, Bugrash, Bugrol, Bumbub, Burul, Dul, Dular, Duluk, Duma, Dumbuk, Dumburz, Dur, Durbul, Durgash, Durz, Durzol, Durzub, Durzum, Garothmuk, Garzonk, Gashna, Ghamborz, Ghamonk, Ghoragdush, Ghorlorz, Glush, Grat, Gruzgob, Guarg, Gurak, Khadba, Khagra, Khargol, Koffutto, Largakh, Lorbumol, Lorzub, Lugdum, Lugrub, Lurog, Mash, Matuk, Mauhul, Mazorn, Mol, Morbash, Mug, Mugdul, Muk, Murag, Murkub, Murzol, Muzgonk, Nag, Nar, Nash, Ogrul, Ogrumbu, Olfin, Olumba, Orakh, Rogdul, Shakh, Shamar, Shamob, Shargam, Sharkub, Shat, Shazgob, Shulong, Shura, Shurkul, Shuzug, Snaglak, Snakha, Snat, Ugdumph, Ughash, Ulam, Umug, Uram, Urim, Urul, Urzog, Ushamph, Ushat, Yadba, Yagak, Yak, Yam, Yambagorn, Yambul, Yargol, Yashnarz, Yatur, Makor, Olpak, Agronak, Bat, Bazur, Brugo, Bogrum, Brag, Brokil, Bugak, Buramog, Burz, Dubok, Dul, Dulfish, Dulphumph, Dumag, Gaturn, Ghola, Ghorub, Gogron, Gorgo, Graklak, Graman, Grommok, Gul, Hanz, Krognak, Kurdan, Kurz, Lum, Lumdum, Luronk, Magra, Magub, Maknok, Mug, Orok, Rugdumph, Shagol, Shagrol, Shobob, Shum, Ulmug, Urbul, Urul, Ushnar, Uzul, Mogrul, Balagog, Bashnag, Borkul, Burguk, Durak, Dushnamub, Gadba, Gat, Ghamorz, Ghorbash, Ghunzul, Grogmar, Grushnag, Gularzob, Kharag, Larak, Lob, Lurbuk, Mahk, Makhel, Malkus, Mauhulakh, Moth, Mul, Mulush, Nagrub, Oglub, Ogol, Olur, Ulag, Umurn, Urag, Yamarz, Yar, Dugrul, Gashzug, Kharg, Luz, Molg, Morg, Mungro, Ograt, Smagg, Abzag, Abzrolg, Abzug, Agganor, Aghurz, Agnar, Agrakh, Agrobal, Agstarg, Aguz, Ahzug, Arghragdush, Arghur, Ashzu, Aturgh, Avreg, Azarg, Azgarub, Azimbul, Balarkh, Balknakh, Balmeg, Baloth, Balrook, Balzag, Bargo, Bargrug, Bash, Bashagorn, Batgrul, Bazrag, Begnar, Bekhwug, Bhagrun, Biknuk, Bisquelas, Blodrat, Boagog, Boggeryk, Bogham, Bognash, Bogodug, Bogzul, Bolg, Bolgrul, Borab, Borbuz, Borgath, Borgh, Bormolg, Borolg, Borth, Borz, Borzighu, Borzugh, Braadoth, Braghul, Brog, Brogdul, Brugagikh, Brugdush, Brughamug, Brulak, Bugnerg, Bugunh, Bulg, Bullig, Bulugbek, Bulzog, Bulozog, Bumnog, Buragrub, Burzgrag, Burzunguk, Burzura, Buzog, Carzog, Charlvain, Cognor, Dagnub, Dorzogg, Dromash, Dugakh, Dugan, Dugroth, Dugtosh, Dugug, Dugugikh, Dular, Dulph, Dulphago, Dulrat, Dumolg, Durak, Dushgor, Dushkul, Dushugg, Fangoz, Farbalg, Fheg, Gahgdar, Gahznar, Gard, Gargak, Garmeg, Garnikh, Gashdug, Gasheg, Gezdak, Gezorz, Ghagrub, Ghak, Ghaknag, Ghamron, Ghamulg, Ghashur, Ghatrugh, Ghaturn, Ghaz, Ghobargh, Ghogurz, Ghorn, Ghornag, Ghornugag, Ghrategg, Ghromrash, Gladba, Glag, Glagbor, Glamalg, Glaz, Glazgor, Glazulg, Glegokh, Gloorag, Gloorot, Glorgzorgo, Gloth, Glothozug, Glud, Glundeg, Glunrum, Glunurgakh, Glurdag, Glurnt, Glushonkh, Gluthob, Gluthush, Gobur, Goburbak, Godrun, Gogaz, Gogbag, Gogrikh, Goh, Gohazgu, Golbag, Golg, Goorgul, Goragol, Gorak, Goramalg, Gorbakh, Gorblad, Gorbu, Gordag, Gorgath, Gorgrolg, Gorlar, Gorotho, Gorrath, Goruz, Gorzesh, Gothurg, Gozarth, Graalug, Gralturg, Grashbag, Grashub, Gravik, Grezgor, Grishduf, Grodagur, Grodoguz, Gronov, Grookh, Grubdosh, Grudogub, Grugnur, Grulbash, Gruldum, Gruloq, Gruluk, Grulzul, Grumth, Grunyun, Grushbub, Grushnag, Gruudus, Gruzdash, Gruznak, Gulargh, Gulburz, Gulug, Gulzog, Gunagud, Gunran, Gurg, Gurgozod, Gurlak, Guruzug, Guzg, Gwilherm, Hagard, Horak, Ilthag, Inazzur, Kargnuth, Kazok, Kelrog, Kentosh, Khal, Khamagash, Kharsh, Kharsthun, Khartag, Khoruzoth, Khralek, Kurog, Kirgut, Klang, Klovag, Kogaz, Kradauk, Krodak, Krog, Krogrash, Kulth, Kurd, Kurlash, Lagarg, Lagrog, Lahkgarg, Lakhalg, Lakhdosh, Larhoth, Larob, Lashbag, Latumph, Laurig, Lazgel, Lob, Logbur, Logogru, Logrun, Lorbash, Lothdush, Lothgud, Lozotusk, Lozruth, Lug, Lugbagg, Lugbur, Lugdakh, Lugdugul, Lugnikh, Lugolg, Lugrots, Lugrun, Lugzod, Lum, Lumgol, Lungruk, Lunk, Lurash, Lurbozog, Lurg, Lurgonash, Luzmash, Maaga, Mag, Magunh, Makhoguz, Makhug, Marzul, Maugash, Mauhoth, Mazabakh, Mazgro, Mazogug, Mekag, Mog, Mogazgur, Mogrub, Mokhrul, Mokhul, Mordrog, Mordugul, Mordularg, Morgaz, Morgbrath, Morlak, Morothmash, Morotub, Mort, Mothozog, Muduk, Mudush, Muglugd, Muhaimin, Mulatub, Mulgargh, Mulgu, Mulur, Mulzalt, Murdodosh, Murgonak, Murgoz, Murgrud, Murkh, Murlog, Murukh, Murzog, Muzbar, Muzdrulz, Muzgalg, Muzgash, Muzgu, Muzogu, Nagoth, Nagrul, Nahzgra, Nahzush, Namoroth, Narazz, Nargbagorn, Narhag, Narkhagikh, Narkhozikh, Narkhukulg, Narkularz, Nash, Nenesh, Norgol, Nugok, Nugwugg, Nunkuk, Obdeg, Obgol, Obgurob, Obrash, Ofglog, Ogmash, Ogog, Ogorosh, Ogozod, Ogruk, Ogularz, Ogumalg, Ogzor, Okrat, Olfim, Olfin, Olgol, Olugush, Ontogu, Oodeg, Oodegu, Oorg, Oorgurn, Oorlug, Ordooth, Orgak, Orgdugrash, Orgotash, Orntosh, Orzbara, Orzuk, Osgrikh, Osgulug, Othbug, Othigu, Othogor, Othohoth, Otholug, Othukul, Othulg, Othzog, Ozor, Pergol, Putor, Rablarz, Ragbul, Ragbur, Ragnast, Ramash, Ramazbur, Ramorgol, Ramosh, Razgor, Razgugul, Rhosh, Rogbum, Rognar, Rogrug, Rogurog, Rokaug, Rokut, Roog, Rooglag, Rorburz, Rozag, Rugdugbash, Rugmeg, Ruzgrol, Sgagul, Sgolag, Shab, Shagol, Shagrod, Shakh, Shakhighu, Shamar, Shamlakh, Shargarkh, Shargunh, Sharkagub, Sharkuzog, Sharnag, Shogorn, Shugral, Shukul, Shulthog, Shurkol, Skagurn, Skagwar, Skalgunh, Skalguth, Skarath, Skordo, Skulzak, Slagwug, Slayag, Slegbash, Smagbogoth, Smauk, Snagbash, Snagg, Snagh, Snakh, Snakzut, Snalikh, Snarbugag, Snargorg, Snazumph, Snegbug, Snegburgak, Snegh, Snikhbat, Snoog, Snoorg, Snugar, Snugok, Snukh, Snushbat, Sogh, Spagel, Storgh, Stugbrulz, Stugbulukh, Szugburg, Szugogroth, Targoth, Tazgol, Tazgul, Thagbush, Thakh, Thakush, Tharag, Tharkul, Thaz, Thazeg, Thaznog, Thegur, Thereg, Tholog, Thorzh, Thorzhul, Thrag, Thragdosh, Thragosh, Threg, Thrug, Thrugb, Thukbug, Thungdosh, Todrak, Togbrig, Tograz, Torg, Torug, Tugam, Tugawuz, Tumuthag, Tungthu, Ufthag, Ugdush, Uggnath, Ugorz, Ugruntuk, Uguntig, Ugurz, Ulagash, Ulagug, Ulang, Ulgdagorn, Ulghesh, Ulmamug, Ulozikh, Undrigug, Undugar, Ungruk, Unrahg, Unthrikh, Uragor, Urak, Urdbug, Urgdosh, Urok, Ushang, Usn, Usnagikh, Uulgarg, Uuth, Uznom, Vargos, Waghuth, Wardush, Wort, Yagorkh, Yagramak, Yakegg, Yamukuz, Yargob, Yarnabakh, Yarnag, Yarulg, Yat, Yggnast, Yggoz, Yggruk, Yzzgol, Zagh, Zaghurbak, Zagrakh, Zagrugh, Zbulg, Zegol, Zgog, Zhagush, Zhasim*, Zhosh, Zilbash, Zogbag, Zulbash, Zulgozu, Zulgukh, Zungarg, Zunlog
+m o gh a kh
+a t u l g
+a z u k
+b a g a m u l
+b a kh
+b a r o n k
+b a sh a g
+b a z g u l u b
+b o g a kh
+b o l o g r a
+b o r u g
+b o th
+b u g d u l
+b u gh a r z
+b u g r a sh
+b u g r o l
+b u m b u b
+b u r u l
+d u l
+d u l a r
+d u l u k
+d u m a
+d u m b u k
+d u m b u r z
+d u r
+d u r b u l
+d u r g a sh
+d u r z
+d u r z o l
+d u r z u b
+d u r z u m
+g a r o th m u k
+g a r z o n k
+g a sh n a
+gh a m b o r z
+gh a m o n k
+gh o r a g d u sh
+gh o r l o r z
+g l u sh
+g r a t
+g r u z g o b
+g u a r g
+g u r a k
+kh a d b a
+kh a g r a
+kh a r g o l
+k o f f u t t o
+l a r g a kh
+l o r b u m o l
+l o r z u b
+l u g d u m
+l u g r u b
+l u r o g
+m a sh
+m a t u k
+m a u h u l
+m a z o r n
+m o l
+m o r b a sh
+m u g
+m u g d u l
+m u k
+m u r a g
+m u r k u b
+m u r z o l
+m u z g o n k
+n a g
+n a r
+n a sh
+o g r u l
+o g r u m b u
+o l f i n
+o l u m b a
+o r a kh
+r o g d u l
+sh a kh
+sh a m a r
+sh a m o b
+sh a r g a m
+sh a r k u b
+sh a t
+sh a z g o b
+sh u l o n g
+sh u r a
+sh u r k u l
+sh u z u g
+s n a g l a k
+s n a kh a
+s n a t
+u g d u m ph
+u gh a sh
+u l a m
+u m u g
+u r a m
+u r i m
+u r u l
+u r z o g
+u sh a m ph
+u sh a t
+y a d b a
+y a g a k
+y a k
+y a m
+y a m b a g o r n
+y a m b u l
+y a r g o l
+y a sh n a r z
+y a t u r
+m a k o r
+o l p a k
+a g r o n a k
+b a t
+b a z u r
+b r u g o
+b o g r u m
+b r a g
+b r o k i l
+b u g a k
+b u r a m o g
+b u r z
+d u b o k
+d u l
+d u l f i sh
+d u l ph u m ph
+d u m a g
+g a t u r n
+gh o l a
+gh o r u b
+g o g r o n
+g o r g o
+g r a k l a k
+g r a m a n
+g r o m m o k
+g u l
+h a n z
+k r o g n a k
+k u r d a n
+k u r z
+l u m
+l u m d u m
+l u r o n k
+m a g r a
+m a g u b
+m a k n o k
+m u g
+o r o k
+r u g d u m ph
+sh a g o l
+sh a g r o l
+sh o b o b
+sh u m
+u l m u g
+u r b u l
+u r u l
+u sh n a r
+u z u l
+m o g r u l
+b a l a g o g
+b a sh n a g
+b o r k u l
+b u r g u k
+d u r a k
+d u sh n a m u b
+g a d b a
+g a t
+gh a m o r z
+gh o r b a sh
+gh u n z u l
+g r o g m a r
+g r u sh n a g
+g u l a r z o b
+kh a r a g
+l a r a k
+l o b
+l u r b u k
+m a h k
+m a kh e l
+m a l k u s
+m a u h u l a kh
+m o th
+m u l
+m u l u sh
+n a g r u b
+o g l u b
+o g o l
+o l u r
+u l a g
+u m u r n
+u r a g
+y a m a r z
+y a r
+d u g r u l
+g a sh z u g
+kh a r g
+l u z
+m o l g
+m o r g
+m u n g r o
+o g r a t
+s m a g g
+a b z a g
+a b z r o l g
+a b z u g
+a g g a n o r
+a gh u r z
+a g n a r
+a g r a kh
+a g r o b a l
+a g s t a r g
+a g u z
+a h z u g
+a r gh r a g d u sh
+a r gh u r
+a sh z u
+a t u r gh
+a v r e g
+a z a r g
+a z g a r u b
+a z i m b u l
+b a l a r kh
+b a l k n a kh
+b a l m e g
+b a l o th
+b a l r o o k
+b a l z a g
+b a r g o
+b a r g r u g
+b a sh
+b a sh a g o r n
+b a t g r u l
+b a z r a g
+b e g n a r
+b e kh w u g
+bh a g r u n
+b i k n u k
+b i s q u e l a s
+b l o d r a t
+b o a g o g
+b o g g e r y k
+b o gh a m
+b o g n a sh
+b o g o d u g
+b o g z u l
+b o l g
+b o l g r u l
+b o r a b
+b o r b u z
+b o r g a th
+b o r gh
+b o r m o l g
+b o r o l g
+b o r th
+b o r z
+b o r z i gh u
+b o r z u gh
+b r a a d o th
+b r a gh u l
+b r o g
+b r o g d u l
+b r u g a g i kh
+b r u g d u sh
+b r u gh a m u g
+b r u l a k
+b u g n e r g
+b u g u n h
+b u l g
+b u l l i g
+b u l u g b e k
+b u l z o g
+b u l o z o g
+b u m n o g
+b u r a g r u b
+b u r z g r a g
+b u r z u n g u k
+b u r z u r a
+b u z o g
+c a r z o g
+ch a r l v a i n
+c o g n o r
+d a g n u b
+d o r z o g g
+d r o m a sh
+d u g a kh
+d u g a n
+d u g r o th
+d u g t o sh
+d u g u g
+d u g u g i kh
+d u l a r
+d u l ph
+d u l ph a g o
+d u l r a t
+d u m o l g
+d u r a k
+d u sh g o r
+d u sh k u l
+d u sh u g g
+f a n g o z
+f a r b a l g
+fh e g
+g a h g d a r
+g a h z n a r
+g a r d
+g a r g a k
+g a r m e g
+g a r n i kh
+g a sh d u g
+g a sh e g
+g e z d a k
+g e z o r z
+gh a g r u b
+gh a k
+gh a k n a g
+gh a m r o n
+gh a m u l g
+gh a sh u r
+gh a t r u gh
+gh a t u r n
+gh a z
+gh o b a r gh
+gh o g u r z
+gh o r n
+gh o r n a g
+gh o r n u g a g
+gh r a t e g g
+gh r o m r a sh
+g l a d b a
+g l a g
+g l a g b o r
+g l a m a l g
+g l a z
+g l a z g o r
+g l a z u l g
+g l e g o kh
+g l o o r a g
+g l o o r o t
+g l o r g z o r g o
+g l o th
+g l o th o z u g
+g l u d
+g l u n d e g
+g l u n r u m
+g l u n u r g a kh
+g l u r d a g
+g l u r n t
+g l u sh o n kh
+g l u th o b
+g l u th u sh
+g o b u r
+g o b u r b a k
+g o d r u n
+g o g a z
+g o g b a g
+g o g r i kh
+g o h
+g o h a z g u
+g o l b a g
+g o l g
+g o o r g u l
+g o r a g o l
+g o r a k
+g o r a m a l g
+g o r b a kh
+g o r b l a d
+g o r b u
+g o r d a g
+g o r g a th
+g o r g r o l g
+g o r l a r
+g o r o th o
+g o r r a th
+g o r u z
+g o r z e sh
+g o th u r g
+g o z a r th
+g r a a l u g
+g r a l t u r g
+g r a sh b a g
+g r a sh u b
+g r a v i k
+g r e z g o r
+g r i sh d u f
+g r o d a g u r
+g r o d o g u z
+g r o n o v
+g r o o kh
+g r u b d o sh
+g r u d o g u b
+g r u g n u r
+g r u l b a sh
+g r u l d u m
+g r u l o q
+g r u l u k
+g r u l z u l
+g r u m th
+g r u n y u n
+g r u sh b u b
+g r u sh n a g
+g r u u d u s
+g r u z d a sh
+g r u z n a k
+g u l a r gh
+g u l b u r z
+g u l u g
+g u l z o g
+g u n a g u d
+g u n r a n
+g u r g
+g u r g o z o d
+g u r l a k
+g u r u z u g
+g u z g
+g w i l h e r m
+h a g a r d
+h o r a k
+i l th a g
+i n a z z u r
+k a r g n u th
+k a z o k
+k e l r o g
+k e n t o sh
+kh a l
+kh a m a g a sh
+kh a r sh
+kh a r s th u n
+kh a r t a g
+kh o r u z o th
+kh r a l e k
+k u r o g
+k i r g u t
+k l a n g
+k l o v a g
+k o g a z
+k r a d a u k
+k r o d a k
+k r o g
+k r o g r a sh
+k u l th
+k u r d
+k u r l a sh
+l a g a r g
+l a g r o g
+l a h k g a r g
+l a kh a l g
+l a kh d o sh
+l a r h o th
+l a r o b
+l a sh b a g
+l a t u m ph
+l a u r i g
+l a z g e l
+l o b
+l o g b u r
+l o g o g r u
+l o g r u n
+l o r b a sh
+l o th d u sh
+l o th g u d
+l o z o t u s k
+l o z r u th
+l u g
+l u g b a g g
+l u g b u r
+l u g d a kh
+l u g d u g u l
+l u g n i kh
+l u g o l g
+l u g r o t s
+l u g r u n
+l u g z o d
+l u m
+l u m g o l
+l u n g r u k
+l u n k
+l u r a sh
+l u r b o z o g
+l u r g
+l u r g o n a sh
+l u z m a sh
+m a a g a
+m a g
+m a g u n h
+m a kh o g u z
+m a kh u g
+m a r z u l
+m a u g a sh
+m a u h o th
+m a z a b a kh
+m a z g r o
+m a z o g u g
+m e k a g
+m o g
+m o g a z g u r
+m o g r u b
+m o kh r u l
+m o kh u l
+m o r d r o g
+m o r d u g u l
+m o r d u l a r g
+m o r g a z
+m o r g b r a th
+m o r l a k
+m o r o th m a sh
+m o r o t u b
+m o r t
+m o th o z o g
+m u d u k
+m u d u sh
+m u g l u g d
+m u h a i m i n
+m u l a t u b
+m u l g a r gh
+m u l g u
+m u l u r
+m u l z a l t
+m u r d o d o sh
+m u r g o n a k
+m u r g o z
+m u r g r u d
+m u r kh
+m u r l o g
+m u r u kh
+m u r z o g
+m u z b a r
+m u z d r u l z
+m u z g a l g
+m u z g a sh
+m u z g u
+m u z o g u
+n a g o th
+n a g r u l
+n a h z g r a
+n a h z u sh
+n a m o r o th
+n a r a z z
+n a r g b a g o r n
+n a r h a g
+n a r kh a g i kh
+n a r kh o z i kh
+n a r kh u k u l g
+n a r k u l a r z
+n a sh
+n e n e sh
+n o r g o l
+n u g o k
+n u g w u g g
+n u n k u k
+o b d e g
+o b g o l
+o b g u r o b
+o b r a sh
+o f g l o g
+o g m a sh
+o g o g
+o g o r o sh
+o g o z o d
+o g r u k
+o g u l a r z
+o g u m a l g
+o g z o r
+o k r a t
+o l f i m
+o l f i n
+o l g o l
+o l u g u sh
+o n t o g u
+o o d e g
+o o d e g u
+o o r g
+o o r g u r n
+o o r l u g
+o r d o o th
+o r g a k
+o r g d u g r a sh
+o r g o t a sh
+o r n t o sh
+o r z b a r a
+o r z u k
+o s g r i kh
+o s g u l u g
+o th b u g
+o th i g u
+o th o g o r
+o th o h o th
+o th o l u g
+o th u k u l
+o th u l g
+o th z o g
+o z o r
+p e r g o l
+p u t o r
+r a b l a r z
+r a g b u l
+r a g b u r
+r a g n a s t
+r a m a sh
+r a m a z b u r
+r a m o r g o l
+r a m o sh
+r a z g o r
+r a z g u g u l
+r h o sh
+r o g b u m
+r o g n a r
+r o g r u g
+r o g u r o g
+r o k a u g
+r o k u t
+r o o g
+r o o g l a g
+r o r b u r z
+r o z a g
+r u g d u g b a sh
+r u g m e g
+r u z g r o l
+s g a g u l
+s g o l a g
+sh a b
+sh a g o l
+sh a g r o d
+sh a kh
+sh a kh i gh u
+sh a m a r
+sh a m l a kh
+sh a r g a r kh
+sh a r g u n h
+sh a r k a g u b
+sh a r k u z o g
+sh a r n a g
+sh o g o r n
+sh u g r a l
+sh u k u l
+sh u l th o g
+sh u r k o l
+s k a g u r n
+s k a g w a r
+s k a l g u n h
+s k a l g u th
+s k a r a th
+s k o r d o
+s k u l z a k
+s l a g w u g
+s l a y a g
+s l e g b a sh
+s m a g b o g o th
+s m a u k
+s n a g b a sh
+s n a g g
+s n a gh
+s n a kh
+s n a k z u t
+s n a l i kh
+s n a r b u g a g
+s n a r g o r g
+s n a z u m ph
+s n e g b u g
+s n e g b u r g a k
+s n e gh
+s n i kh b a t
+s n o o g
+s n o o r g
+s n u g a r
+s n u g o k
+s n u kh
+s n u sh b a t
+s o gh
+s p a g e l
+s t o r gh
+s t u g b r u l z
+s t u g b u l u kh
+s z u g b u r g
+s z u g o g r o th
+t a r g o th
+t a z g o l
+t a z g u l
+th a g b u sh
+th a kh
+th a k u sh
+th a r a g
+th a r k u l
+th a z
+th a z e g
+th a z n o g
+th e g u r
+th e r e g
+th o l o g
+th o r zh
+th o r zh u l
+th r a g
+th r a g d o sh
+th r a g o sh
+th r e g
+th r u g
+th r u g b
+th u k b u g
+th u n g d o sh
+t o d r a k
+t o g b r i g
+t o g r a z
+t o r g
+t o r u g
+t u g a m
+t u g a w u z
+t u m u th a g
+t u n g th u
+u f th a g
+u g d u sh
+u g g n a th
+u g o r z
+u g r u n t u k
+u g u n t i g
+u g u r z
+u l a g a sh
+u l a g u g
+u l a n g
+u l g d a g o r n
+u l gh e sh
+u l m a m u g
+u l o z i kh
+u n d r i g u g
+u n d u g a r
+u n g r u k
+u n r a h g
+u n th r i kh
+u r a g o r
+u r a k
+u r d b u g
+u r g d o sh
+u r o k
+u sh a n g
+u s n
+u s n a g i kh
+u u l g a r g
+u u th
+u z n o m
+v a r g o s
+w a gh u th
+w a r d u sh
+w o r t
+y a g o r kh
+y a g r a m a k
+y a k e g g
+y a m u k u z
+y a r g o b
+y a r n a b a kh
+y a r n a g
+y a r u l g
+y a t
+y g g n a s t
+y g g o z
+y g g r u k
+y z z g o l
+z a gh
+z a gh u r b a k
+z a g r a kh
+z a g r u gh
+z b u l g
+z e g o l
+z g o g
+zh a g u sh
+zh a s i m*
+zh o sh
+z i l b a sh
+z o g b a g
+z u l b a sh
+z u l g o z u
+z u l g u kh
+z u n g a r g
+z u n l o g

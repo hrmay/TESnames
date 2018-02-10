@@ -1,1 +1,27 @@
-Cairine, Daighre, Bothela, Erith, Fianna, Kaie, Mena, Modhna, Muiri, Rhiada, Uaile, Voada, Dhalana, Caillaoife, Morrigh, Caleigh, Delighre, Otha, Ouida, Sibellech, Tahla, Taern, Themond, Virech, Vitach, Chana, Ciadhia
+c a i r i n e
+d a i gh r e
+b o th e l a
+e r i th
+f i a n n a
+k a i e
+m e n a
+m o dh n a
+m u i r i
+rh i a d a
+u a i l e
+v o a d a
+dh a l a n a
+c a i l l a o i f e
+m o r r i gh
+c a l e i gh
+d e l i gh r e
+o th a
+o u i d a
+s i b e l l e ch
+t a h l a
+t a e r n
+th e m o n d
+v i r e ch
+v i t a ch
+ch a n a
+c i a dh i a

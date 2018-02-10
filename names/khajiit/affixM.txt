@@ -1,1 +1,14 @@
-Dar, Do, Dro, J, Ja, Ji, Jo, Ra, Ro, Do, M, Ma, Qa, S
+dar
+do
+dro
+j
+ja
+ji
+jo
+ra
+ro
+do
+m
+ma
+qa
+s

@@ -1,1 +1,641 @@
-Baadargo, Barri, farahn, Qanar, Sakhar, Shavir, Tasarr, Zah, Zaymar, zharim, Zhirr, Dato, Dhannar, Hanir, Jarsha, Jazha, Kara, Jobasha, Jodhur, Ren, Joshur, Thri, Raksa, Rasha, Saddha, Zamha, Zhirr, Dara, Aiq, Jidarr, Khar, Zahn, nashi, Shan, Dar, Karim, Kothre, Mhirr, Sava, Tesh, Virr, Zahr, Zhid, Darsha, Dumiwa, Shajirr, Vassa, Zaadha, Bakha, Sholani, Radirr, Rava, Raverr, Renji, Vandra, virr, Thengil, Urjorad, Wadarkhu, Bhisha, Dahlima, shanji, Hassiri, baana, Baasha, bari, Ghasta, mhad, riska, skar, zidzo, zin, Fazir, Sharr, aiq, Raska, zaddha, dasha, desi, dirr, raaj, Ranarr, vanni, dirsha, Jahirr, Jhan, jhera, jiradh, Bassa, Jirr, Zakar, drassa, rathad, razirr, shani, Urjabhi, marash, darr, datharr, Kier, zargo, zhar, Kharjo, Kesh, dran, jhad, randru, tasarr, zaka, aiq, jirr, kheran, saad, Vasha, Eilam, Khari, Minshur, Sarshar, Touraz, Zarum, jhad, Abal, Abiznaz, Aburapli, Adainji, Adainurr, Adaishir, Adibazal, Adubaer, Adusharu, Ahainar, Ahirunz, Ahmanaz, Airal, Aishar, saz, Akkhuz, Akkuz, Akrah, Alathur, Amarbak, Amargon, Amartash, Amu, Anat, Andal, Anil, Aranak, Arbhuz, Ariashurr, lai, Arukhaz, Arusha, Asal, Asalkin, Athask, Atirr, Azalil, Azarati, Azazi, Azbiasur, Azbishan, Azbishaz, Azdanten, Azezin, Azimaz, Azimsun, Azin, Azurdat, Azzaril, Baezad, Baezad, Bahluk, Baizad, Bakhig, Bakhig, Bakhum, Balag, Balku, Bamak, Barusil, Bashshi, Berantin, Bezur, Bilam, Birakh, Birkhu, Bizahad, Bizalar, Bizurr, Bizuruna, Bulag, Bunul, Burakgum, Buzul, Chezan, Dablir, Dahnkin, Dalac, Dalag, Dalsa, Darak, Dazur, Dhanim, Didakah, Dirsherr, Dro, Duharr, Dulan, Dular, Dulini, Duzal, Duzal, Eilun, Eluzard, Elzhar, Enak, Enik, Eraral, Esan, Ethad, Ezzag, alar, ren, Fahurr, Famazar, Farul, Fazaddu, Feduzdal, Feluz, Fezdal, Fimaz, Ghadar, Ghadffer, Gharesh, Habais, Hadam, Haibak, Haibarr, Hainab, Hainat, Hairan, Halakalal, Halako, Halaral, Halash, Halinad, Halinargo, Halinjirr, Halinuk, Hamansu, Hamiran, Hamus, Hanillal, Haraddal, Harashur, Harzad, Harzdak, Hazad, Hazak, Hazazi, Hazaznaz, Hilan, Hillaz, Himalirr, Himalzur, Himathati, Hirish, Hizdak, Hizurrdo, Hunal, Hurzjhad, Huthak, Iduthal, Ilagurr, Indal, Indalhur, Indur, Inisashu, Inishez, Iragahr, Irgazdul, Irgun, Izandar, Izandskar, Izaniran, Iziran, Izishir, darzi, Eeja, kur, zaraer, zuraar, Jalan, Jarakh, Jaruk, Jherahn, Jherak, Jilan, Jul, Jurak, Kagadur, Kagun, Kalgur, Kalim, Kamjo, Kamu, Kankhu, Kanniz, Kanoo, Kansur, Kanzin, Kargand, Kargnargo, Karpu, Karzik, Kasan, Katinal, Kaushjhargo, Kaushur, Kazbur, Khad, Khakidan, Kharez, Khariz, Khasar, Kheriwa, Khunzum, Kigum, Kikurr, Kirun, Kiturr, Krin Ren, Kul, Kulan, Kuldargo, Kumurr, Kunerr, Kuralit, Kurnamu, Kurnasiran, Kusirnaz, Laknar, Lakurr, Lanbaar, Lansur, Laurri, Linihar, Linihi, aiq, harra, jaddha, nashaar, jhad, jidid, Mabit, Maelen, Maesar, Magarak, Magdundim, Magundim, Maguzas, Mahiralit, Mahirr, Makam, Makid, Makkhzahr, Makmargo, Maladdak, Maladdiq, Malathan, Malathum, Malihaz, Malirzzaka, Malisu, Malizluz, Malkish, Manadzur, Mani, Maniz, Manradh, Manuk, Marafi, Marnub, Masrabal, Mathad, Mathal, Mazag, Mazalish, Mazar, Mazha, Mazil, Mazilbin, Mazirul, Mazirzin, Mazou, Mazram, Mazuk, Mazurr, Mehdir, Mezha, Miczen, Miglah, Mikarash, Mikarur, Milaggul, Mim, Minal, Mirarbinat, Mirarkier, Misapan, Misar, Mishdu, Mizaraben, Mizarbuk, Mizarjirr, Mizashur, Mizibir, Mizibuk, Mizul, Mohkhu, Moj, Mojakuz, Mulabez, Mulabzag, Mulamin, Mulamurr, Munalur, Munanir, Munyat, Muram, Muramskar, Murdan, Muriman, Muruddal, Muslabeh, Muslabliz, Muzur, Nabal, Naburr, Nadara, Nagaddu, Nakkhu, Nakmargo, Nakra, Nanaglar, Narbhulad, Narril, Nasimar, Nasir, Nezashun, Nibihu, Nirajlar, Nulk, Nur, Nurad, Nur, Nurud, Nuzhi, Nuzuk, Oblan, Ohamatur, Pacrooti, Palkun, Palmur, Panizir, Pillazh, Pinar, Pinumur, Puzhbar, tesh, darri, Habasi, Ra, Rabamak, Raban, Radash, Ragariz, Rainazh, Rakgul, Rakhad, Rakhhi, Ralkash, Rathsaz, Rathul, Ravius, Ravzo, Raynan, Razigad, Razum, Razur, Rehan, Renzaiq, shalur, zaadzin, Ribazh, Rid-Thar-ri'Datta, Rinam, Rinami, Runik, Runtash, jash, kinrai, rabbi, rashi, vanez, dir, Sabanurr, Sabashhad, Sabashur, Sabra, Safir, Sahalu, Sahar, Sahaz, Sahban, Salkalar, Salku, Sallit, Sallunas, Samamar, Samardan, Sanadarin, Sanaz, Sandu, Sansen, Sanzan, Saparr, Sattah, Satuhaz, Savar, Semusa, Senadon, Senun, Serarbar, Shaasharr, Shajamah, Shalapaar, Shalubar, Shalirr, Shalubar, Shamal, Shamuniz, Shan, Shansi, Shantin, Shapal, Sharad, Sharaddargo, Sharazka, Sharsheh, Sharul, Shelad, Shelzaka, Shikruz, Shiladur, Shiniraer, Shinizahr, Shintah, Sholas, Sholbiri, Shulargo, Shumishun, Shuzaad, Shuzul, Sibud, Sigul, Silat, Sind, Subid, Suhr, Tabil, Tadhargo, Tahar, Takaman, Takanasur, Takanazh, Takanradh, Tamshur, Tand, Tarak, Tarlar, Tashmin, Tashpir, Thalar, Tishi, Tubidan, Tulashurr, Turan, Turshan, Turuk, Tuzil, Ubraz, Ulularr, Ululmalit, Unnur, Urjen, Uzarnaym, Uzarrur, Uzernurr, Uzurnarr, Vabin, Valirr, Vashai, Vashpar, Whickmuz, Yaharati, Yan, Yanabir, Yanalir, Yandzir, Yazhin, Yazhin, Yenadar, Yenar, Zababi, Zaban, Zaban, Zabka, Zabluk, Zahdarr, Zal, Zalkir, Zamhirr, Zan, Zandur, Zarbidiran, Zargal, Zarziri, Zaydak, Zemiran, hassa, Zharahn, Zhibaral, Zhiranaz, Ziakar, Zibam, Zihlran, Zino, Zur, Zuzik
+b a a d a r g o
+b a r r i
+f a r a h n
+q a n a r
+s a kh a r
+sh a v i r
+t a s a r r
+z a h
+z a y m a r
+zh a r i m
+zh i r r
+d a t o
+dh a n n a r
+h a n i r
+j a r sh a
+j a zh a
+k a r a
+b a sh a
+j o dh u r
+r e n
+sh u r
+th r i
+r a k s a
+r a sh a
+s a d dh a
+z a m h a
+zh i r r
+d a r a
+a i q
+j i d a r r
+kh a r
+z a h n
+n a sh i
+sh a n
+d a r
+k a r i m
+k o th r e
+m h i r r
+s a v a
+t e sh
+v i r r
+z a h r
+zh i d
+d a r sh a
+d u m i w a
+sh a j i r r
+v a s s a
+z a a dh a
+b a kh a
+sh o l a n i
+r a d i r r
+r a v a
+r a v e r r
+r e n j i
+v a n d r a
+v i r r
+th e n g i l
+u r j o r a d
+w a d a r kh u
+b h i sh a
+d a h l i m a
+sh a n j i
+h a s s i r i
+b a a n a
+b a a sh a
+b a r i
+g h a s t a
+m h a d
+r i s k a
+s k a r
+z i d z o
+z i n
+f a z i r
+sh a r r
+a i q
+r a s k a
+z a d dh a
+d a sh a
+d e s i
+d i r r
+r a a j
+r a n a r r
+v a n n i
+d i r sh a
+j a h i r r
+jh a n
+jh e r a
+j i r a dh
+b a s s a
+j i r r
+z a k a r
+d r a s s a
+r a th a d
+z i r r
+sh a n i
+u r j a b h i
+m a r a sh
+d a r r
+d a th a r r
+k i e r
+z a r g o
+zh a r
+kh a r j o
+k e sh
+d r a n
+jh a d
+r a n d r u
+t a s a r r
+z a k a
+a i q
+j i r r
+kh e r a n
+s a a d
+v a sh a
+e i l a m
+kh a r i
+m i n sh u r
+s a r sh a r
+t o u r a z
+z a r u m
+jh a d
+a b a l
+a b i z n a z
+a b u r a p l i
+a d a i n j i
+a d a i n u r r
+a d a i sh i r
+a d i b a z a l
+a d u b a e r
+a d u sh a r u
+a h a i n a r
+a h i r u n z
+a h m a n a z
+a i r a l
+a i sh a r
+s a z
+a k kh u z
+a k k u z
+a k r a h
+a l a th u r
+a m a r b a k
+a m a r g o n
+a m a r t a sh
+a m u
+a n a t
+a n d a l
+a n i l
+a r a n a k
+a r b h u z
+a r i a sh u r r
+l a i
+a r u kh a z
+a r u sh a
+a s a l
+a s a l k i n
+a th a s k
+a t i r r
+a z a l i l
+a z a r a t i
+a z a z i
+a z b i a s u r
+a z b i sh a n
+a z b i sh a z
+a z d a n t e n
+a z e z i n
+a z i m a z
+a z i m s u n
+a z i n
+a z u r d a t
+a z z a r i l
+b a e z a d
+b a e z a d
+b a h l u k
+b a i z a d
+b a kh i g
+b a kh i g
+b a kh u m
+b a l a g
+b a l k u
+b a m a k
+b a r u s i l
+b a sh sh i
+b e r a n t i n
+b e z u r
+b i l a m
+b i r a kh
+b i r kh u
+b i z a h a d
+b i z a l a r
+b i z u r r
+b i z u r u n a
+b u l a g
+b u n u l
+b u r a k g u m
+b u z u l
+ch e z a n
+d a b l i r
+d a h n k i n
+d a l a c
+d a l a g
+d a l s a
+d a r a k
+d a z u r
+dh a n i m
+d i d a k a h
+d i r sh e r r
+d r o
+d u h a r r
+d u l a n
+d u l a r
+d u l i n i
+d u z a l
+d u z a l
+e i l u n
+e l u z a r d
+e l zh a r
+e n a k
+e n i k
+e r a r a l
+e s a n
+e th a d
+e z z a g
+a l a r
+r e n
+f a h u r r
+f a m a z a r
+f a r u l
+f a z a d d u
+f e d u z d a l
+f e l u z
+f e z d a l
+f i m a z
+g h a d a r
+g h a d f f e r
+g h a r e sh
+h a b a i s
+h a d a m
+h a i b a k
+h a i b a r r
+h a i n a b
+h a i n a t
+h a i r a n
+h a l a k a l a l
+h a l a k o
+h a l a r a l
+h a l a sh
+h a l i n a d
+h a l i n a r g o
+h a l i n j i r r
+h a l i n u k
+h a m a n s u
+h a m i r a n
+h a m u s
+h a n i l l a l
+h a r a d d a l
+h a r a sh u r
+h a r z a d
+h a r z d a k
+h a z a d
+h a z a k
+h a z a z i
+h a z a z n a z
+h i l a n
+h i l l a z
+h i m a l i r r
+h i m a l z u r
+h i m a th a t i
+h i r i sh
+h i z d a k
+h i z u r r d o
+h u n a l
+h u r z jh a d
+h u th a k
+i d u th a l
+i l a g u r r
+i n d a l
+i n d a l h u r
+i n d u r
+i n i s a sh u
+i n i sh e z
+i r a g a h r
+i r g a z d u l
+i r g u n
+i z a n d a r
+i z a n d s k a r
+i z a n i r a n
+i z i r a n
+i z i sh i r
+d a r z i
+e e j a
+k u r
+z a r a e r
+z u r a a r
+j a l a n
+j a r a kh
+j a r u k
+jh e r a h n
+jh e r a k
+j i l a n
+j u l
+j u r a k
+k a g a d u r
+k a g u n
+k a l g u r
+k a l i m
+k a m j o
+k a m u
+k a n kh u
+k a n n i z
+k a n o o
+k a n s u r
+k a n z i n
+k a r g a n d
+k a r g n a r g o
+k a r p u
+k a r z i k
+k a s a n
+k a t i n a l
+k a u sh jh a r g o
+k a u sh u r
+k a z b u r
+kh a d
+kh a k i d a n
+kh a r e z
+kh a r i z
+kh a s a r
+kh e r i w a
+kh u n z u m
+k i g u m
+k i k u r r
+k i r u n
+k i t u r r
+k r i n r e n
+k u l
+k u l a n
+k u l d a r g o
+k u m u r r
+k u n e r r
+k u r a l i t
+k u r n a m u
+k u r n a s i r a n
+k u s i r n a z
+l a k n a r
+l a k u r r
+l a n b a a r
+l a n s u r
+l a u r r i
+l i n i h a r
+l i n i h i
+a i q
+h a r r a
+j a d dh a
+n a sh a a r
+jh a d
+j i d i d
+m a b i t
+m a e l e n
+m a e s a r
+m a g a r a k
+m a g d u n d i m
+m a g u n d i m
+m a g u z a s
+m a h i r a l i t
+m a h i r r
+m a k a m
+m a k i d
+m a k kh z a h r
+m a k m a r g o
+m a l a d d a k
+m a l a d d i q
+m a l a th a n
+m a l a th u m
+m a l i h a z
+m a l i r z z a k a
+m a l i s u
+m a l i z l u z
+m a l k i sh
+m a n a d z u r
+m a n i
+m a n i z
+m a n r a dh
+m a n u k
+m a r a f i
+m a r n u b
+m a s r a b a l
+m a th a d
+m a th a l
+m a z a g
+m a z a l i sh
+m a z a r
+m a zh a
+m a z i l
+m a z i l b i n
+m a z i r u l
+m a z i r z i n
+m a z o u
+m a z r a m
+m a z u k
+m a z u r r
+m e h d i r
+m e zh a
+m i c z e n
+m i g l a h
+m i k a r a sh
+m i k a r u r
+m i l a g g u l
+m i m
+m i n a l
+m i r a r b i n a t
+m i r a r k i e r
+m i s a p a n
+m i s a r
+m i sh d u
+m i z a r a b e n
+m i z a r b u k
+m i z a r j i r r
+m i z a sh u r
+m i z i b i r
+m i z i b u k
+m i z u l
+m o h kh u
+m o j
+m o j a k u z
+m u l a b e z
+m u l a b z a g
+m u l a m i n
+m u l a m u r r
+m u n a l u r
+m u n a n i r
+m u n y a t
+m u r a m
+m u r a m s k a r
+m u r d a n
+m u r i m a n
+m u r u d d a l
+m u s l a b e h
+m u s l a b l i z
+m u z u r
+n a b a l
+n a b u r r
+n a d a r a
+n a g a d d u
+n a k kh u
+n a k m a r g o
+n a k r a
+n a n a g l a r
+n a r b h u l a d
+n a r r i l
+n a s i m a r
+n a s i r
+n e z a sh u n
+n i b i h u
+n i r a j l a r
+n u l k
+n u r
+n u r a d
+n u r
+n u r u d
+n u zh i
+n u z u k
+o b l a n
+o h a m a t u r
+p a c r o o t i
+p a l k u n
+p a l m u r
+p a n i z i r
+p i l l a zh
+p i n a r
+p i n u m u r
+p u zh b a r
+t e sh
+d a r r i
+h a b a s i
+r a
+r a b a m a k
+r a b a n
+r a d a sh
+r a g a r i z
+r a i n a zh
+r a k g u l
+r a kh a d
+r a kh h i
+r a l k a sh
+r a th s a z
+r a th u l
+r a v i u s
+r a v z o
+r a y n a n
+r a z i g a d
+r a z u m
+r a z u r
+r e h a n
+r e n z a i q
+sh a l u r
+z a a d z i n
+r i b a zh
+r i d - th a r - r i ' d a t t a
+r i n a m
+r i n a m i
+r u n i k
+r u n t a sh
+j a sh
+k i n r a i
+r a b b i
+r a sh i
+v a n e z
+d i r
+s a b a n u r r
+s a b a sh h a d
+s a b a sh u r
+s a b r a
+s a f i r
+s a h a l u
+s a h a r
+s a h a z
+s a h b a n
+s a l k a l a r
+s a l k u
+s a l l i t
+s a l l u n a s
+s a m a m a r
+s a m a r d a n
+s a n a d a r i n
+s a n a z
+s a n d u
+s a n s e n
+s a n z a n
+s a p a r r
+s a t t a h
+s a t u h a z
+s a v a r
+s e m u s a
+s e n a d o n
+s e n u n
+s e r a r b a r
+sh a a sh a r r
+sh a j a m a h
+sh a l a p a a r
+sh a l u b a r
+sh a l i r r
+sh a l u b a r
+sh a m a l
+sh a m u n i z
+sh a n
+sh a n s i
+sh a n t i n
+sh a p a l
+sh a r a d
+sh a r a d d a r g o
+sh a r a z k a
+sh a r sh e h
+sh a r u l
+sh e l a d
+sh e l z a k a
+sh i k r u z
+sh i l a d u r
+sh i n i r a e r
+sh i n i z a h r
+sh i n t a h
+sh o l a s
+sh o l b i r i
+sh u l a r g o
+sh u m i sh u n
+sh u z a a d
+sh u z u l
+s i b u d
+s i g u l
+s i l a t
+s i n d
+s u b i d
+s u h r
+t a b i l
+t a dh a r g o
+t a h a r
+t a k a m a n
+t a k a n a s u r
+t a k a n a zh
+t a k a n r a dh
+t a m sh u r
+t a n d
+t a r a k
+t a r l a r
+t a sh m i n
+t a sh p i r
+th a l a r
+t i sh i
+t u b i d a n
+t u l a sh u r r
+t u r a n
+t u r sh a n
+t u r u k
+t u z i l
+u b r a z
+u l u l a r r
+u l u l m a l i t
+u n n u r
+u r j e n
+u z a r n a y m
+u z a r r u r
+u z e r n u r r
+u z u r n a r r
+v a b i n
+v a l i r r
+v a sh a i
+v a sh p a r
+w h i c k m u z
+y a h a r a t i
+y a n
+y a n a b i r
+y a n a l i r
+y a n d z i r
+y a zh i n
+y a zh i n
+y e n a d a r
+y e n a r
+z a b a b i
+z a b a n
+z a b a n
+z a b k a
+z a b l u k
+z a h d a r r
+z a l
+z a l k i r
+z a m h i r r
+z a n
+z a n d u r
+z a r b i d i r a n
+z a r g a l
+z a r z i r i
+z a y d a k
+z e m i r a n
+h a s s a
+zh a r a h n
+zh i b a r a l
+zh i r a n a z
+z i a k a r
+z i b a m
+z i h l r a n
+z i n o
+z u r
+z u z i k

@@ -1,1 +1,679 @@
-Aldaril, Anarenen, Andil, Angoril, Armion, Aronil, Arrille, Athellor, Carecalmo, Caryarel, Earmil, Eraamion, Erundil, Fainertil, Falanaamo, Fanildil, Fiiriel, Gladroon, Hecerinde, Hyarnarenquar, Ilmiril, Inganar, Iroroon, Itermerel, Kardryn, Landorume, Meanen, Meryaran, Mollimo, Moranarg, Mororurg, Mossanon, Nande, Nelacar, Norionil, Olquar, Qorwynn, Rimintil, Rumare, Sanyon, Seanwen, Sinyaramen, Sorcalin, Tauryon, Telinturco, Tragrim, Tunengore, Tusamircil, Tyermaillin, Umbacano, Undil, Uulernil, Volanaro, Yakov, Yanniss, Yarnar, Ancotar, Angalmo, Aranath, Areldil, Areldur, Arkved, Arterion, Calindil, Carandial, Celedaen, Cirion, Earil, Eldamil, Elidor, Enrion, Errandil, Faelian, Falcar, Gilgondorin, Halion, Henantier, Hindaril, Hirtel, Honditar, Lithnilian, Mankar, Mannimarco, Merandil, Merildor, Ocato, Ohtimbar, Orintur, Ormil, Raven, Salmo, Seridur, Sinderion, Suurootan, Tilmo, Tumindil, Umbacano, Ungarion, Volanaro, Voranil, Aicantar, Ancano, Ancarion, Aringoth, Arondil, Calcelmo, Estormo, Fasendil, Kornalus, Linwe, Lorcalin, Melaran, Muril, Naris, Nelacar, Nerien, Nurelion, Ondolemar, Orthorn, Quaranir, Rulindil, Runil, Sanyon, Tandil, Ulundil, Valmir, Viarmo, Vingalmo, Absolon, Aenthannir, Aesmer, Aesril, Aicaano, Aicessar, Ainaame, Aldimion, Aldolin, Almion, Alrdorion, Alturco, Aluvus, Amballicil, Ambucilion, Ambaran, Aminyon, Amyril, Anarume, Ancalmo, Ancarive, Ancemen, Ancolcalion, Andame, Andresalmo, Andur, Angamar, Angardil, Angedreth, Angiente, Ango, Angolin, Anquen, Antur, Anyon, Aonus, Aracar, Aralyon, Arantar, Arcarin, Ardorin, Arelmo, Arfanel, Arindur, Arunen, Aryamo, Aryon, Astor, Atalmo, Ateldil, Atirion, Blanchete, Caalore, Caalorne, Caano, Caerel, Calanor, Calastil, Calcamar, Caldandien, Caldartur, Caldien, Caldil, Caledeen, Calenus, Calion, Calondil, Calpelion, Calpion, Calunorril, Camaano, Camarelur, Camarino, Carindon, Carmion, Cassirion, Ceborn, Cebroon, Cingarfin, Cinildil, Cinnar, Cinosarion, Ciral, Cirandur, Circimure, Cirdur, Cirendur, Ciricollo, Cirimion, Cirion, Cirmo, Cirorlin, Ciryarel, Ciryefarion, Colmorion, Colotarion, Condalin, Coristir, Cornar, Cuilacelmo, Cuilalme, Cuinur, Curinure, Curissil, Curtaarimon, Curvanen, Dandos, Duperil, Ealcil, Eancar, Eanor, Eanurlemar, Earamon, Earanyon, Eardir, Earelcar, Earil, Earomar, Earos, Earran, Earrastel, Ehran, Elanaldur, Elanar, Elanninur, Eldecil, Elderien, Eldinaran, Eldumoril, Eldyme, Eleril, Elikar, Elodinar, Elonde, Elondil, Elpion, Elurmeril, Elurtalmo, Elwintinar, Emecelmo, Endaron, Endarwe, Enelon, Envaril, Eraaman, Eraman, Eranamo, Erancar, Erannin, Eremind, Erendil, Erolndil, Erthelgor, Erunien, Eryarion, Eryeril, Erymil, Eryon, Esaranir, Eslendore, Essaldur, Estaamo, Esteltin, Esuren, Fabanil, Fainorume, Faladil, Falion, Falutur, Faninmandon, Fanorne, Fanyarel, Farcaano, Farmir, Farmorion, Fasaran, Fasion, Fasundil, Fenarcalmo, Fenderil, Fenlil, Fenoromir, Ferlulril, Ferordomas, Fiirenir, Fimrimion, Findarninur, Finemo, Finunval, Firamo, Firen, Firisar, Firtirantar, Galalrimon, Galondorn, Gilien, Glamran, Gothrarth, Guillaume, Hadelar, Haldoril, Halidur, Halinirya, Halino, Hanil, Hanilan, Hecalindil, Helaran, Heldil, Helemil, Helpirion, Henaamo, Henaril, Hendare, Hendaril, Hendil, Henendor, Henyon, Heratir, Hervarion, Heryemo, Hesolmo, Hinaamo, Hyalan, Hyamir, Hyandorril, Hydalion, Hymonim, Ilmindil, Ilmure, Ilwen, Indilure, Indure, Indyen, Ingamircil, Ingatalmo, Iralundore, Iramo, Irvulil, Isiraamo, Itaalel, Iteldil, Itumil, Iwelien, Kelurmend, Landomas, Lanilian, Lanrian, Laronen, Laruumorien, Laryantil, Laurosse, Lenarmen, Lendetelmo, Lenendore, Lenolin, Lenwe, Lermion, Lernuvaril, Lindel, Lingarmoril, Lingonir, Linormo, Linwirmion, Linyon, Lisdebar, Lisondor, Lisotel, Lithindur, Lithodor, Lithyyorion, Loncano, Loriel, Lorimil, Lorion, Luinillcar, Macamir, Maldur, Malin, Malion, Mannimarco, Maras, Marbarin, Marenil, Marostaale, Meldil, Meldon, Meluuran, Menaldinion, Mendol, Mercano, Merion, Merormo, Meryon, Mindil, Minducil, Miratar, Miremonwe, Mirionil, Mirnor, Molacar, Molanor, Mollyon, Monwe, Morimbar, Mormeril, Mornandil, Muramil, Murarel, Naarcaano, Naaril, Naarwe, Nadonil, Naemon, Nafiryaamo, Nallore, Nanwen, Naranbar, Narandor, Narwundhel, Naryon, Nelerien, Nelinar, Nelissil, Nelulin, Nenaron, Nenaronald, Nengenil, Nenvalion, Neramo, Nerassil, Nerien'eth, Nilarion, Niramo, Nocare, Noculvon, Noldir, Nolonir, Nolontar, Nomefanya, Norarubel, Norfando, Norion, Norirtil, Norunduil, Noryon, Nulion, Nulurin, Numithir, Nuulehtel, Nuvondo, Ocando, Ocandur, Ocanim, Ohartalmo, Ohmonir, Ohtimir, Olquamir, Oltimbar, Ondendil, Ondicantar, Ondindil, Ormilus, Ormurrel, Oromin, Orquan, Osalmil, Ostion, Palomir, Panamar, Parmanir, Parmbarel, Parmion, Parmtilir, Pelidil, Pelleren, Penindur, Peninya, Pircalmo, Piringamen, Piromir, Pirondil, Pirtar, Polinus, Pondomir, Qamor, Qamtir, Qoramir, Quanomil, Quaranon, Quarantar, Quarmuuril, Quaronaldil, Quomin, Randor, Rellus, Riminil, Riminor, Rivenar, Rolancano, Rolandor, Roldofin, Rolerandur, Roltilmo, Ronahanar, Rulanir, Rulistil, Rulnannariel, Rulorn, Ruluril, Rurelion, Ruucaramil, Ruurifin, Ruuvitar, Samel, Sanamen, Sanarel, Sanderion, Sanessalmo, Sanodil, Sarandil, Sarodor, Semial, Semiral, Silolthon, Silvanir, Sinaldurion, Sincano, Sincantar, Siniel, Sintaananil, Sinyaruton, Sinyon, Sircantir, Sirdor, Sorangarion, Soraperil, Sorderion, Soritirmo, Sorondil, Sott, Squan, Sulimir, Sununturil, Talambarel, Talendil, Talinus, Talmo, Talonir, Talqua, Talviah, Tanacar, Tanamo, Tangarion, Taningamen, Tanion, Taniril, Tanulad, Taralqua, Tarma, Tarqualaite, Telacar, Teldur, Telenger, Telonde, Telonil, Telultur, Tendil, Tenirtel, Tenunil, Thelerodor, Thetathor, Tholbor, Thundermaul, Tilarion, Tildanyorion, Tildur, Tilmanar, Timion, Timiwe, Trelano, Tuinvitar, Tumande, Tumbaril, Tusoril, Tymonir, Ulando, Ulymen, Ummanor, Ungalin, Urcelmo, Uricantar, Uryando, Uulafalmil, Uulion, Uurkar, Valando, Valano, Valiano, Valik, Valnurion, Valorone, Valrendil, Valtir, Valtuumetil, Vanando, Vancecarion, Vancoldalion, Vandalion, Vandulyar, Vanus, Varafalmil, Varalladan, Vareldur, Varfandur, Vatonyamil, Venerien, Verandis, Viivitar, Vincalmo, Vincano, Vindur, Vinenoldil, Vingarion, Voranil, Voranyarin, Vorundil, Wirande, Yanaril, Yancol, Yannod, Yannodil, Yarelion, Yarmondur, Yonadus, Yvondir, Amuur, Arcorion, Eambar, Erandil, Falantar, Falandil, Falarel, Filpormo, Glamion, Helonel, Karulae, Kilolemar, Malkar, Norendo, Tancano
+a l d a r i l
+a n a r e n e n
+a n d i l
+a n g o r i l
+a r m i o n
+a r o n i l
+a r r i l l e
+a th e l l o r
+c a r e c a l m o
+c a r y a r e l
+e a r m i l
+e r a a m i o n
+e r u n d i l
+f a i n e r t i l
+f a l a n a a m o
+f a n i l d i l
+f i i r i e l
+g l a d r o o n
+h e c e r i n d e
+h y a r n a r e n qu a r
+i l m i r i l
+i n g a n a r
+i r o r o o n
+i t e r m e r e l
+k a r d r y n
+l a n d o r u m e
+m e a n e n
+m e r y a r a n
+m o l l i m o
+m o r a n a r g
+m o r o r u r g
+m o s s a n o n
+n a n d e
+n e l a c a r
+n o r i o n i l
+o l qu a r
+q o r w y n n
+r i m i n t i l
+r u m a r e
+s a n y o n
+s e a n w e n
+s i n y a r a m e n
+s o r c a l i n
+t a u r y o n
+t e l i n t u r c o
+t r a g r i m
+t u n e n g o r e
+t u s a m i r c i l
+t y e r m a i l l i n
+u m b a c a n o
+u n d i l
+u u l e r n i l
+v o l a n a r o
+y a k o v
+y a n n i s s
+y a r n a r
+a n c o t a r
+a n g a l m o
+a r a n a th
+a r e l d i l
+a r e l d u r
+a r k v e d
+a r t e r i o n
+c a l i n d i l
+c a r a n d i a l
+c e l e d a e n
+c i r i o n
+e a r i l
+e l d a m i l
+e l i d o r
+e n r i o n
+e r r a n d i l
+f a e l i a n
+f a l c a r
+g i l g o n d o r i n
+h a l i o n
+h e n a n t i e r
+h i n d a r i l
+h i r t e l
+h o n d i t a r
+l i th n i l i a n
+m a n k a r
+m a n n i m a r c o
+m e r a n d i l
+m e r i l d o r
+o c a t o
+o h t i m b a r
+o r i n t u r
+o r m i l
+r a v e n
+s a l m o
+s e r i d u r
+s i n d e r i o n
+s u u r o o t a n
+t i l m o
+t u m i n d i l
+u m b a c a n o
+u n g a r i o n
+v o l a n a r o
+v o r a n i l
+a i c a n t a r
+a n c a n o
+a n c a r i o n
+a r i n g o th
+a r o n d i l
+c a l c e l m o
+e s t o r m o
+f a s e n d i l
+k o r n a l u s
+l i n w e
+l o r c a l i n
+m e l a r a n
+m u r i l
+n a r i s
+n e l a c a r
+n e r i e n
+n u r e l i o n
+o n d o l e m a r
+o r th o r n
+qu a r a n i r
+r u l i n d i l
+r u n i l
+s a n y o n
+t a n d i l
+u l u n d i l
+v a l m i r
+v i a r m o
+v i n g a l m o
+a b s o l o n
+a e n th a n n i r
+a e s m e r
+a e s r i l
+a i c a a n o
+a i c e s s a r
+a i n a a m e
+a l d i m i o n
+a l d o l i n
+a l m i o n
+a l r d o r i o n
+a l t u r c o
+a l u v u s
+a m b a l l i c i l
+a m b u c i l i o n
+a m b a r a n
+a m i n y o n
+a m y r i l
+a n a r u m e
+a n c a l m o
+a n c a r i v e
+a n c e m e n
+a n c o l c a l i o n
+a n d a m e
+a n d r e s a l m o
+a n d u r
+a n g a m a r
+a n g a r d i l
+a n g e d r e th
+a n g i e n t e
+a n g o
+a n g o l i n
+a n qu e n
+a n t u r
+a n y o n
+a o n u s
+a r a c a r
+a r a l y o n
+a r a n t a r
+a r c a r i n
+a r d o r i n
+a r e l m o
+a r f a n e l
+a r i n d u r
+a r u n e n
+a r y a m o
+a r y o n
+a s t o r
+a t a l m o
+a t e l d i l
+a t i r i o n
+b l a n c h e t e
+c a a l o r e
+c a a l o r n e
+c a a n o
+c a e r e l
+c a l a n o r
+c a l a s t i l
+c a l c a m a r
+c a l d a n d i e n
+c a l d a r t u r
+c a l d i e n
+c a l d i l
+c a l e d e e n
+c a l e n u s
+c a l i o n
+c a l o n d i l
+c a l p e l i o n
+c a l p i o n
+c a l u n o r r i l
+c a m a a n o
+c a m a r e l u r
+c a m a r i n o
+c a r i n d o n
+c a r m i o n
+c a s s i r i o n
+c e b o r n
+c e b r o o n
+c i n g a r f i n
+c i n i l d i l
+c i n n a r
+c i n o s a r i o n
+c i r a l
+c i r a n d u r
+c i r c i m u r e
+c i r d u r
+c i r e n d u r
+c i r i c o l l o
+c i r i m i o n
+c i r i o n
+c i r m o
+c i r o r l i n
+c i r y a r e l
+c i r y e f a r i o n
+c o l m o r i o n
+c o l o t a r i o n
+c o n d a l i n
+c o r i s t i r
+c o r n a r
+c u i l a c e l m o
+c u i l a l m e
+c u i n u r
+c u r i n u r e
+c u r i s s i l
+c u r t a a r i m o n
+c u r v a n e n
+d a n d o s
+d u p e r i l
+e a l c i l
+e a n c a r
+e a n o r
+e a n u r l e m a r
+e a r a m o n
+e a r a n y o n
+e a r d i r
+e a r e l c a r
+e a r i l
+e a r o m a r
+e a r o s
+e a r r a n
+e a r r a s t e l
+e h r a n
+e l a n a l d u r
+e l a n a r
+e l a n n i n u r
+e l d e c i l
+e l d e r i e n
+e l d i n a r a n
+e l d u m o r i l
+e l d y m e
+e l e r i l
+e l i k a r
+e l o d i n a r
+e l o n d e
+e l o n d i l
+e l p i o n
+e l u r m e r i l
+e l u r t a l m o
+e l w i n t i n a r
+e m e c e l m o
+e n d a r o n
+e n d a r w e
+e n e l o n
+e n v a r i l
+e r a a m a n
+e r a m a n
+e r a n a m o
+e r a n c a r
+e r a n n i n
+e r e m i n d
+e r e n d i l
+e r o l n d i l
+e r th e l g o r
+e r u n i e n
+e r y a r i o n
+e r y e r i l
+e r y m i l
+e r y o n
+e s a r a n i r
+e s l e n d o r e
+e s s a l d u r
+e s t a a m o
+e s t e l t i n
+e s u r e n
+f a b a n i l
+f a i n o r u m e
+f a l a d i l
+f a l i o n
+f a l u t u r
+f a n i n m a n d o n
+f a n o r n e
+f a n y a r e l
+f a r c a a n o
+f a r m i r
+f a r m o r i o n
+f a s a r a n
+f a s i o n
+f a s u n d i l
+f e n a r c a l m o
+f e n d e r i l
+f e n l i l
+f e n o r o m i r
+f e r l u l r i l
+f e r o r d o m a s
+f i i r e n i r
+f i m r i m i o n
+f i n d a r n i n u r
+f i n e m o
+f i n u n v a l
+f i r a m o
+f i r e n
+f i r i s a r
+f i r t i r a n t a r
+g a l a l r i m o n
+g a l o n d o r n
+g i l i e n
+g l a m r a n
+g o th r a r th
+g u i l l a u m e
+h a d e l a r
+h a l d o r i l
+h a l i d u r
+h a l i n i r y a
+h a l i n o
+h a n i l
+h a n i l a n
+h e c a l i n d i l
+h e l a r a n
+h e l d i l
+h e l e m i l
+h e l p i r i o n
+h e n a a m o
+h e n a r i l
+h e n d a r e
+h e n d a r i l
+h e n d i l
+h e n e n d o r
+h e n y o n
+h e r a t i r
+h e r v a r i o n
+h e r y e m o
+h e s o l m o
+h i n a a m o
+h y a l a n
+h y a m i r
+h y a n d o r r i l
+h y d a l i o n
+h y m o n i m
+i l m i n d i l
+i l m u r e
+i l w e n
+i n d i l u r e
+i n d u r e
+i n d y e n
+i n g a m i r c i l
+i n g a t a l m o
+i r a l u n d o r e
+i r a m o
+i r v u l i l
+i s i r a a m o
+i t a a l e l
+i t e l d i l
+i t u m i l
+i w e l i e n
+k e l u r m e n d
+l a n d o m a s
+l a n i l i a n
+l a n r i a n
+l a r o n e n
+l a r u u m o r i e n
+l a r y a n t i l
+l a u r o s s e
+l e n a r m e n
+l e n d e t e l m o
+l e n e n d o r e
+l e n o l i n
+l e n w e
+l e r m i o n
+l e r n u v a r i l
+l i n d e l
+l i n g a r m o r i l
+l i n g o n i r
+l i n o r m o
+l i n w i r m i o n
+l i n y o n
+l i s d e b a r
+l i s o n d o r
+l i s o t e l
+l i th i n d u r
+l i th o d o r
+l i th y y o r i o n
+l o n c a n o
+l o r i e l
+l o r i m i l
+l o r i o n
+l u i n i l l c a r
+m a c a m i r
+m a l d u r
+m a l i n
+m a l i o n
+m a n n i m a r c o
+m a r a s
+m a r b a r i n
+m a r e n i l
+m a r o s t a a l e
+m e l d i l
+m e l d o n
+m e l u u r a n
+m e n a l d i n i o n
+m e n d o l
+m e r c a n o
+m e r i o n
+m e r o r m o
+m e r y o n
+m i n d i l
+m i n d u c i l
+m i r a t a r
+m i r e m o n w e
+m i r i o n i l
+m i r n o r
+m o l a c a r
+m o l a n o r
+m o l l y o n
+m o n w e
+m o r i m b a r
+m o r m e r i l
+m o r n a n d i l
+m u r a m i l
+m u r a r e l
+n a a r c a a n o
+n a a r i l
+n a a r w e
+n a d o n i l
+n a e m o n
+n a f i r y a a m o
+n a l l o r e
+n a n w e n
+n a r a n b a r
+n a r a n d o r
+n a r w u n d h e l
+n a r y o n
+n e l e r i e n
+n e l i n a r
+n e l i s s i l
+n e l u l i n
+n e n a r o n
+n e n a r o n a l d
+n e n g e n i l
+n e n v a l i o n
+n e r a m o
+n e r a s s i l
+n e r i e n ' e th
+n i l a r i o n
+n i r a m o
+n o c a r e
+n o c u l v o n
+n o l d i r
+n o l o n i r
+n o l o n t a r
+n o m e f a n y a
+n o r a r u b e l
+n o r f a n d o
+n o r i o n
+n o r i r t i l
+n o r u n d u i l
+n o r y o n
+n u l i o n
+n u l u r i n
+n u m i th i r
+n u u l e h t e l
+n u v o n d o
+o c a n d o
+o c a n d u r
+o c a n i m
+o h a r t a l m o
+o h m o n i r
+o h t i m i r
+o l qu a m i r
+o l t i m b a r
+o n d e n d i l
+o n d i c a n t a r
+o n d i n d i l
+o r m i l u s
+o r m u r r e l
+o r o m i n
+o r qu a n
+o s a l m i l
+o s t i o n
+p a l o m i r
+p a n a m a r
+p a r m a n i r
+p a r m b a r e l
+p a r m i o n
+p a r m t i l i r
+p e l i d i l
+p e l l e r e n
+p e n i n d u r
+p e n i n y a
+p i r c a l m o
+p i r i n g a m e n
+p i r o m i r
+p i r o n d i l
+p i r t a r
+p o l i n u s
+p o n d o m i r
+q a m o r
+q a m t i r
+q o r a m i r
+qu a n o m i l
+qu a r a n o n
+qu a r a n t a r
+qu a r m u u r i l
+qu a r o n a l d i l
+qu o m i n
+r a n d o r
+r e l l u s
+r i m i n i l
+r i m i n o r
+r i v e n a r
+r o l a n c a n o
+r o l a n d o r
+r o l d o f i n
+r o l e r a n d u r
+r o l t i l m o
+r o n a h a n a r
+r u l a n i r
+r u l i s t i l
+r u l n a n n a r i e l
+r u l o r n
+r u l u r i l
+r u r e l i o n
+r u u c a r a m i l
+r u u r i f i n
+r u u v i t a r
+s a m e l
+s a n a m e n
+s a n a r e l
+s a n d e r i o n
+s a n e s s a l m o
+s a n o d i l
+s a r a n d i l
+s a r o d o r
+s e m i a l
+s e m i r a l
+s i l o l th o n
+s i l v a n i r
+s i n a l d u r i o n
+s i n c a n o
+s i n c a n t a r
+s i n i e l
+s i n t a a n a n i l
+s i n y a r u t o n
+s i n y o n
+s i r c a n t i r
+s i r d o r
+s o r a n g a r i o n
+s o r a p e r i l
+s o r d e r i o n
+s o r i t i r m o
+s o r o n d i l
+s o t t
+s qu a n
+s u l i m i r
+s u n u n t u r i l
+t a l a m b a r e l
+t a l e n d i l
+t a l i n u s
+t a l m o
+t a l o n i r
+t a l qu a
+t a l v i a h
+t a n a c a r
+t a n a m o
+t a n g a r i o n
+t a n i n g a m e n
+t a n i o n
+t a n i r i l
+t a n u l a d
+t a r a l qu a
+t a r m a
+t a r qu a l a i t e
+t e l a c a r
+t e l d u r
+t e l e n g e r
+t e l o n d e
+t e l o n i l
+t e l u l t u r
+t e n d i l
+t e n i r t e l
+t e n u n i l
+th e l e r o d o r
+th e t a th o r
+th o l b o r
+th u n d e r m a u l
+t i l a r i o n
+t i l d a n y o r i o n
+t i l d u r
+t i l m a n a r
+t i m i o n
+t i m i w e
+t r e l a n o
+t u i n v i t a r
+t u m a n d e
+t u m b a r i l
+t u s o r i l
+t y m o n i r
+u l a n d o
+u l y m e n
+u m m a n o r
+u n g a l i n
+u r c e l m o
+u r i c a n t a r
+u r y a n d o
+u u l a f a l m i l
+u u l i o n
+u u r k a r
+v a l a n d o
+v a l a n o
+v a l i a n o
+v a l i k
+v a l n u r i o n
+v a l o r o n e
+v a l r e n d i l
+v a l t i r
+v a l t u u m e t i l
+v a n a n d o
+v a n c e c a r i o n
+v a n c o l d a l i o n
+v a n d a l i o n
+v a n d u l y a r
+v a n u s
+v a r a f a l m i l
+v a r a l l a d a n
+v a r e l d u r
+v a r f a n d u r
+v a t o n y a m i l
+v e n e r i e n
+v e r a n d i s
+v i i v i t a r
+v i n c a l m o
+v i n c a n o
+v i n d u r
+v i n e n o l d i l
+v i n g a r i o n
+v o r a n i l
+v o r a n y a r i n
+v o r u n d i l
+w i r a n d e
+y a n a r i l
+y a n c o l
+y a n n o d
+y a n n o d i l
+y a r e l i o n
+y a r m o n d u r
+y o n a d u s
+y v o n d i r
+a m u u r
+a r c o r i o n
+e a m b a r
+e r a n d i l
+f a l a n t a r
+f a l a n d i l
+f a l a r e l
+f i l p o r m o
+g l a m i o n
+h e l o n e l
+k a r u l a e
+k i l o l e m a r
+m a l k a r
+n o r e n d o
+t a n c a n o

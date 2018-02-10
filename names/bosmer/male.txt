@@ -1,1 +1,723 @@
-Aengoth, Agarond, Allimir, Alveleg, Amring, Anglalos, Anruin, Arannir, Arathor, Baradras, Berengeval, Bolrin, Bragor, Brallion, Brithroth, Brolmir, Celegorn, Cingor, Clendil, Cun, Dangor, Denegor, Dirding, Dondir, Elberoth, Elegal, Eloroth, Endring, Engaer, Eradan, Erradan, Erval, Faldan, Fargoth, Faulgor, Fillin, Findulain, Foronir, Gaeldol, Gaenor, Galmir, Galthragoth, Gazalem, Gerrilgor, Glaum, Glonagoth, Godros, Gorchalas, Hingor, Meldor, Menelras, Minedhel, Minglos, Monthadan, Morth, Nalion, Nedhelas, Nedhelorn, Pegasai, Peragon, Rithrannir, Tarhiel, Thoromlallor, Thoronor, Tuundir, Ulwaen, Ungeleb, Aengvir, Amragor, Anglor, Anguilon, Athragar, Athrelor, Baenlin, Baeralorn, Brellin, Brithaur, Brodras, Bolwing, Caenlin, Caenlorn, Cingaer, Cingor, Daenlin, Dervenin, Engorm, Enilroth, Eridor, Erthor, Fimmion, Fithragaer, Foroch, Gelephor, Glarthir, Gloorolros, Gundalas, Gwinas, Hagaer, Hundolin, Maenlorn, Maglir, Nedhelfin, Niraegaer, Nordinor, Rindir, Thadon, Thaurron, Thoronir, Thrangirfin, Thurindil, Ungolim, Urunil, Uungor, Uuras, Anoriath, Dervenin, Edorfin, Elrindir, Endrast, Enthir, Faendal, Gadnor, Gelebros, Girduin, Gwilin, Malborn, Niruin, Orchendor, Ronthil, Syndus, Thaer, Ungrien, Valindor, Fingaenion, Hurolas, Mandolion, Miruin, Adamir, Aeradan, Aerchelas, Aering, Aerolor, Aglion, Agolas, Agular, Agwodir, Alander, Aldarnen, Aldor, Alphrennor, Alphrost, Altholmir, Amlion, Amreval, Andrilion, Angeron, Angilor, Anglas, Anglorn, Anthelion, Arengo, Arengur, Arenion, Arganar, Arthor, Athraedal, Athrahgor, Azareth, Baenelros, Balithil, Barothlas, Behelir, Bellulor, Bendralas, Benduin, Berdonion, Berithor, Berthor, Bodring, Bolelos, Bolion, Bolwagon, Borcholim, Borchon, Borelril, Borwiian, Bredragon, Bredros, Breduin, Brellin, Brelor, Brengor, Brenor, Briminor, Brimlirdor, Brimlor, Brinthir, Burrfoot, Caenlilmith, Caentholrin, Caerllelfin, Caerllin, Calabenn, Calthindor, Cantadir, Canthion, Cathras, Celelruin, Celonron, Cendalor, Cenirond, Cingunor, Ciradir, Cirithor, Cirnean, Cirodros, Cirthile, Cirtor, Clenalgor, Clenegor, Cunendor, Daenilroth, Dalodir, Dalrelvir, Dalrithor, Danrithri, Dardalmoth, Dardir, Dathangil, Dennoroth, Denrin, Deregor, Deros, Derveglor, Dindom, Diranor, Dirchanor, Dirdelas, Dolilas, Dollarthor, Domillas, Donallir, Doradrin, Doralon, Doranar, Dordanion, Dorinlas, Dorodir, Dorondor, Drauginor, Draugorin, Drauldolim, Draulduin, Drilalfin, Drimrin, Drinlin, Drinroth, Edalor, Edhelas, Edheldor, Edhelfin, Edhelorn, Edhelruin, Edhelvir, Edthas, Edundor, Egannor, Egarfin, Egelnor, Egelrin, Egenor, Egenthor, Eghanar, Egidnor, Egidrin, Egilas, Eginir, Eginthoril, Eglabenn, Egolor, Egranor, Eguroth, Elaldor, Elanir, Elebor, Elethir, Elethlin, Elilor, Elolir, Elonthor, Elseer, Elthras, Enaring, Enathorn, Enathras, Endring, Endrothir, Enethrin, Engaenir, Engiroth, Englor, Engor, Enoring, Entelator, Enthilin, Enthonor, Enthoras, Eraegaer, Eralgor, Eralorn, Eranas, Erengor, Erimroth, Eringor, Eronthor, Erthaenir, Erthalmoth, Erthas, Erthonor, Erthor, Erunor, Ervalir, Esladir, Ethlinor, Ethruin, Faeldal, Faengongorn, Faenir, Faenlidor, Faenthundor, Faerelos, Faerin, Falahawn, Falthalorn, Falelros, Famronion, Fangaril, Fangilmir, Faradan, Faralos, Farandor, Fardel, Farthagal, Farthalem, Faulbor, Faulor, Faurchon, Faurinar, Fealote, Feladir, Fengrin, Fenteladir, Ferlion, Filalmoth, Filbolrel, Fildir, Filingaer, Filmian, Findun, Finedrin, Fingor, Finlas, Finonas, Fintholor, Finvir, Firaelion, Firagaer, Fireluin, Firolbor, Firolmoth, Fironthor, Firras, Firthaedal, Firuin, Fithrolon, Foldor, Folilas, Fonalor, Fongidor, Fongoth, Fordan, Forinor, Forongon, Forthor, Fradion, Gadinas, Gael, Gaenengeval, Gaenennor, Gaerthgorn, Gaerthidrin, Gaerthir, Galalron, Galandir, Galbor, Galdilin, Galithor, Galolion, Galriel, Galthonor, Gandalor, Gandonion, Gazunil, Gelabenn, Gelin, Gelthior, Glalor, Glathor, Glathras, Glaugluin, Glauloroth, Glaurilas, Glaurolin, Glinthinar, Glirion, Gloldor, Glolmir, Glolor, Glongor, Glonnir, Glooring, Gloron, Gluin, Godadras, Golor, Gonlas, Goralgor, Gorinir, Gorulbor, Gothrongor, Grohanar, Gwaegalir, Gwael, Gwaerinbor, Gwannas, Gwannor, Gwanolrin, Gwarolgor, Gwilandor, Gwilgoth, Gwilir, Gwilon, Gwinadras, Gwindebros, Gwindir, Gwinengur, Gwingeval, Gwinir, Gwinor, Gwiras, Hadendor, Hadnilion, Hadran, Hadras, Hagaelion, Halalin, Halelmathras, Halindor, Halion, Halordil, Halridor, Halronion, Haraenion, Haras, Hareglor, Harin, Haron, Hartmin, Hednor, Hegaer, Helmir, Helondanbor, Heluin, Henandan, Hengolir, Henilien, Henodras, Heralbor, Hingaron, Hunindir, Hurdalas, Hurthinnor, Icarian, Idreloth, Ilring, Ilthring, Indaenir, Indaryn, Indelor, Indiir, Indinor, Indinroth, Indolor, Indralir, Indrelor, Indring, Inluin, Irielis, Ithanarth, Ithgagon, Iulidul, Kerninn, Ladrelas, Laelrion, Lagrethor, Lanelor, Lataryon, Ledronor, Legodir, Lemring, Lemrongorn, Lenahawn, Lengaer, Lenonion, Lenor, Lenoril, Lenranas, Lerangor, Lereluin, Lestadir, Lilthidrin, Lindowel, Lonor, Lorchon, Lorfolas, Lowindor, Madruin, Maendir, Maenrin, Maenthanaras, Maeroth, Magaelion, Malgawn, Malgorin, Malgoth, Malinor, Malionar, Malthagros, Malthor, Malvir, Manalmir, Mandir, Mandor, Manenlir, Mangaer, Mangeth, Mangonas, Manilbor, Manroth, Manthir, Marantar, Marilrin, Maruin, Mathal, Mathragor, Melas, Meleras, Melinfel, Mendros, Menorfin, Menthorn, Merethrin, Methring, Milgangor, Milion, Milmilin, Milwalin, Minan, Minangor, Mingalion, Mingonor, Mingor, Minthelir, Mirchanas, Mirilir, Modorin, Modradil, Mollorn, Monennor, Mongon, Mongor, Mongoth, Monvaras, Morthelos, Naglanor, Nagledrin, Nalbor, Nalguin, Nalthenlir, Nanthenas, Nedaegaer, Nednor, Nedras, Nedrin, Nedtharond, Nedthion, Negaelion, Nelgorn, Nellor, Nendaer, Nendilir, Nerellanvir, Nergor, Neronnir, Nethrin, Niden, Nidras, Nilaendril, Nildedrin, Nindir, Ninglenel, Ninglos, Ningor, Nirolos, Nironor, Nirthindor, Nirthongoth, Nondor, Nongiruin, Norvir, Nothilgor, Nothirvir, Nothrelras, Nothrolion, Obenion, Obentor, Odreth, Odrethin, Ogarendir, Olahanar, Olarion, Ongalion, Onglor, Onglorn, Oranron, Orchelor, Orchelos, Orchenas, Orcholin, Ording, Orenthel, Orthalon, Orthanron, Orthelos, Orthenir, Orthonor, Orthoron, Ostarion, Parenonas, Pegolas, Pegolos, Peras, Perinor, Raen, Raendor, Ragalvir, Ralalorn, Ralondel, Ramsi, Ranedor, Raniluin, Rathilmith, Regring, Rendarion, Rethrin, Rilding, Rilion, Rininion, Rinlir, Rodaegaer, Rodring, Rolalmoth, Rolding, Rolindor, Rolion, Rollin, Rolon, Rondor, Rondrin, Ronolin, Rothondothrin, Rothraenion, Salahanar, Salalin, Saldaer, Saldir, Salgaer, Sandaenion, Sanonor, Sarmionor, Sarolion, Saromir, Shaguniel, Tessorthon, Thiingelien, Tholdaegal, Tholdegil, Tholerthorn, Thollebros, Thollunil, Thololin, Tholor, Tholralem, Thongonor, Thonoras, Thorianion, Thorinor, Thragaer, Thragnor, Thranor, Tralor, Trilion, Tuunnir, Uldwin, Ulphroth, Ulthorn, Ulwemir, Ulwithor, Ungaedal, Ungenor, Uranyon, Uwedrin, Vanendil
+a e n g o th
+a g a r o n d
+a l l i m i r
+a l v e l e g
+a m r i n g
+a n g l a l o s
+a n r u i n
+a r a n n i r
+a r a th o r
+b a r a d r a s
+b e r e n g e v a l
+b o l r i n
+b r a g o r
+b r a l l i o n
+b r i th r o th
+b r o l m i r
+c e l e g o r n
+c i n g o r
+c l e n d i l
+c u n
+d a n g o r
+d e n e g o r
+d i r d i n g
+d o n d i r
+e l b e r o th
+e l e g a l
+e l o r o th
+e n d r i n g
+e n g a e r
+e r a d a n
+e r r a d a n
+e r v a l
+f a l d a n
+f a r g o th
+f a u l g o r
+f i l l i n
+f i n d u l a i n
+f o r o n i r
+g a e l d o l
+g a e n o r
+g a l m i r
+g a l th r a g o th
+g a z a l e m
+g e r r i l g o r
+g l a u m
+g l o n a g o th
+g o d r o s
+g o r ch a l a s
+h i n g o r
+m e l d o r
+m e n e l r a s
+m i n e d h e l
+m i n g l o s
+m o n th a d a n
+m o r th
+n a l i o n
+n e d h e l a s
+n e d h e l o r n
+p e g a s a i
+p e r a g o n
+r i th r a n n i r
+t a r h i e l
+th o r o m l a l l o r
+th o r o n o r
+t u u n d i r
+u l w a e n
+u n g e l e b
+a e n g v i r
+a m r a g o r
+a n g l o r
+a n g u i l o n
+a th r a g a r
+a th r e l o r
+b a e n l i n
+b a e r a l o r n
+b r e l l i n
+b r i th a u r
+b r o d r a s
+b o l w i n g
+c a e n l i n
+c a e n l o r n
+c i n g a e r
+c i n g o r
+d a e n l i n
+d e r v e n i n
+e n g o r m
+e n i l r o th
+e r i d o r
+e r th o r
+f i m m i o n
+f i th r a g a e r
+f o r o ch
+g e l e ph o r
+g l a r th i r
+g l o o r o l r o s
+g u n d a l a s
+g w i n a s
+h a g a e r
+h u n d o l i n
+m a e n l o r n
+m a g l i r
+n e d h e l f i n
+n i r a e g a e r
+n o r d i n o r
+r i n d i r
+th a d o n
+th a u r r o n
+th o r o n i r
+th r a n g i r f i n
+th u r i n d i l
+u n g o l i m
+u r u n i l
+u u n g o r
+u u r a s
+a n o r i a th
+d e r v e n i n
+e d o r f i n
+e l r i n d i r
+e n d r a s t
+e n th i r
+f a e n d a l
+g a d n o r
+g e l e b r o s
+g i r d u i n
+g w i l i n
+m a l b o r n
+n i r u i n
+o r ch e n d o r
+r o n th i l
+s y n d u s
+th a e r
+u n g r i e n
+v a l i n d o r
+f i n g a e n i o n
+h u r o l a s
+m a n d o l i o n
+m i r u i n
+a d a m i r
+a e r a d a n
+a e r ch e l a s
+a e r i n g
+a e r o l o r
+a g l i o n
+a g o l a s
+a g u l a r
+a g w o d i r
+a l a n d e r
+a l d a r n e n
+a l d o r
+a l ph r e n n o r
+a l ph r o s t
+a l th o l m i r
+a m l i o n
+a m r e v a l
+a n d r i l i o n
+a n g e r o n
+a n g i l o r
+a n g l a s
+a n g l o r n
+a n th e l i o n
+a r e n g o
+a r e n g u r
+a r e n i o n
+a r g a n a r
+a r th o r
+a th r a e d a l
+a th r a h g o r
+a z a r e th
+b a e n e l r o s
+b a l i th i l
+b a r o th l a s
+b e h e l i r
+b e l l u l o r
+b e n d r a l a s
+b e n d u i n
+b e r d o n i o n
+b e r i th o r
+b e r th o r
+b o d r i n g
+b o l e l o s
+b o l i o n
+b o l w a g o n
+b o r ch o l i m
+b o r ch o n
+b o r e l r i l
+b o r w i i a n
+b r e d r a g o n
+b r e d r o s
+b r e d u i n
+b r e l l i n
+b r e l o r
+b r e n g o r
+b r e n o r
+b r i m i n o r
+b r i m l i r d o r
+b r i m l o r
+b r i n th i r
+b u r r f o o t
+c a e n l i l m i th
+c a e n th o l r i n
+c a e r l l e l f i n
+c a e r l l i n
+c a l a b e n n
+c a l th i n d o r
+c a n t a d i r
+c a n th i o n
+c a th r a s
+c e l e l r u i n
+c e l o n r o n
+c e n d a l o r
+c e n i r o n d
+c i n g u n o r
+c i r a d i r
+c i r i th o r
+c i r n e a n
+c i r o d r o s
+c i r th i l e
+c i r t o r
+c l e n a l g o r
+c l e n e g o r
+c u n e n d o r
+d a e n i l r o th
+d a l o d i r
+d a l r e l v i r
+d a l r i th o r
+d a n r i th r i
+d a r d a l m o th
+d a r d i r
+d a th a n g i l
+d e n n o r o th
+d e n r i n
+d e r e g o r
+d e r o s
+d e r v e g l o r
+d i n d o m
+d i r a n o r
+d i r ch a n o r
+d i r d e l a s
+d o l i l a s
+d o l l a r th o r
+d o m i l l a s
+d o n a l l i r
+d o r a d r i n
+d o r a l o n
+d o r a n a r
+d o r d a n i o n
+d o r i n l a s
+d o r o d i r
+d o r o n d o r
+d r a u g i n o r
+d r a u g o r i n
+d r a u l d o l i m
+d r a u l d u i n
+d r i l a l f i n
+d r i m r i n
+d r i n l i n
+d r i n r o th
+e d a l o r
+e d h e l a s
+e d h e l d o r
+e d h e l f i n
+e d h e l o r n
+e d h e l r u i n
+e d h e l v i r
+e d th a s
+e d u n d o r
+e g a n n o r
+e g a r f i n
+e g e l n o r
+e g e l r i n
+e g e n o r
+e g e n th o r
+e gh a n a r
+e g i d n o r
+e g i d r i n
+e g i l a s
+e g i n i r
+e g i n th o r i l
+e g l a b e n n
+e g o l o r
+e g r a n o r
+e g u r o th
+e l a l d o r
+e l a n i r
+e l e b o r
+e l e th i r
+e l e th l i n
+e l i l o r
+e l o l i r
+e l o n th o r
+e l s e e r
+e l th r a s
+e n a r i n g
+e n a th o r n
+e n a th r a s
+e n d r i n g
+e n d r o th i r
+e n e th r i n
+e n g a e n i r
+e n g i r o th
+e n g l o r
+e n g o r
+e n o r i n g
+e n t e l a t o r
+e n th i l i n
+e n th o n o r
+e n th o r a s
+e r a e g a e r
+e r a l g o r
+e r a l o r n
+e r a n a s
+e r e n g o r
+e r i m r o th
+e r i n g o r
+e r o n th o r
+e r th a e n i r
+e r th a l m o th
+e r th a s
+e r th o n o r
+e r th o r
+e r u n o r
+e r v a l i r
+e s l a d i r
+e th l i n o r
+e th r u i n
+f a e l d a l
+f a e n g o n g o r n
+f a e n i r
+f a e n l i d o r
+f a e n th u n d o r
+f a e r e l o s
+f a e r i n
+f a l a h a w n
+f a l th a l o r n
+f a l e l r o s
+f a m r o n i o n
+f a n g a r i l
+f a n g i l m i r
+f a r a d a n
+f a r a l o s
+f a r a n d o r
+f a r d e l
+f a r th a g a l
+f a r th a l e m
+f a u l b o r
+f a u l o r
+f a u r ch o n
+f a u r i n a r
+f e a l o t e
+f e l a d i r
+f e n g r i n
+f e n t e l a d i r
+f e r l i o n
+f i l a l m o th
+f i l b o l r e l
+f i l d i r
+f i l i n g a e r
+f i l m i a n
+f i n d u n
+f i n e d r i n
+f i n g o r
+f i n l a s
+f i n o n a s
+f i n th o l o r
+f i n v i r
+f i r a e l i o n
+f i r a g a e r
+f i r e l u i n
+f i r o l b o r
+f i r o l m o th
+f i r o n th o r
+f i r r a s
+f i r th a e d a l
+f i r u i n
+f i th r o l o n
+f o l d o r
+f o l i l a s
+f o n a l o r
+f o n g i d o r
+f o n g o th
+f o r d a n
+f o r i n o r
+f o r o n g o n
+f o r th o r
+f r a d i o n
+g a d i n a s
+g a e l
+g a e n e n g e v a l
+g a e n e n n o r
+g a e r th g o r n
+g a e r th i d r i n
+g a e r th i r
+g a l a l r o n
+g a l a n d i r
+g a l b o r
+g a l d i l i n
+g a l i th o r
+g a l o l i o n
+g a l r i e l
+g a l th o n o r
+g a n d a l o r
+g a n d o n i o n
+g a z u n i l
+g e l a b e n n
+g e l i n
+g e l th i o r
+g l a l o r
+g l a th o r
+g l a th r a s
+g l a u g l u i n
+g l a u l o r o th
+g l a u r i l a s
+g l a u r o l i n
+g l i n th i n a r
+g l i r i o n
+g l o l d o r
+g l o l m i r
+g l o l o r
+g l o n g o r
+g l o n n i r
+g l o o r i n g
+g l o r o n
+g l u i n
+g o d a d r a s
+g o l o r
+g o n l a s
+g o r a l g o r
+g o r i n i r
+g o r u l b o r
+g o th r o n g o r
+g r o h a n a r
+g w a e g a l i r
+g w a e l
+g w a e r i n b o r
+g w a n n a s
+g w a n n o r
+g w a n o l r i n
+g w a r o l g o r
+g w i l a n d o r
+g w i l g o th
+g w i l i r
+g w i l o n
+g w i n a d r a s
+g w i n d e b r o s
+g w i n d i r
+g w i n e n g u r
+g w i n g e v a l
+g w i n i r
+g w i n o r
+g w i r a s
+h a d e n d o r
+h a d n i l i o n
+h a d r a n
+h a d r a s
+h a g a e l i o n
+h a l a l i n
+h a l e l m a th r a s
+h a l i n d o r
+h a l i o n
+h a l o r d i l
+h a l r i d o r
+h a l r o n i o n
+h a r a e n i o n
+h a r a s
+h a r e g l o r
+h a r i n
+h a r o n
+h a r t m i n
+h e d n o r
+h e g a e r
+h e l m i r
+h e l o n d a n b o r
+h e l u i n
+h e n a n d a n
+h e n g o l i r
+h e n i l i e n
+h e n o d r a s
+h e r a l b o r
+h i n g a r o n
+h u n i n d i r
+h u r d a l a s
+h u r th i n n o r
+i c a r i a n
+i d r e l o th
+i l r i n g
+i l th r i n g
+i n d a e n i r
+i n d a r y n
+i n d e l o r
+i n d i i r
+i n d i n o r
+i n d i n r o th
+i n d o l o r
+i n d r a l i r
+i n d r e l o r
+i n d r i n g
+i n l u i n
+i r i e l i s
+i th a n a r th
+i th g a g o n
+i u l i d u l
+k e r n i n n
+l a d r e l a s
+l a e l r i o n
+l a g r e th o r
+l a n e l o r
+l a t a r y o n
+l e d r o n o r
+l e g o d i r
+l e m r i n g
+l e m r o n g o r n
+l e n a h a w n
+l e n g a e r
+l e n o n i o n
+l e n o r
+l e n o r i l
+l e n r a n a s
+l e r a n g o r
+l e r e l u i n
+l e s t a d i r
+l i l th i d r i n
+l i n d o w e l
+l o n o r
+l o r ch o n
+l o r f o l a s
+l o w i n d o r
+m a d r u i n
+m a e n d i r
+m a e n r i n
+m a e n th a n a r a s
+m a e r o th
+m a g a e l i o n
+m a l g a w n
+m a l g o r i n
+m a l g o th
+m a l i n o r
+m a l i o n a r
+m a l th a g r o s
+m a l th o r
+m a l v i r
+m a n a l m i r
+m a n d i r
+m a n d o r
+m a n e n l i r
+m a n g a e r
+m a n g e th
+m a n g o n a s
+m a n i l b o r
+m a n r o th
+m a n th i r
+m a r a n t a r
+m a r i l r i n
+m a r u i n
+m a th a l
+m a th r a g o r
+m e l a s
+m e l e r a s
+m e l i n f e l
+m e n d r o s
+m e n o r f i n
+m e n th o r n
+m e r e th r i n
+m e th r i n g
+m i l g a n g o r
+m i l i o n
+m i l m i l i n
+m i l w a l i n
+m i n a n
+m i n a n g o r
+m i n g a l i o n
+m i n g o n o r
+m i n g o r
+m i n th e l i r
+m i r ch a n a s
+m i r i l i r
+m o d o r i n
+m o d r a d i l
+m o l l o r n
+m o n e n n o r
+m o n g o n
+m o n g o r
+m o n g o th
+m o n v a r a s
+m o r th e l o s
+n a g l a n o r
+n a g l e d r i n
+n a l b o r
+n a l g u i n
+n a l th e n l i r
+n a n th e n a s
+n e d a e g a e r
+n e d n o r
+n e d r a s
+n e d r i n
+n e d th a r o n d
+n e d th i o n
+n e g a e l i o n
+n e l g o r n
+n e l l o r
+n e n d a e r
+n e n d i l i r
+n e r e l l a n v i r
+n e r g o r
+n e r o n n i r
+n e th r i n
+n i d e n
+n i d r a s
+n i l a e n d r i l
+n i l d e d r i n
+n i n d i r
+n i n g l e n e l
+n i n g l o s
+n i n g o r
+n i r o l o s
+n i r o n o r
+n i r th i n d o r
+n i r th o n g o th
+n o n d o r
+n o n g i r u i n
+n o r v i r
+n o th i l g o r
+n o th i r v i r
+n o th r e l r a s
+n o th r o l i o n
+o b e n i o n
+o b e n t o r
+o d r e th
+o d r e th i n
+o g a r e n d i r
+o l a h a n a r
+o l a r i o n
+o n g a l i o n
+o n g l o r
+o n g l o r n
+o r a n r o n
+o r ch e l o r
+o r ch e l o s
+o r ch e n a s
+o r ch o l i n
+o r d i n g
+o r e n th e l
+o r th a l o n
+o r th a n r o n
+o r th e l o s
+o r th e n i r
+o r th o n o r
+o r th o r o n
+o s t a r i o n
+p a r e n o n a s
+p e g o l a s
+p e g o l o s
+p e r a s
+p e r i n o r
+r a e n
+r a e n d o r
+r a g a l v i r
+r a l a l o r n
+r a l o n d e l
+r a m s i
+r a n e d o r
+r a n i l u i n
+r a th i l m i th
+r e g r i n g
+r e n d a r i o n
+r e th r i n
+r i l d i n g
+r i l i o n
+r i n i n i o n
+r i n l i r
+r o d a e g a e r
+r o d r i n g
+r o l a l m o th
+r o l d i n g
+r o l i n d o r
+r o l i o n
+r o l l i n
+r o l o n
+r o n d o r
+r o n d r i n
+r o n o l i n
+r o th o n d o th r i n
+r o th r a e n i o n
+s a l a h a n a r
+s a l a l i n
+s a l d a e r
+s a l d i r
+s a l g a e r
+s a n d a e n i o n
+s a n o n o r
+s a r m i o n o r
+s a r o l i o n
+s a r o m i r
+sh a g u n i e l
+t e s s o r th o n
+th i i n g e l i e n
+th o l d a e g a l
+th o l d e g i l
+th o l e r th o r n
+th o l l e b r o s
+th o l l u n i l
+th o l o l i n
+th o l o r
+th o l r a l e m
+th o n g o n o r
+th o n o r a s
+th o r i a n i o n
+th o r i n o r
+th r a g a e r
+th r a g n o r
+th r a n o r
+t r a l o r
+t r i l i o n
+t u u n n i r
+u l d w i n
+u l ph r o th
+u l th o r n
+u l w e m i r
+u l w i th o r
+u n g a e d a l
+u n g e n o r
+u r a n y o n
+u w e d r i n
+v a n e n d i l

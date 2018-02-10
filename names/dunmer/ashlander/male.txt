@@ -1,1 +1,195 @@
-Mausur, Ainab, Maeonius, Manat, Missun, Mubdan, Odairan, Zallit, Ababael, Abassel, Abibaal, Abishpulu, Adairan, Adaishah, Addammus, Addarnat, Adibael, Ahasour, Ahaz, Ainab, Ainat, Anasour, Anit, Asha-Ammu, Ashibaal, Ashu-Ahhe, Ashuma-Nud, Ashur-Dan, Assaba-Bentus, Assallit, Assamanut, Assamma-Idan, Assantus, Assatlit, Assemmus, Assurdan, Balur, Beden, Conoon, Dakin, Dralas, Dun-Ilu, Dunsalipal, Dutadalk, Elibael, Emul-Ran, Erur-Dan, Esar-Don, Esib-Nummu, Hainab, Hairan, Han-Ammu, Hannat, Hassour, Hemus, Hentus, Hibaddar, Hinammu, Hirarend, Ibarnadad, Ibasour, Ilasour, Kanat, Kanit, Kanud, Kashtes, Kaushad, Kausi, Kind, Kitbael, Kummi-Namus, Kund, Lassour, Mabarrabael, Maesat, Mal, Malay, Mansilamat, Massarapal, Massour, Mibdinahaz, Minassour, Minisun, Minnibi, Musan, Mut, Nind, Ninimilk, Ninirrasour, Nirait, Nund, Odaishah, Ohibaal, Patababi, Patus, Pilun, Punibi, Ranabi, Sakin, Sakulerib, Sal, Salattanat, Salay, Salmat, Salmus, Sannit, Sargon, Seldus, Selk, Selkirnemus, Shabinbael, Shanat, Shanit, Shannat, Shanud, Shargon, Shilipuran, Shimsun, Shin, Shipal, Shirerib, Shullay, Subenend, Sul-Matuul, Talkin, Teshmus, Tibdan, Tinti, Tis, Truan, Tubilalk, Tussurradad, Ulabael, Ulath-Pal, Yahaz, Yakin, Yakum, Yan, Yanit, Yantus, Yapal, Yassour, Yeherradad, Yen, Yenammu, Zabamund, Zabarbael, Zainat, Zairan, Zalabelk, Zalit, Zallay, Zanat, Zanmulk, Zebba, Zebdusipal, Zelaku, Zelay, Zenabi, Zennammu, Ashu-awa, Ashulerib, Azshalku, Broder, Daynnill-Adran, Draitsuul, Dredase-Hlarar, Druvvanno, Enasourr, Ervas, Galsar, Galam, Ginasa, Harrinat, Kaid-Arbul, Madach, Manaad, Nakan-Obar, Salamat, Salattinti, Serannipu, Sorim-Nakar, Sul-Ammu, Sul-Bareth, Taba-Dan, Trehaddu, Udami, Ulath-Puas, Unamaeth, Urlvvannu, Vasamannu, Zabamib, Zanammu, Zanummu-Dan, Ziddak
+m a u s u r
+a i n a b
+m a e o n i u s
+m a n a t
+m i s s u n
+m u b d a n
+o d a i r a n
+z a l l i t
+a b a b a e l
+a b a s s e l
+a b i b a a l
+a b i sh p u l u
+a d a i r a n
+a d a i sh a h
+a d d a m m u s
+a d d a r n a t
+a d i b a e l
+a h a s o u r
+a h a z
+a i n a b
+a i n a t
+a n a s o u r
+a n i t
+a sh a - a m m u
+a sh i b a a l
+a sh u - a h h e
+a sh u m a - n u d
+a sh u r - d a n
+a s s a b a - b e n t u s
+a s s a l l i t
+a s s a m a n u t
+a s s a m m a - i d a n
+a s s a n t u s
+a s s a t l i t
+a s s e m m u s
+a s s u r d a n
+b a l u r
+b e d e n
+c o n o o n
+d a k i n
+d r a l a s
+d u n - i l u
+d u n s a l i p a l
+d u t a d a l k
+e l i b a e l
+e m u l - r a n
+e r u r - d a n
+e s a r - d o n
+e s i b - n u m m u
+h a i n a b
+h a i r a n
+h a n - a m m u
+h a n n a t
+h a s s o u r
+h e m u s
+h e n t u s
+h i b a d d a r
+h i n a m m u
+h i r a r e n d
+i b a r n a d a d
+i b a s o u r
+i l a s o u r
+k a n a t
+k a n i t
+k a n u d
+k a sh t e s
+k a u sh a d
+k a u s i
+k i n d
+k i t b a e l
+k u m m i - n a m u s
+k u n d
+l a s s o u r
+m a b a r r a b a e l
+m a e s a t
+m a l
+m a l a y
+m a n s i l a m a t
+m a s s a r a p a l
+m a s s o u r
+m i b d i n a h a z
+m i n a s s o u r
+m i n i s u n
+m i n n i b i
+m u s a n
+m u t
+n i n d
+n i n i m i l k
+n i n i r r a s o u r
+n i r a i t
+n u n d
+o d a i sh a h
+o h i b a a l
+p a t a b a b i
+p a t u s
+p i l u n
+p u n i b i
+r a n a b i
+s a k i n
+s a k u l e r i b
+s a l
+s a l a t t a n a t
+s a l a y
+s a l m a t
+s a l m u s
+s a n n i t
+s a r g o n
+s e l d u s
+s e l k
+s e l k i r n e m u s
+sh a b i n b a e l
+sh a n a t
+sh a n i t
+sh a n n a t
+sh a n u d
+sh a r g o n
+sh i l i p u r a n
+sh i m s u n
+sh i n
+sh i p a l
+sh i r e r i b
+sh u l l a y
+s u b e n e n d
+s u l - m a t u u l
+t a l k i n
+t e sh m u s
+t i b d a n
+t i n t i
+t i s
+t r u a n
+t u b i l a l k
+t u s s u r r a d a d
+u l a b a e l
+u l a th - p a l
+y a h a z
+y a k i n
+y a k u m
+y a n
+y a n i t
+y a n t u s
+y a p a l
+y a s s o u r
+y e h e r r a d a d
+y e n
+y e n a m m u
+z a b a m u n d
+z a b a r b a e l
+z a i n a t
+z a i r a n
+z a l a b e l k
+z a l i t
+z a l l a y
+z a n a t
+z a n m u l k
+z e b b a
+z e b d u s i p a l
+z e l a k u
+z e l a y
+z e n a b i
+z e n n a m m u
+a sh u - a w a
+a sh u l e r i b
+a z sh a l k u
+b r o d e r
+d a y n n i l l - a d r a n
+d r a i t s u u l
+d r e d a s e - h l a r a r
+d r u v v a n n o
+e n a s o u r r
+e r v a s
+g a l s a r
+g a l a m
+g i n a s a
+h a r r i n a t
+k a i d - a r b u l
+m a d a c h
+m a n a a d
+n a k a n - o b a r
+s a l a m a t
+s a l a t t i n t i
+s e r a n n i p u
+s o r i m - n a k a r
+s u l - a m m u
+s u l - b a r e th
+t a b a - d a n
+t r e h a d d u
+u d a m i
+u l a th - p u a s
+u n a m a e th
+u r l v v a n n u
+v a s a m a n n u
+z a b a m i b
+z a n a m m u
+z a n u m m u - d a n
+z i d d a k
