@@ -1,0 +1,5 @@
+root = true
+
+[*.{txt,json,py}]
+indent_style = tab
+tab_size = 4
