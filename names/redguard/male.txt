@@ -211,7 +211,7 @@ a m j e e sh
 a m j h a d
 a m l i th
 a m o zh g a r
-a n a l ' a
+a n a l " a
 a n d r i n
 a n j a n
 a n y a q
@@ -226,7 +226,7 @@ a sh a h d r
 a sh t a d
 a s j a i l a
 a s m a l a h
-a t ' a v a r
+a t " a v a r
 a t a l
 a t i f
 a t t a z a l
@@ -324,7 +324,7 @@ e u s t a ch e
 f a b i e n
 f a d e e l
 f a h a d
-f a h a r a ' j a d
+f a h a r a " j a d
 f a h r a z a d a r
 f a h r u z
 f a i r u z
@@ -765,7 +765,7 @@ s a h p u r
 s a i
 s a kh
 s a l a m a l
-s a l i ' m a
+s a l i " m a
 s a l m a r a n
 s a l y a r
 s a m e m a d

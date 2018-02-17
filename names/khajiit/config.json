@@ -1,0 +1,173 @@
+{
+	"state_size": 2,
+	"structure": "<FIRST>",
+	"components": {
+		"first": {
+			"male": [
+				{ 
+					"structure": "<AFFIX>'<FIRST>",
+					"components": {
+						"first": {
+							"file": "male.txt",
+							"select": false,
+							"capitalize": true
+						},
+						"affix": {
+							"file": "affixM.txt",
+							"select": true,
+							"capitalize": true
+						}
+					},
+					"weight": 10,
+					"join": ""
+				},
+				{
+					"structure": "<AFFIX><FIRST>",
+					"components": {
+						"first": {
+							"file": "male.txt",
+							"select": false,
+							"capitalize": false
+						},
+						"affix": {
+							"file": "affixM.txt",
+							"select": true,
+							"capitalize": true
+						}
+					},
+					"weight": 2,
+					"join": ""
+				},
+				{
+					"structure": "<AFFIX>'<FIRST>-dar",
+					"components": {
+						"first": {
+							"file": "male.txt",
+							"select": false,
+							"capitalize": true
+						},
+						"affix": {
+							"file": "affixM.txt",
+							"select": true,
+							"capitalize": true
+						}
+					},
+					"weight": 2,
+					"join": ""
+				},
+				{
+					"structure": "<FIRST>",
+					"components": {
+						"first": {
+							"file": "male.txt",
+							"select": false,
+							"capitalize": true
+						}
+					},
+					"weight": 1,
+					"join": ""
+				},
+				{
+					"structure": "<FIRST>-<AFFIX>",
+					"components": {
+						"first": {
+							"file": "male.txt",
+							"select": false,
+							"capitalize": true
+						},
+						"affix": {
+							"file": "affixM.txt",
+							"select": true,
+							"capitalize": false
+						}
+					},
+					"weight": 1,
+					"join": ""
+				}
+			],
+			"female": [
+				
+				{ 
+					"structure": "<AFFIX>'<FIRST>",
+					"components": {
+						"first": {
+							"file": "female.txt",
+							"select": false,
+							"capitalize": true
+						},
+						"affix": {
+							"file": "affixF.txt",
+							"select": true,
+							"capitalize": true
+						}
+					},
+					"weight": 2,
+					"join": ""
+				},
+				{
+					"structure": "<AFFIX><FIRST>",
+					"components": {
+						"first": {
+							"file": "female.txt",
+							"select": false,
+							"capitalize": false
+						},
+						"affix": {
+							"file": "affixF.txt",
+							"select": true,
+							"capitalize": true
+						}
+					},
+					"weight": 2,
+					"join": ""
+				},
+				{
+					"structure": "<AFFIX>'<FIRST>-dar",
+					"components": {
+						"first": {
+							"file": "female.txt",
+							"select": false,
+							"capitalize": true
+						},
+						"affix": {
+							"file": "affixF.txt",
+							"select": true,
+							"capitalize": true
+						}
+					},
+					"weight": 1,
+					"join": ""
+				},
+				{
+					"structure": "<FIRST>",
+					"components": {
+						"first": {
+							"file": "female.txt",
+							"select": false,
+							"capitalize": true
+						}
+					},
+					"weight": 10,
+					"join": ""
+				},
+				{
+					"structure": "<FIRST>-<AFFIX>",
+					"components": {
+						"first": {
+							"file": "female.txt",
+							"select": false,
+							"capitalize": true
+						},
+						"affix": {
+							"file": "affixF.txt",
+							"select": true,
+							"capitalize": false
+						}
+					},
+					"weight": 1,
+					"join": ""
+				}
+			]
+		}
+	}
+}

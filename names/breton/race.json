@@ -1,0 +1,19 @@
+{
+	"subraces": {
+		"reachman": {
+			"directory": "reachman",
+			"weight": 1
+		},
+		"true": {
+			"directory": "true",
+			"weight": 19
+		}
+	},
+	"synonyms": {
+		"reachman": "reachman",
+		"true": "true",
+		"reach": "reachman",
+		"high rock": "true",
+		"forsworn": "reachman"
+	}
+}

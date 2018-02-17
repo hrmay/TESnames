@@ -1,0 +1,22 @@
+{
+	"state_size": 1,
+	"structure": "<FIRST>",
+	"components": {
+		"first": {
+			"all": [
+				{ 
+					"structure": "<FIRST>",
+					"components": {
+						"first": {
+							"file": "given.txt",
+							"select": false,
+							"capitalize": true
+						}
+					},
+					"weight": 1,
+					"join": "-"
+				}
+			]
+		}
+	}
+}

@@ -1,0 +1,18 @@
+{
+	"subraces": {
+		"ashlander": {
+			"directory": "ashlander",
+			"weight": 1
+		},
+		"house": {
+			"directory": "house",
+			"weight": 19
+		}
+	},
+	"synonyms": {
+		"ashlander": "ashlander",
+		"house": "house",
+		"true": "house"
+		"velothi": "ashlander"
+	}
+}

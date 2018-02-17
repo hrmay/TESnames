@@ -1,0 +1,90 @@
+{
+	"state_size": 2,
+	"structure": "<FIRST> <LAST>",
+	"components": {
+		"first": {
+			"male": [
+				{ 
+					"structure": "<FIRST>",
+					"components": {
+						"first": {
+							"file": "male.txt",
+							"select": false,
+							"capitalize": true
+						}
+					},
+					"weight": 1,
+					"join": ""
+				}
+			],
+			"female": [
+				{
+					"structure": "<FIRST>",
+					"components": {
+						"first": {
+							"file": "female.txt",
+							"select": false,
+							"capitalize": true
+						}
+					},
+					"weight": 1,
+					"join": ""
+				}
+			]
+		},
+		"last": {
+			"male": [
+				{
+					"structure": "gro-<FATHER>",
+					"components": {
+						"father": {
+							"file": "male.txt",
+							"select": false,
+							"capitalize": true
+						}
+					},
+					"weight": 9,
+					"join": ""
+				},
+				{
+					"structure": "gro-<MOTHER>",
+					"components": {
+						"mother": {
+							"file": "female.txt",
+							"select": false,
+							"capitalize": true
+						}
+					},
+					"weight": 1,
+					"join": ""
+				}
+			],
+			"female": [
+				{
+					"structure": "gra-<MOTHER>",
+					"components": {
+						"mother": {
+							"file": "female.txt",
+							"select": false,
+							"capitalize": true
+						}
+					},
+					"weight": 9,
+					"join": ""
+				},
+				{
+					"structure": "gra-<FATHER>",
+					"components": {
+						"father": {
+							"file": "male.txt",
+							"select": false,
+							"capitalize": true
+						}
+					},
+					"weight": 1,
+					"join": ""
+				}
+			]
+		}
+	}
+}

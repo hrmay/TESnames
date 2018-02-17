@@ -1,0 +1,52 @@
+{
+	"state_size": 2,
+	"structure": "<FIRST> <LAST>",
+	"components": {
+		"first": {
+			"male": [
+				{ 
+					"structure": "<FIRST>",
+					"components": {
+						"first": {
+							"file": "male.txt",
+							"select": false,
+							"capitalize": true
+						}
+					},
+					"weight": 1,
+					"join": ""
+				}
+			],
+			"female": [
+				{
+					"structure": "<FIRST>",
+					"components": {
+						"first": {
+							"file": "female.txt",
+							"select": false,
+							"capitalize": true
+						}
+					},
+					"weight": 1,
+					"join": ""
+				}
+			]
+		},
+		"last": {
+			"all": [
+				{
+					"structure": "<LAST>",
+					"components": {
+						"last": {
+							"file": "surname.txt",
+							"select": false,
+							"capitalize": true
+						}
+					},
+					"weight": 1,
+					"join": ""
+				}
+			]
+		}
+	}
+}

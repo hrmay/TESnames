@@ -88,7 +88,7 @@ i m a n
 j a y r i
 j o n n a
 k e r a h
-l u ' a h
+l u " a h
 n i y y a
 r a m a t i
 r a y y a
@@ -223,7 +223,7 @@ d e l k a sh
 d e l y n a
 d e r s a j a
 d e r s i m e h
-dh ' a n d s a
+dh " a n d s a
 dh e m e e t a
 dh e m i r e h
 d i w a n e h
@@ -430,7 +430,7 @@ kh o r sh e e d
 kh o r sh i n a
 k i a r a l l a h
 k o z e l a n
-k u ' a h
+k u " a h
 k u sh e e sh
 k u sh o r i th i
 l a a d i a

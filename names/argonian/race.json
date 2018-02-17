@@ -1,0 +1,18 @@
+{
+	"subraces": {
+		"jel": {
+			"directory": "jel",
+			"weight": 1
+		},
+		"cyrodilic": {
+			"directory": "cyrodilic",
+			"weight": 1
+		}
+	},
+	"synonyms": {
+		"jel": "jel",
+		"cyrodilic": "cyrodilic",
+		"black marsh": "jel",
+		"imperial": "cyrodilic"
+	}
+}
