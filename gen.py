@@ -96,10 +96,10 @@ def generateToken(racePath, structureChoice, tokenName, config, param, gender):
 		joinChar = structureChoice['join']
 
 	maxSyllables = 0
-	if param['syllables'] != "":
-		maxSyllables = param['syllables']
-	elif 'max_syllables' in config:
+	if param['syllables'] <= 0 or param['syllables'] == "":
 		maxSyllables = config['max_syllables']
+	else:
+		maxSyllables = param['syllables']
 	
 	capitalize = True
 	if 'capitalize' in tokenInfo:
