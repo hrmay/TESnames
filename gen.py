@@ -28,13 +28,17 @@ def generateName(param):
 	
 	with open("." + os.sep + "names" + os.sep + "races.json") as racesFile:
 		races = json.load(racesFile)
-		if param['race'] in races['synonyms']:
+		if 'race' in param and param['race'] in races['synonyms']:
 			synonym = races['synonyms'][param['race']]
 			raceDirPath += races['races'][synonym]['directory']
+		elif ('race' in param and param['race'] == "") or ('race' not in param):
+			# Choose a random subrace
+			raceDirPath += weightedChoice(races['races'])['directory']
 		else:
 			return None # Asking for an unknown race
 	
-	racePath = findRaceDir(raceDirPath, param['subrace'])
+	subrace = param['subrace'] if 'subrace' in param else ""
+	racePath = findRaceDir(raceDirPath, subrace)
 	configPath = racePath + os.sep + "config.json"
 
 	with open(configPath) as configFile:
@@ -42,12 +46,14 @@ def generateName(param):
 		name = config['structure']
 		
 		gender = ''
-		if param['gender'] != "":
+		if 'gender' in param and param['gender'] != "":
 			gender = param['gender']
 		else:
 			gender = random.choice(['male', 'female']) # Genders past those two are hard to account for in everything B(
 
-		for nameType in param['types']:
+		types = param['types'] if 'types' in param else ['first'] # First name is the most important, so it's the default
+
+		for nameType in types:
 			components = config['components']
 			 
 			if nameType in components:
@@ -85,9 +91,9 @@ def generateToken(racePath, structureChoice, tokenName, config, param, gender):
 
 	startsWith = ""
 	if tokenName == "first":
-		startsWith = param['first starts with']
+		startsWith = param['first starts with'] if 'first starts with' in param else ""
 	elif tokenName == "last":
-		startsWith = param['last starts with']
+		startsWith = param['last starts with'] if 'last starts with' in param else ""
 
 	stateSize = config['state_size']
 	
@@ -96,10 +102,10 @@ def generateToken(racePath, structureChoice, tokenName, config, param, gender):
 		joinChar = structureChoice['join']
 
 	maxSyllables = 0
-	if param['syllables'] <= 0 or param['syllables'] == "":
-		maxSyllables = config['max_syllables']
-	else:
+	if 'syllables' in param and param['syllables'] != "" and param['syllables'] > 0:
 		maxSyllables = param['syllables']
+	elif 'max_syllables' in config:
+		maxSyllables = config['max_syllables']
 	
 	capitalize = True
 	if 'capitalize' in tokenInfo:
