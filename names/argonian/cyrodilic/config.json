@@ -1,6 +1,7 @@
 {
 	"state_size": 1,
 	"structure": "<FIRST>",
+	"max_syllables": 10,
 	"components": {
 		"first": {
 			"all": [

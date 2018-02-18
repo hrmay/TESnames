@@ -1,0 +1,64 @@
+{
+	"races": {
+		"altmer": {
+			"directory": "altmer",
+			"weight": 1
+		},
+		"argonian": {
+			"directory": "argonian",
+			"weight": 1
+		},
+		"bosmer": {
+			"directory": "bosmer",
+			"weight": 1
+		},
+		"breton": {
+			"directory": "breton",
+			"weight": 1
+		},
+		"dunmer": {
+			"directory": "dunmer",
+			"weight": 1
+		},
+		"imperial": {
+			"directory": "imperial",
+			"weight": 1
+		},
+		"khajiit": {
+			"directory": "khajiit",
+			"weight": 1
+		},
+		"nord": {
+			"directory": "nord",
+			"weight": 1
+		},
+		"orc": {
+			"directory": "orc",
+			"weight": 1
+		},
+		"redguard": {
+			"directory": "redguard",
+			"weight": 1
+		}
+	},
+	"synonyms": {
+		"altmer": "altmer",
+		"argonian": "argonian",
+		"bosmer": "bosmer",
+		"breton": "breton",
+		"dunmer": "dunmer",
+		"imperial": "imperial",
+		"khajiit": "khajiit",
+		"nord": "nord",
+		"orc": "orc",
+		"redguard": "redguard",
+		"high elf": "altmer",
+		"wood elf": "bosmer",
+		"orsimer": "orc",
+		"dark elf": "dunmer",
+		"cyrodilic": "imperial",
+		"yoku": "redguard",
+		"lizard": "argonian",
+		"cat": "khajiit"
+	}
+}

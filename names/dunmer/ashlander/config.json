@@ -1,6 +1,7 @@
 {
 	"state_size": 2,
 	"structure": "<FIRST> <LAST>",
+	"max_syllables": 7,
 	"components": {
 		"first": {
 			"male": [
