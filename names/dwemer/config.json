@@ -1,0 +1,39 @@
+{
+	"state_size": 2,
+	"structure": "<FIRST> <LAST>",
+	"max_syllables": 3,
+	"components": {
+		"first": {
+			"all": [
+				{ 
+					"structure": "<FIRST>",
+					"components": {
+						"first": {
+							"file": "all.txt",
+							"select": false,
+							"capitalize": true
+						}
+					},
+					"weight": 1,
+					"join": ""
+				}
+			]
+		},
+		"last": {
+			"all": [
+				{
+					"structure": "<LAST>",
+					"components": {
+						"last": {
+							"file": "surname.txt",
+							"select": false,
+							"capitalize": true
+						}
+					},
+					"weight": 1,
+					"join": ""
+				}
+			]
+		}
+	}
+}
