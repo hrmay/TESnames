@@ -39,6 +39,22 @@
 		"redguard": {
 			"directory": "redguard",
 			"weight": 1
+		},
+		"daedric ruin": {
+			"directory": "daedric ruin",
+			"weight": 0
+		},
+		"dwemer ruin": {
+			"directory": "dwemer ruin",
+			"weight": 0
+		},
+		"nordic ruin": {
+			"directory": "nordic ruin",
+			"weight": 0
+		},
+		"ayleid ruin": {
+			"directory": "ayleid ruin",
+			"weight": 0
 		}
 	},
 	"synonyms": {
@@ -59,6 +75,11 @@
 		"cyrodilic": "imperial",
 		"yoku": "redguard",
 		"lizard": "argonian",
-		"cat": "khajiit"
+		"cat": "khajiit",
+		"daedric ruin": "daedric ruin",
+		"dwemer ruin": "dwemer ruin",
+		"nordic ruin": "nordic ruin",
+		"nord ruin": "nordic ruin",
+		"ayleid ruin": "ayleid ruin"
 	}
 }
