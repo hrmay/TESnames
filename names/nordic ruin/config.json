@@ -1,0 +1,74 @@
+{
+	"state_size": 2,
+	"structure": "<FIRST>",
+	"max_syllables": 4,
+	"components": {
+		"first": {
+			"all": [
+				{ 
+					"structure": "<RUIN>",
+					"components": {
+						"ruin": {
+							"file": "ruin.txt",
+							"select": false,
+							"capitalize": true
+						}
+					},
+					"weight": 12,
+					"join": ""
+				},
+				{
+					"structure": "<RUIN1> <RUIN2>",
+					"components": {
+						"ruin1": {
+							"file": "ruin.txt",
+							"select": false,
+							"capitalize": true
+						},
+						"ruin2": {
+							"choice": ["ruins", "barrow"],
+							"select": true,
+							"capitalize": true
+						}
+					},
+					"weight": 4,
+					"join": ""
+				},
+				{
+					"structure": "<FIRST>'s <LOCATION>",
+					"components": {
+						"first": {
+							"file": "male.txt",
+							"select": false,
+							"capitalize": true
+						},
+						"location": {
+							"choice": ["tomb", "hall"],
+							"select": true,
+							"capitalize": true
+						}
+					},
+					"weight": 1,
+					"join": ""
+				},
+				{
+					"structure": "<FIRST>'s <LOCATION>",
+					"components": {
+						"first": {
+							"file": "female.txt",
+							"select": false,
+							"capitalize": true
+						},
+						"location": {
+							"choice": ["tomb", "hall"],
+							"select": true,
+							"capitalize": true
+						}
+					},
+					"weight": 1,
+					"join": ""
+				}
+			]
+		}
+	}
+}

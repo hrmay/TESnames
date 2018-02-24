@@ -43,6 +43,22 @@
 		"dwemer": {
 			"directory": "dwemer",
 			"weight": 0
+		},
+		"daedric ruin": {
+			"directory": "daedric ruin",
+			"weight": 0
+		},
+		"dwemer ruin": {
+			"directory": "dwemer ruin",
+			"weight": 0
+		},
+		"nordic ruin": {
+			"directory": "nordic ruin",
+			"weight": 0
+		},
+		"ayleid ruin": {
+			"directory": "ayleid ruin",
+			"weight": 0
 		}
 	},
 	"synonyms": {
@@ -65,6 +81,11 @@
 		"lizard": "argonian",
 		"cat": "khajiit",
 		"dwemer": "dwemer",
-		"dwarf": "dwemer"
+		"dwarf": "dwemer",
+		"daedric ruin": "daedric ruin",
+		"dwemer ruin": "dwemer ruin",
+		"nordic ruin": "nordic ruin",
+		"nord ruin": "nordic ruin",
+		"ayleid ruin": "ayleid ruin"
 	}
 }
