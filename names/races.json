@@ -55,7 +55,11 @@
 		"ayleid ruin": {
 			"directory": "ayleid ruin",
 			"weight": 0
-		}
+		},
+        "dremora": {
+            "directory": "dremora",
+            "weight": 0
+        }
 	},
 	"synonyms": {
 		"altmer": "altmer",
@@ -80,6 +84,7 @@
 		"dwemer ruin": "dwemer ruin",
 		"nordic ruin": "nordic ruin",
 		"nord ruin": "nordic ruin",
-		"ayleid ruin": "ayleid ruin"
+		"ayleid ruin": "ayleid ruin",
+        "dremora": "dremora"
 	}
 }
