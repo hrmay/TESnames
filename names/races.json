@@ -59,6 +59,10 @@
         "dremora": {
             "directory": "dremora",
             "weight": 0
+        },
+        "exo": {
+            "directory": "exo",
+            "weight": 0
         }
 	},
 	"synonyms": {
@@ -85,6 +89,7 @@
 		"nordic ruin": "nordic ruin",
 		"nord ruin": "nordic ruin",
 		"ayleid ruin": "ayleid ruin",
-        "dremora": "dremora"
-	}
+        "dremora": "dremora",
+	    "exo": "exo"
+    }
 }
