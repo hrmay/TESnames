@@ -1,0 +1,82 @@
+{
+	"state_size": 2,
+	"structure": "<FIRST>",
+	"max_syllables": 3,
+	"components": {
+		"name": {
+			"male": [
+				{
+					"structure": "<NAME>-<ONE-DIGIT>",
+					"components": {
+						"NAME": {
+							"file": "male.txt",
+							"select": false,
+							"capitalize": true
+						},
+						"ONE-DIGIT": {
+							"file": "numbers.txt",
+							"select": true,
+							"capitalize": false
+						}
+					},
+					"weight": 9,
+					"join": ""
+				},
+				{
+					"structure": "<NAME>-<TWO-DIGIT>",
+					"components": {
+						"NAME": {
+							"file": "male.txt",
+							"select": false,
+							"capitalize": true
+						},
+						"TWO-DIGIT": {
+							"file": "numbers.txt",
+							"select": true,
+							"capitalize": false
+						}
+					},
+					"weight": 1,
+					"join": "1"
+				}
+			],
+			"female": [
+				{
+					"structure": "<NAME>-<ONE-DIGIT>",
+					"components": {
+						"NAME": {
+							"file": "female.txt",
+							"select": false,
+							"capitalize": true
+						},
+						"ONE-DIGIT": {
+							"file": "numbers.txt",
+							"select": true,
+							"capitalize": false
+						}
+					},
+					"weight": 9,
+					"join": ""
+				},
+				{
+					"structure": "<NAME>-<TWO-DIGIT>",
+					"components": {
+						"NAME": {
+							"file": "female.txt",
+							"select": false,
+							"capitalize": true
+						},
+						"TWO-DIGIT": {
+							"file": "numbers.txt",
+							"select": true,
+							"capitalize": false
+						}
+					},
+					"weight": 1,
+					"join": "1"
+				}
+
+			]
+		}
+	}
+}
