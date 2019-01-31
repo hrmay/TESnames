@@ -1,0 +1,23 @@
+{
+	"state_size": 2,
+	"structure": "<FIRST>",
+	"max_syllables": 5,
+	"components": {
+		"first": {
+			"all": [
+				{ 
+					"structure": "<CITY>",
+					"components": {
+						"first": {
+							"file": "city.txt",
+							"select": false,
+							"capitalize": true
+						}
+					},
+					"weight": 1,
+					"join": ""
+				}
+			]
+		}
+	}
+}

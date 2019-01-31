@@ -1,0 +1,20 @@
+{
+	"subraces": {
+		"cyrodiil": {
+			"directory": "cyrodiil",
+			"weight": 1
+		},
+		"skyrim": {
+			"directory": "skyrim",
+			"weight": 1
+		}
+	},
+	"synonyms": {
+	    "cyrodiil":"cyrodiil",
+        "cyrodilic":"cyrodiil",
+        "imperial":"cyrodiil",
+        "skyrim":"skyrim",
+        "nordic":"skyrim",
+        "nord":"skyrim"
+    }
+}
