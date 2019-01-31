@@ -1,14 +1,14 @@
-Banshee
-Cayde
-Cron
-Daimos
-Felwinter
-Kaliks
-Lee
-Mattox
-Redrix
-Saint
-Shiro
-Tango
-Theus
-Gaunt
+B a n sh ee
+C ay d e
+C r o n
+D ai m o s
+F e l w i n t e r
+K a l i k s
+L ee
+M a tt o x
+R e dr i x
+S ai nt
+Sh i r o
+T a n g o
+Th e u s
+G au nt
