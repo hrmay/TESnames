@@ -1,7 +1,7 @@
 {
 	"state_size": 2,
-	"structure": "<FIRST>",
-	"max_syllables": 3,
+	"structure": "<RANK> <FIRST>",
+	"max_syllables": 4,
 	"components": {
 		"first": {
 			"male": [
@@ -32,6 +32,46 @@
 					"join": ""
 				}
 			]
-		}
+		},
+        "rank": {
+            "all": [
+                {
+                    "structure": "<RANK>",
+                    "components": {
+                        "rank": {
+                            "choice": ["churl", "caitiff", "kynval"],
+                            "select": true,
+                            "capitalize": true
+                        }
+                    },
+                    "weight": 6,
+                    "join": ""
+                },
+                {
+                    "structure": "<RANK>",
+                    "components": {
+                        "rank": {
+                            "choice": ["kynreeve", "kynmarcher"],
+                            "select": true,
+                            "capitalize": true
+                        }
+                    },
+                    "weight": 3,
+                    "join": ""
+                },
+                {
+                    "structure": "<RANK>",
+                    "components": {
+                        "rank": {
+                            "choice": ["markynaz", "valkynaz"],
+                            "select": true,
+                            "capitalize": true
+                        }
+                    },
+                    "weight": 1,
+                    "join": ""
+                }
+            ]
+        }
 	}
 }
