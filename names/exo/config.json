@@ -3,17 +3,17 @@
 	"structure": "<FIRST>",
 	"max_syllables": 3,
 	"components": {
-		"name": {
+		"first": {
 			"male": [
 				{
 					"structure": "<NAME>-<ONE-DIGIT>",
 					"components": {
-						"NAME": {
+						"name": {
 							"file": "male.txt",
 							"select": false,
 							"capitalize": true
 						},
-						"ONE-DIGIT": {
+						"one-digit": {
 							"file": "numbers.txt",
 							"select": true,
 							"capitalize": false
@@ -25,12 +25,12 @@
 				{
 					"structure": "<NAME>-<TWO-DIGIT>",
 					"components": {
-						"NAME": {
+						"name": {
 							"file": "male.txt",
 							"select": false,
 							"capitalize": true
 						},
-						"TWO-DIGIT": {
+						"two-digit": {
 							"file": "numbers.txt",
 							"select": true,
 							"capitalize": false
@@ -44,12 +44,12 @@
 				{
 					"structure": "<NAME>-<ONE-DIGIT>",
 					"components": {
-						"NAME": {
+						"name": {
 							"file": "female.txt",
 							"select": false,
 							"capitalize": true
 						},
-						"ONE-DIGIT": {
+						"one-digit": {
 							"file": "numbers.txt",
 							"select": true,
 							"capitalize": false
@@ -61,12 +61,12 @@
 				{
 					"structure": "<NAME>-<TWO-DIGIT>",
 					"components": {
-						"NAME": {
+						"name": {
 							"file": "female.txt",
 							"select": false,
 							"capitalize": true
 						},
-						"TWO-DIGIT": {
+						"two-digit": {
 							"file": "numbers.txt",
 							"select": true,
 							"capitalize": false
