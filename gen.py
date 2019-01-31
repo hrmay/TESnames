@@ -223,3 +223,12 @@ def weightedChoice(weightedValues):
 			return value
 	else:
 		return None #Should never happen
+
+if __name__=='__main__':
+    race = input('Race    : ')
+    subrace = input('Subrace : ')
+    gender = input('Gender  : ')
+    userTypes = input('Types   : ')
+    types = "".join(userTypes.split()).split(',') if userTypes != '' else ['first']
+    param = {'race':race, 'subrace':subrace, 'gender':gender, 'types':types}
+    print(generateName(param))
