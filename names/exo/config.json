@@ -23,7 +23,7 @@
 					"join": ""
 				},
 				{
-					"structure": "<NAME>-<TWO-DIGIT>",
+					"structure": "<NAME>-1<TWO-DIGIT>",
 					"components": {
 						"name": {
 							"file": "male.txt",
@@ -37,7 +37,7 @@
 						}
 					},
 					"weight": 1,
-					"join": "1"
+					"join": ""
 				}
 			],
 			"female": [
@@ -59,7 +59,7 @@
 					"join": ""
 				},
 				{
-					"structure": "<NAME>-<TWO-DIGIT>",
+					"structure": "<NAME>-1<TWO-DIGIT>",
 					"components": {
 						"name": {
 							"file": "female.txt",
@@ -73,7 +73,7 @@
 						}
 					},
 					"weight": 1,
-					"join": "1"
+					"join": ""
 				}
 
 			]
