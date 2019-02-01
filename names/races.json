@@ -59,6 +59,10 @@
         "dremora": {
             "directory": "dremora",
             "weight": 0
+        },
+        "dragon": {
+            "directory": "dragon",
+            "weight": 0
         }
 	},
 	"synonyms": {
@@ -85,6 +89,9 @@
 		"nordic ruin": "nordic ruin",
 		"nord ruin": "nordic ruin",
 		"ayleid ruin": "ayleid ruin",
-        "dremora": "dremora"
-	}
+        "dremora": "dremora",
+	    "dragon": "dragon",
+        "dov": "dragon",
+        "dovah": "dragon"
+    }
 }

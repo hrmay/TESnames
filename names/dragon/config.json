@@ -1,0 +1,45 @@
+{
+	"state_size": 2,
+	"structure": "<FIRST>",
+	"max_syllables": 3,
+	"components": {
+		"first": {
+			"all": [
+				{ 
+					"structure": "<WORD1><WORD2><WORD3>",
+					"components": {
+						"word1": {
+							"file": "words.txt",
+							"select": true,
+							"capitalize": true
+						},
+                        "word2": {
+                            "file": "words.txt",
+                            "select": true,
+                            "capitalize": false
+                        },
+                        "word3": {
+                            "file": "words.txt",
+                            "select": true,
+                            "capitalize": false
+                        }
+					},
+					"weight": 9,
+					"join": ""
+				},
+                {
+                    "structure": "<FIRST>",
+                    "components": {
+                        "first": {
+                            "file": "all.txt",
+                            "select": false,
+                            "capitalize": true
+                        }
+                    },
+                    "weight": 1,
+                    "join": ""
+                }
+			]
+		}
+	}
+}
