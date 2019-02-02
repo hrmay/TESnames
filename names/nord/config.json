@@ -1,6 +1,6 @@
 {
 	"state_size": 2,
-	"structure": "<FIRST>",
+	"structure": "<PREFIX> <FIRST> <SUFFIX>",
 	"max_syllables": 3,
 	"components": {
 		"first": {
@@ -32,6 +32,238 @@
 					"join": ""
 				}
 			]
-		}
+		},
+        "prefix": {
+            "all": [
+                {
+                    "structure": "<ADJECTIVE>",
+                    "components": {
+                        "adjective": {
+                            "file": "adjectives.txt",
+                            "select": true,
+                            "capitalize": true
+                        }
+                    },
+                    "weight": 1,
+                    "join": ""
+                }
+            ]
+        },
+        "suffix": {
+            "all": [
+                {
+                    "structure": "the <ADJECTIVE>",
+                    "components": {
+                        "adjective": {
+                            "file": "adjectives.txt",
+                            "select": true,
+                            "capitalize": true
+                        }
+                    },
+                    "weight": 1,
+                    "join": ""
+                },
+                {
+                    "structure": "the <ED-ADJECTIVE>",
+                    "components": {
+                        "ed-adjective": {
+                            "file": "ed-adjectives.txt",
+                            "select": true,
+                            "capitalize": true
+                        }
+                    },
+                    "weight": 1,
+                    "join": ""
+                },
+                { 
+                    "structure": "the <AGENT>",
+                    "components": {
+                        "agent": {
+                            "file": "agents.txt",
+                            "select": true,
+                            "capitalize": true
+                        }
+                    },
+                    "weight": 1,
+                    "join": ""
+                },
+                { 
+                    "structure": "<ARTICLE><ADJECTIVE><NOUN>",
+                    "components": {
+                        "adjective": {
+                            "file": "adjectives.txt",
+                            "select": true,
+                            "capitalize": true
+                        },
+                        "noun": {
+                            "file": "nouns.txt",
+                            "select": true,
+                            "capitalize": false
+                        },
+                        "article": {
+                            "choice": ["", "", "", "the "],
+                            "select": true,
+                            "capitalize": false
+                        }
+                    },
+                    "weight": 1,
+                    "join": ""
+                },
+                { 
+                    "structure": "<ARTICLE><NOUN1><NOUN2>",
+                    "components": {
+                        "noun1": {
+                            "file": "nouns.txt",
+                            "select": true,
+                            "capitalize": true
+                        },
+                        "noun2": {
+                            "file": "nouns.txt",
+                            "select": true,
+                            "capitalize": false
+                        },
+                        "article": {
+                            "choice": ["", "", "", "the "],
+                            "select": true,
+                            "capitalize": false
+                        }
+                    },
+                    "weight": 1,
+                    "join": ""
+                },
+                { 
+                    "structure": "<ARTICLE><NOUN><AGENT>",
+                    "components": {
+                        "noun": {
+                            "file": "nouns.txt",
+                            "select": true,
+                            "capitalize": true
+                        },
+                        "agent": {
+                            "file": "agents.txt",
+                            "select": true,
+                            "capitalize": false
+                        },
+                        "article": {
+                            "choice": ["", "", "", "the "],
+                            "select": true,
+                            "capitalize": false
+                        }
+                    },
+                    "weight": 1,
+                    "join": ""
+                },
+                { 
+                    "structure": "<ARTICLE><ADJECTIVE>-<NOUN>",
+                    "components": {
+                        "adjective": {
+                            "file": "adjectives.txt",
+                            "select": true,
+                            "capitalize": true
+                        },
+                        "noun": {
+                            "file": "nouns.txt",
+                            "select": true,
+                            "capitalize": true
+                        },
+                        "article": {
+                            "choice": ["", "", "", "the "],
+                            "select": true,
+                            "capitalize": false
+                        }
+                    },
+                    "weight": 1,
+                    "join": ""
+                },
+                { 
+                    "structure": "<ARTICLE><NOUN1>-<NOUN2>",
+                    "components": {
+                        "noun1": {
+                            "file": "nouns.txt",
+                            "select": true,
+                            "capitalize": true
+                        },
+                        "noun2": {
+                            "file": "nouns.txt",
+                            "select": true,
+                            "capitalize": true
+                        },
+                        "article": {
+                            "choice": ["", "", "", "the "],
+                            "select": true,
+                            "capitalize": false
+                        }
+                    },
+                    "weight": 1,
+                    "join": ""
+                },
+                { 
+                    "structure": "<ARTICLE><NOUN>-<AGENT>",
+                    "components": {
+                        "noun": {
+                            "file": "nouns.txt",
+                            "select": true,
+                            "capitalize": true
+                        },
+                        "agent": {
+                            "file": "agents.txt",
+                            "select": true,
+                            "capitalize": true
+                        },
+                        "article": {
+                            "choice": ["", "", "", "the "],
+                            "select": true,
+                            "capitalize": false
+                        }
+                    },
+                    "weight": 1,
+                    "join": ""
+                },
+                {
+                    "structure": "<ARTICLE><ADVERB>-<ADJECTIVE>",
+                    "components": {
+                        "adverb": {
+                            "file": "adverbs.txt",
+                            "select": true,
+                            "capitalize": true
+                        },
+                        "adjective": {
+                            "file": "adjectives.txt",
+                            "select": true,
+                            "capitalize": true
+                        },
+                        "article": {
+                            "choice": ["", "", "", "the "],
+                            "select": true,
+                            "capitalize": false
+                        }
+                    },
+                    "weight": 1,
+                    "join": ""
+                }, 
+                {
+                    "structure": "<ARTICLE><ADVERB>-<ED-ADJECTIVE>",
+                    "components": {
+                        "adverb": {
+                            "file": "adverbs.txt",
+                            "select": true,
+                            "capitalize": true
+                        },
+                        "ed-adjective": {
+                            "file": "ed-adjectives.txt",
+                            "select": true,
+                            "capitalize": true
+                        },
+                        "article": {
+                            "choice": ["", "", "", "the "],
+                            "select": true,
+                            "capitalize": false
+                        }
+                    },
+                    "weight": 1,
+                    "join": ""
+                }
+            ]
+        }
 	}
 }
