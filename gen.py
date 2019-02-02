@@ -100,20 +100,13 @@ def generateName(param):
             if nameType in components:
                 structureChoice = {}
 
-                if gender in components[nameType]:
-                    possibleComponents = components[nameType][gender]
-                    
-                    # add gender-neutral options if available
-                    if 'all' in components[nameType]:
-                        possibleComponents += components[nameType]['all']     
+                # Use the user-specified gender and gender-neutral options
+                possibleStructures = (components[nameType][gender] or []) + (components[nameType]['all'] or [])
 
-                    # Choose a random structure from either the user-specified gender or from gender-neutral options
-                    structureChoice = weightedChoice(possibleComponents)
-                elif 'all' in components[nameType]:
-                    # If the gender can't be used, use the universal ['all'] structures
-                    structureChoice = weightedChoice(components[nameType]['all'])
+                if possibleStructures:
+                    structureChoice = weightedChoice(possibleStructures)
                 else:
-                    return None # Asking for an unknown gender
+                    return None # User-specified gender not found, and no gender-neutral structures
 
                 namePart = structureChoice['structure'] # The part of the full name (e.g. the first name or the last name)
                 tokens = re.findall("<(.*?)>", namePart)
