@@ -101,7 +101,7 @@ def generateName(param):
                 structureChoice = {}
 
                 # Use the user-specified gender and gender-neutral options
-                possibleStructures = (components[nameType][gender] or []) + (components[nameType]['all'] or [])
+                possibleStructures = (components[nameType][gender] if (gender in components[nameType]) else  []) + (components[nameType]['all'] if 'all' in (components[nameType]) else [])
 
                 if possibleStructures:
                     structureChoice = weightedChoice(possibleStructures)
