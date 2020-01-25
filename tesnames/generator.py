@@ -5,13 +5,13 @@ import random
 import re
 
 # Closest approximation of typical vowel sequences I can easily come up with
-vowelLists = [
+vowel_lists = [
     [first + last for last in ["a", "e", "i", "o", "u", "y"]]
     for first in ["a", "e", "o", "y", ""]
 ]
-vowels = [vowel for sublist in vowelLists for vowel in sublist]
+vowels = [vowel for sublist in vowel_lists for vowel in sublist]
 
-implementedGenders = {
+implemented_genders = {
     "male": {"pronoun": "he", "possessive": "his", "object": "him", "person": "man"},
     "female": {
         "pronoun": "she",
@@ -27,7 +27,7 @@ implementedGenders = {
     },
 }
 
-genderSynonyms = {
+gender_synonyms = {
     "male": "male",
     "m": "male",
     "man": "male",
@@ -52,21 +52,21 @@ genderSynonyms = {
 }
 
 
-def generateName(param):
+def generate_name(param):
     # the directory containing all the races.json config file specifying all the available races
-    raceDirPath = "." + os.sep + "names" + os.sep
+    race_dir_path = "." + os.sep + "names" + os.sep
 
-    with open("." + os.sep + "names" + os.sep + "races.json") as racesFile:
-        races = json.load(racesFile)
+    with open("." + os.sep + "names" + os.sep + "races.json") as races_file:
+        races = json.load(races_file)
 
         # if the race is unspecified, we'll choose a random race to generate a name for
         if "race" in param and param["race"] in races["synonyms"]:
             synonym = races["synonyms"][param["race"]]
             # the races.json config file specifies the directory that contains the information for that race
-            raceDirPath += races["races"][synonym]["directory"]
+            race_dir_path += races["races"][synonym]["directory"]
         elif ("race" in param and param["race"] == "") or ("race" not in param):
             # Choose a random race
-            raceDirPath += weightedChoice(races["races"])["directory"]
+            race_dir_path += weighted_choice(races["races"])["directory"]
         else:
             return None  # Asking for an unknown race
 
@@ -74,21 +74,21 @@ def generateName(param):
     subrace = param["subrace"] if "subrace" in param else ""
 
     # opens the correct race/subrace directory, taking into account races without subraces
-    racePath = findRaceDir(raceDirPath, subrace)
-    configPath = racePath + os.sep + "config.json"
+    race_path = find_race_dir(race_dir_path, subrace)
+    config_path = race_path + os.sep + "config.json"
 
-    with open(configPath) as configFile:
-        config = json.load(configFile)
+    with open(config_path) as config_file:
+        config = json.load(config_file)
         name = config["structure"]
 
         gender = ""
         if "gender" in param and param["gender"] != "":
             # the actual gender the user specified
-            chosenGender = param["gender"]
+            chosen_gender = param["gender"]
 
             # map the given gender to one of the supported ones, if possible
             gender = (
-                genderSynonyms[chosenGender] if (chosenGender in genderSynonyms) else ""
+                gender_synonyms[chosen_gender] if (chosen_gender in gender_synonyms) else ""
             )
         else:
             gender = random.choice(
@@ -99,201 +99,201 @@ def generateName(param):
             param["types"] if "types" in param else ["first"]
         )  # First name is the most important, so it's the default
 
-        for nameType in types:
+        for name_type in types:
             components = config["components"]
 
-            if nameType in components:
-                structureChoice = {}
+            if name_type in components:
+                structure_choice = {}
 
                 # Use the user-specified gender and gender-neutral options
-                possibleStructures = (
-                    components[nameType][gender]
-                    if (gender in components[nameType])
+                possible_structures = (
+                    components[name_type][gender]
+                    if (gender in components[name_type])
                     else []
                 ) + (
-                    components[nameType]["all"]
-                    if "all" in (components[nameType])
+                    components[name_type]["all"]
+                    if "all" in (components[name_type])
                     else []
                 )
 
-                if possibleStructures:
-                    structureChoice = weightedChoice(possibleStructures)
+                if possible_structures:
+                    structure_choice = weighted_choice(possible_structures)
                 else:
                     return None  # User-specified gender not found, and no gender-neutral structures
 
-                namePart = structureChoice[
+                name_part = structure_choice[
                     "structure"
                 ]  # The part of the full name (e.g. the first name or the last name)
-                tokens = re.findall("<(.*?)>", namePart)
+                tokens = re.findall("<(.*?)>", name_part)
                 for token in tokens:
-                    tokenLower = token.lower()
+                    token_lower = token.lower()
 
                     # The number of arguments keeps getting longer as I write this
-                    nameToken = generateToken(
-                        racePath, structureChoice, token.lower(), config, param, gender
+                    name_token = generate_token(
+                        race_path, structure_choice, token.lower(), config, param, gender
                     )
-                    namePart = namePart.replace("<" + token.upper() + ">", nameToken)
+                    name_part = name_part.replace("<" + token.upper() + ">", name_token)
 
-                name = name.replace("<" + nameType.upper() + ">", namePart)
+                name = name.replace("<" + name_type.upper() + ">", name_part)
 
     name = re.sub(r"<(.*?)>", "", name)
     name = name.strip()
     return name
 
 
-def generateToken(racePath, structureChoice, tokenName, config, param, gender):
-    tokenInfo = structureChoice["components"][tokenName]
-    tokenFile = ""
-    tokenChoice = []
-    noFile = False
+def generate_token(race_path, structure_choice, token_name, config, param, gender):
+    token_info = structure_choice["components"][token_name]
+    token_file = ""
+    token_choice = []
+    no_file = False
 
-    startsWith = ""
-    if tokenName == "first":
-        startsWith = param["first starts with"] if "first starts with" in param else ""
-    elif tokenName == "last":
-        startsWith = param["last starts with"] if "last starts with" in param else ""
+    starts_with = ""
+    if token_name == "first":
+        starts_with = param["first starts with"] if "first starts with" in param else ""
+    elif token_name == "last":
+        starts_with = param["last starts with"] if "last starts with" in param else ""
 
-    stateSize = config["state_size"]
+    state_size = config["state_size"]
 
-    joinChar = ""
-    if "join" in structureChoice:
-        joinChar = structureChoice["join"]
+    join_char = ""
+    if "join" in structure_choice:
+        join_char = structure_choice["join"]
 
-    maxSyllables = 0
+    max_syllables = 0
     if "syllables" in param and param["syllables"] != "" and param["syllables"] > 0:
-        maxSyllables = param["syllables"]
+        max_syllables = param["syllables"]
     elif "max_syllables" in config:
-        maxSyllables = config["max_syllables"]
+        max_syllables = config["max_syllables"]
 
     capitalize = True
-    if "capitalize" in tokenInfo:
-        capitalize = tokenInfo["capitalize"]
+    if "capitalize" in token_info:
+        capitalize = token_info["capitalize"]
 
-    generatedName = ""
+    generated_name = ""
 
-    if "file" in tokenInfo:
-        if tokenInfo["file"]:
-            tokenFile = racePath + os.sep + tokenInfo["file"]
-            with open(tokenFile) as tf:
-                if "select" in tokenInfo:
-                    if tokenInfo["select"]:
+    if "file" in token_info:
+        if token_info["file"]:
+            token_file = race_path + os.sep + token_info["file"]
+            with open(token_file) as tf:
+                if "select" in token_info:
+                    if token_info["select"]:
                         # Select one name from the file
                         names = tf.read().splitlines()
-                        generatedName = random.choice(names)
+                        generated_name = random.choice(names)
                     else:
                         # Markov chain a name
-                        textModel = markovify.NewlineText(
-                            tf.read(), state_size=stateSize
+                        text_model = markovify.NewlineText(
+                            tf.read(), state_size=state_size
                         )
-                        generatedName = markovGenerateName(
-                            textModel,
-                            startsWith,
-                            stateSize,
-                            maxSyllables,
-                            joinChar,
+                        generated_name = markov_generate_name(
+                            text_model,
+                            starts_with,
+                            state_size,
+                            max_syllables,
+                            join_char,
                             capitalize,
                             gender,
                         )
         else:
-            noFile = True
+            no_file = True
     else:
-        noFile = True
+        no_file = True
 
-    if noFile:
-        if "choice" in tokenInfo:
-            if tokenInfo["choice"]:
-                tokenChoice = tokenInfo["choice"]
-                if "select" in tokenInfo:
-                    if tokenInfo["select"]:
+    if no_file:
+        if "choice" in token_info:
+            if token_info["choice"]:
+                token_choice = token_info["choice"]
+                if "select" in token_info:
+                    if token_info["select"]:
                         # Select one name from the file
-                        generatedName = random.choice(tokenChoice)
+                        generated_name = random.choice(token_choice)
                     else:
                         # Markov chain a name
-                        textModel = markovify.Text(tokenChoice, state_size=stateSize)
-                        generatedName = markovGenerateName(
-                            textModel,
-                            startsWith,
-                            stateSize,
-                            maxSyllables,
-                            joinChar,
+                        text_model = markovify.Text(token_choice, state_size=state_size)
+                        generated_name = markov_generate_name(
+                            text_model,
+                            starts_with,
+                            state_size,
+                            max_syllables,
+                            join_char,
                             capitalize,
                             gender,
                         )
 
-    return generatedName.title() if capitalize else generatedName
+    return generated_name.title() if capitalize else generated_name
 
 
-def markovGenerateName(
-    textModel, startsWith, stateSize, maxSyllables, joinChar, capitalize, gender
+def markov_generate_name(
+    text_model, starts_with, state_size, max_syllables, join_char, capitalize, gender
 ):
     name = None
-    shortEnough = int(maxSyllables) <= 0
+    short_enough = int(max_syllables) <= 0
 
-    while name is None or not shortEnough:
-        if startsWith == "":
-            name = textModel.make_sentence()
+    while name is None or not short_enough:
+        if starts_with == "":
+            name = text_model.make_sentence()
         else:
             try:
-                name = textModel.make_sentence_with_start(startsWith)
+                name = text_model.make_sentence_with_start(starts_with)
             except:
                 return None
 
-        if not shortEnough and name is not None:
+        if not short_enough and name is not None:
             syllables = 0
             for vowel in vowels:
                 syllables += name.count(vowel)
 
-            if syllables <= maxSyllables:
-                shortEnough = True
+            if syllables <= max_syllables:
+                short_enough = True
 
-    name = joinChar.join(name.split())
-    if gender in implementedGenders:
-        for genderedWord in implementedGenders[gender]:
+    name = join_char.join(name.split())
+    if gender in implemented_genders:
+        for gendered_word in implemented_genders[gender]:
             name = name.replace(
-                genderedWord.upper(), implementedGenders[gender][genderedWord]
+                gendered_word.upper(), implemented_genders[gender][gendered_word]
             )
 
     return name
 
 
-def findRaceDir(raceDirPath, userSubrace):
+def find_race_dir(race_dir_path, user_subrace):
     try:
-        subraceConfig = None
-        with open(raceDirPath + os.sep + "race.json") as raceFile:
-            subraceConfig = json.load(raceFile)
+        subrace_config = None
+        with open(race_dir_path + os.sep + "race.json") as race_file:
+            subrace_config = json.load(race_file)
     except:
-        return raceDirPath
+        return race_dir_path
     else:
         subrace = ""
 
-        if userSubrace not in subraceConfig["synonyms"]:
-            subrace = weightedChoice(subraceConfig["subraces"])["directory"]
+        if user_subrace not in subrace_config["synonyms"]:
+            subrace = weighted_choice(subrace_config["subraces"])["directory"]
         else:
-            subrace = subraceConfig["synonyms"][userSubrace]
+            subrace = subrace_config["synonyms"][user_subrace]
 
-        return raceDirPath + os.sep + subrace
+        return race_dir_path + os.sep + subrace
 
 
-def weightedChoice(weightedValues):
+def weighted_choice(weighted_values):
     values = []
     weights = []
 
-    for weightedValue in weightedValues:
-        if isinstance(weightedValues, dict):
-            values.append(weightedValues[weightedValue])
-            weights.append(weightedValues[weightedValue]["weight"])
-        elif isinstance(weightedValues, list):
-            values.append(weightedValue)
-            weights.append(weightedValue["weight"])
+    for weighted_value in weighted_values:
+        if isinstance(weighted_values, dict):
+            values.append(weighted_values[weighted_value])
+            weights.append(weighted_values[weighted_value]["weight"])
+        elif isinstance(weighted_values, list):
+            values.append(weighted_value)
+            weights.append(weighted_value["weight"])
 
-    totalWeight = sum(weights)
+    total_weight = sum(weights)
 
     # Convert the weights into ranges for a random int to be compared against
     # The lower bound of each item is the upper bound of the previous
     for i in range(1, len(weights)):
         weights[i] += weights[i - 1]
 
-    choice = random.randint(1, totalWeight)
+    choice = random.randint(1, total_weight)
 
     for i, value in enumerate(values):
         if choice <= weights[i]:
@@ -306,7 +306,7 @@ if __name__ == "__main__":
     race = input("Race    : ")
     subrace = input("Subrace : ")
     gender = input("Gender  : ")
-    userTypes = input("Types   : ")
-    types = "".join(userTypes.split()).split(",") if userTypes != "" else ["first"]
+    user_types = input("Types   : ")
+    types = "".join(user_types.split()).split(",") if user_types != "" else ["first"]
     param = {"race": race, "subrace": subrace, "gender": gender, "types": types}
-    print(generateName(param))
+    print(generate_name(param))
