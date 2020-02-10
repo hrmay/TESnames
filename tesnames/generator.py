@@ -4,6 +4,8 @@ import os
 import random
 import re
 
+from .validator import race
+
 # Closest approximation of typical vowel sequences I can easily come up with
 vowel_lists = [
     [first + last for last in ["a", "e", "i", "o", "u", "y"]]
@@ -51,49 +53,17 @@ gender_synonyms = {
     "other": "neutral",
 }
 
+def generate_name(parameters):
+    """Generate a name based on the given dictionary. The dictionary can contain the race, subrace, gender, name types, and beginnings of the first and/or last names."""
 
-def generate_name(param):
-    # the directory containing all the races.json config file specifying all the available races
-    race_dir_path = "." + os.sep + "names" + os.sep
-
-    with open("." + os.sep + "names" + os.sep + "races.json") as races_file:
-        races = json.load(races_file)
-
-        # if the race is unspecified, we'll choose a random race to generate a name for
-        if "race" in param and param["race"] in races["synonyms"]:
-            synonym = races["synonyms"][param["race"]]
-            # the races.json config file specifies the directory that contains the information for that race
-            race_dir_path += races["races"][synonym]["directory"]
-        elif ("race" in param and param["race"] == "") or ("race" not in param):
-            # Choose a random race
-            race_dir_path += weighted_choice(races["races"])["directory"]
-        else:
-            return None  # Asking for an unknown race
-
-    # if the subrace is unspecified, a random one will be chosen
-    subrace = param["subrace"] if "subrace" in param else ""
-
-    # opens the correct race/subrace directory, taking into account races without subraces
-    race_path = find_race_dir(race_dir_path, subrace)
-    config_path = race_path + os.sep + "config.json"
+    race_path = get_race(parameters)
+    gender = get_gender(parameters)
+    
 
     with open(config_path) as config_file:
         config = json.load(config_file)
         name = config["structure"]
 
-        gender = ""
-        if "gender" in param and param["gender"] != "":
-            # the actual gender the user specified
-            chosen_gender = param["gender"]
-
-            # map the given gender to one of the supported ones, if possible
-            gender = (
-                gender_synonyms[chosen_gender] if (chosen_gender in gender_synonyms) else ""
-            )
-        else:
-            gender = random.choice(
-                ["male", "female"]
-            )  # Genders past those two are hard to account for in everything B(
 
         types = (
             param["types"] if "types" in param else ["first"]
@@ -139,6 +109,7 @@ def generate_name(param):
     name = re.sub(r"<(.*?)>", "", name)
     name = name.strip()
     return name
+
 
 
 def generate_token(race_path, structure_choice, token_name, config, param, gender):
@@ -256,50 +227,8 @@ def markov_generate_name(
     return name
 
 
-def find_race_dir(race_dir_path, user_subrace):
-    try:
-        subrace_config = None
-        with open(race_dir_path + os.sep + "race.json") as race_file:
-            subrace_config = json.load(race_file)
-    except:
-        return race_dir_path
-    else:
-        subrace = ""
-
-        if user_subrace not in subrace_config["synonyms"]:
-            subrace = weighted_choice(subrace_config["subraces"])["directory"]
-        else:
-            subrace = subrace_config["synonyms"][user_subrace]
-
-        return race_dir_path + os.sep + subrace
 
 
-def weighted_choice(weighted_values):
-    values = []
-    weights = []
-
-    for weighted_value in weighted_values:
-        if isinstance(weighted_values, dict):
-            values.append(weighted_values[weighted_value])
-            weights.append(weighted_values[weighted_value]["weight"])
-        elif isinstance(weighted_values, list):
-            values.append(weighted_value)
-            weights.append(weighted_value["weight"])
-
-    total_weight = sum(weights)
-
-    # Convert the weights into ranges for a random int to be compared against
-    # The lower bound of each item is the upper bound of the previous
-    for i in range(1, len(weights)):
-        weights[i] += weights[i - 1]
-
-    choice = random.randint(1, total_weight)
-
-    for i, value in enumerate(values):
-        if choice <= weights[i]:
-            return value
-    else:
-        return None  # Should never happen
 
 
 if __name__ == "__main__":
