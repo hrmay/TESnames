@@ -4,7 +4,12 @@ import os
 import random
 import re
 
-from .validator import race
+from .parameter_parser import get_race_path, get_gender, get_starts_with, get_syllables
+from .choice import weighted_choice
+from .error import NoStructuresForGenderError
+
+# The maximum number of syllables a name should have if all other attempts at figuring this out fail
+DEFAULT_MAX_SYLLABLES = 4
 
 # Closest approximation of typical vowel sequences I can easily come up with
 vowel_lists = [
@@ -13,7 +18,7 @@ vowel_lists = [
 ]
 vowels = [vowel for sublist in vowel_lists for vowel in sublist]
 
-implemented_genders = {
+pronouns = {
     "male": {"pronoun": "he", "possessive": "his", "object": "him", "person": "man"},
     "female": {
         "pronoun": "she",
@@ -29,78 +34,40 @@ implemented_genders = {
     },
 }
 
-gender_synonyms = {
-    "male": "male",
-    "m": "male",
-    "man": "male",
-    "masc": "male",
-    "masculine": "male",
-    "boy": "male",
-    "female": "female",
-    "f": "female",
-    "woman": "female",
-    "fem": "female",
-    "femme": "female",
-    "feminine": "female",
-    "girl": "female",
-    "neutral": "neutral",
-    "neuter": "neuter",
-    "enby": "neutral",
-    "nonbinary": "neutral",
-    "nb": "neutral",
-    "non-binary": "neutral",
-    "n": "neutral",
-    "other": "neutral",
-}
 
 def generate_name(parameters):
     """Generate a name based on the given dictionary. The dictionary can contain the race, subrace, gender, name types, and beginnings of the first and/or last names."""
 
-    race_path = get_race(parameters)
-    gender = get_gender(parameters)
-    
+    # Fold everything to lowercase since that's what the generator uses internally
+    params = to_lower(parameters)
 
-    with open(config_path) as config_file:
+    race_path = get_race_path(params)
+    gender = get_gender(params)
+
+    with open(os.path.join(race_path, "config.json")) as config_file:
         config = json.load(config_file)
         name = config["structure"]
 
-
         types = (
-            param["types"] if "types" in param else ["first"]
+            params["types"] if "types" in params else ["first"]
         )  # First name is the most important, so it's the default
 
         for name_type in types:
             components = config["components"]
 
             if name_type in components:
-                structure_choice = {}
+                structure = choose_structure(components, name_type, gender)
 
-                # Use the user-specified gender and gender-neutral options
-                possible_structures = (
-                    components[name_type][gender]
-                    if (gender in components[name_type])
-                    else []
-                ) + (
-                    components[name_type]["all"]
-                    if "all" in (components[name_type])
-                    else []
-                )
+                # The parts of the full name (e.g. the first name and the last name)
+                name_part = structure["structure"]
 
-                if possible_structures:
-                    structure_choice = weighted_choice(possible_structures)
-                else:
-                    return None  # User-specified gender not found, and no gender-neutral structures
-
-                name_part = structure_choice[
-                    "structure"
-                ]  # The part of the full name (e.g. the first name or the last name)
                 tokens = re.findall("<(.*?)>", name_part)
+
                 for token in tokens:
-                    token_lower = token.lower()
 
                     # The number of arguments keeps getting longer as I write this
                     name_token = generate_token(
-                        race_path, structure_choice, token.lower(), config, param, gender
+                        race_path, structure, token.lower(), config, params, gender,
                     )
                     name_part = name_part.replace("<" + token.upper() + ">", name_token)
 
@@ -111,85 +78,57 @@ def generate_name(parameters):
     return name
 
 
+def choose_structure(components, name_type, gender):
+    """Chooses a name structure from components based on the given name type and gender."""
 
-def generate_token(race_path, structure_choice, token_name, config, param, gender):
-    token_info = structure_choice["components"][token_name]
-    token_file = ""
-    token_choice = []
-    no_file = False
+    # Use the user-specified gender and gender-neutral options
+    possible_structures = (
+        components[name_type][gender] if (gender in components[name_type]) else []
+    ) + (components[name_type]["all"] if "all" in (components[name_type]) else [])
 
-    starts_with = ""
-    if token_name == "first":
-        starts_with = param["first starts with"] if "first starts with" in param else ""
-    elif token_name == "last":
-        starts_with = param["last starts with"] if "last starts with" in param else ""
+    if possible_structures:
+        return weighted_choice(possible_structures)
+    else:
+        raise NoStructuresForGenderError(name_type, gender)
 
+
+def generate_token(race_path, structure, token_name, config, parameters, gender):
+    token_info = structure["components"][token_name]
+    starts_with = get_starts_with(parameters, token_name)
     state_size = config["state_size"]
-
-    join_char = ""
-    if "join" in structure_choice:
-        join_char = structure_choice["join"]
-
-    max_syllables = 0
-    if "syllables" in param and param["syllables"] != "" and param["syllables"] > 0:
-        max_syllables = param["syllables"]
-    elif "max_syllables" in config:
-        max_syllables = config["max_syllables"]
-
-    capitalize = True
-    if "capitalize" in token_info:
-        capitalize = token_info["capitalize"]
-
-    generated_name = ""
+    join_char = structure["join"] if "join" in structure else ""
+    config_max_syllables = config["max_syllables"] if "max_syllables" in config else 0
+    max_syllables = (
+        get_syllables(parameters) or config_max_syllables or DEFAULT_MAX_SYLLABLES
+    )
+    capitalize = token_info["capitalize"] if "capitalize" in token_info else True
+    select = token_info["select"] if "select" in token_info else False
+    name_data = None
 
     if "file" in token_info:
-        if token_info["file"]:
-            token_file = race_path + os.sep + token_info["file"]
-            with open(token_file) as tf:
-                if "select" in token_info:
-                    if token_info["select"]:
-                        # Select one name from the file
-                        names = tf.read().splitlines()
-                        generated_name = random.choice(names)
-                    else:
-                        # Markov chain a name
-                        text_model = markovify.NewlineText(
-                            tf.read(), state_size=state_size
-                        )
-                        generated_name = markov_generate_name(
-                            text_model,
-                            starts_with,
-                            state_size,
-                            max_syllables,
-                            join_char,
-                            capitalize,
-                            gender,
-                        )
-        else:
-            no_file = True
-    else:
-        no_file = True
+        token_file = f"{race_path}/{token_info['file']}"
 
-    if no_file:
-        if "choice" in token_info:
-            if token_info["choice"]:
-                token_choice = token_info["choice"]
-                if "select" in token_info:
-                    if token_info["select"]:
-                        # Select one name from the file
-                        generated_name = random.choice(token_choice)
-                    else:
-                        # Markov chain a name
-                        text_model = markovify.Text(token_choice, state_size=state_size)
-                        generated_name = markov_generate_name(
-                            text_model,
-                            starts_with,
-                            state_size,
-                            max_syllables,
-                            join_char,
-                            capitalize,
-                            gender,
-                        )
+        with open(token_file) as tf:
+            name_data = tf.read().splitlines() if select else tf.read()
+    elif "choice" in token_info:
+        name_data = token_info["choice"]
+
+    generated_name = ""
+    if select:
+        # Select a single name from the source set of names
+        generated_name = random.choice(name_data)
+    else:
+        # Markov chain a name
+        text_model = markovify.NewlineText(name_data, state_size=state_size)
+        generated_name = markov_generate_name(
+            text_model,
+            starts_with,
+            state_size,
+            max_syllables,
+            join_char,
+            capitalize,
+            gender,
+        )
 
     return generated_name.title() if capitalize else generated_name
 
@@ -218,17 +157,16 @@ def markov_generate_name(
                 short_enough = True
 
     name = join_char.join(name.split())
-    if gender in implemented_genders:
-        for gendered_word in implemented_genders[gender]:
-            name = name.replace(
-                gendered_word.upper(), implemented_genders[gender][gendered_word]
-            )
+    if gender in pronouns:
+        for gendered_word in pronouns[gender]:
+            name = name.replace(gendered_word.upper(), pronouns[gender][gendered_word])
 
     return name
 
 
-
-
+def to_lower(parameters):
+    """Folds the parameters to lowercase."""
+    return json.loads(json.dumps(parameters).lower())
 
 
 if __name__ == "__main__":
