@@ -1,0 +1,11 @@
+{
+	"subraces": {
+		"altmer": {
+			"directory": "imperial",
+			"weight": 1
+		}
+	},
+	"synonyms": {
+		"imperial": "imperial"
+	}
+}

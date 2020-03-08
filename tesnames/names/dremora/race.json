@@ -1,0 +1,11 @@
+{
+	"subraces": {
+		"altmer": {
+			"directory": "dremora",
+			"weight": 1
+		}
+	},
+	"synonyms": {
+		"dremora": "dremora"
+	}
+}

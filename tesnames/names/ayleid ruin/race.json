@@ -1,0 +1,11 @@
+{
+	"subraces": {
+		"altmer": {
+			"directory": "ayleid ruin",
+			"weight": 1
+		}
+	},
+	"synonyms": {
+		"ayleid ruin": "ayleid ruin"
+	}
+}

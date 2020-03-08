@@ -1,0 +1,11 @@
+{
+	"subraces": {
+		"altmer": {
+			"directory": "redguard",
+			"weight": 1
+		}
+	},
+	"synonyms": {
+		"redguard": "redguard"
+	}
+}

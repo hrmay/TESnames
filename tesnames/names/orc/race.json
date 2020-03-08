@@ -1,0 +1,11 @@
+{
+	"subraces": {
+		"altmer": {
+			"directory": "orc",
+			"weight": 1
+		}
+	},
+	"synonyms": {
+		"orc": "orc"
+	}
+}

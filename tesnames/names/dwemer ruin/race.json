@@ -1,0 +1,11 @@
+{
+	"subraces": {
+		"altmer": {
+			"directory": "dwemer ruin",
+			"weight": 1
+		}
+	},
+	"synonyms": {
+		"dwemer ruin": "dwemer ruin"
+	}
+}

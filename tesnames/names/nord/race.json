@@ -1,0 +1,11 @@
+{
+	"subraces": {
+		"altmer": {
+			"directory": "nord",
+			"weight": 1
+		}
+	},
+	"synonyms": {
+		"nord": "nord"
+	}
+}

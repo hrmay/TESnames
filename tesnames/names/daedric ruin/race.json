@@ -1,0 +1,11 @@
+{
+	"subraces": {
+		"altmer": {
+			"directory": "daedric ruin",
+			"weight": 1
+		}
+	},
+	"synonyms": {
+		"daedric ruin": "daedric ruin"
+	}
+}
