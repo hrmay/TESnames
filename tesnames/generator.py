@@ -13,7 +13,7 @@ DEFAULT_MAX_SYLLABLES = 4
 
 # Closest approximation of typical vowel sequences I can easily come up with
 vowel_lists = [
-    [first + last for last in ["a", "e", "i", "o", "u", "y"]]
+    [first + last for last in ["a", "e", "i", "o", "u", "y", "ä", "â", "ü", "û"]]
     for first in ["a", "e", "o", "y", ""]
 ]
 vowels = [vowel for sublist in vowel_lists for vowel in sublist]

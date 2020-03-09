@@ -67,6 +67,10 @@
 		"maormer": {
 		    "directory": "maormer",
 		    "weight": 0
+		},
+		"hive": {
+			"directory": "hive",
+			"weight": 0
 		}
 	},
 	"synonyms": {
@@ -94,12 +98,14 @@
 		"nord ruin": "nordic ruin",
 		"ayleid ruin": "ayleid ruin",
 		"dremora": "dremora",
-	        "dragon": "dragon",
+	    "dragon": "dragon",
 		"dov": "dragon",
 		"dovah": "dragon",
 		"maormer": "maormer",
 		"sea elf": "maormer",
 		"tropical elf": "maormer",
-		"fish elf": "maormer"
+		"fish elf": "maormer",
+		"hive":"hive",
+		"krill":"hive"
     }
 }

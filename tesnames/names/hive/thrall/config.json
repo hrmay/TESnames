@@ -1,0 +1,197 @@
+{
+	"state_size": 2,
+	"structure": "<FIRST><TITLE>",
+	"max_syllables": 3,
+	"components": {
+		"first": {
+			"all": [
+				{
+					"structure": "<FIRST>",
+					"components": {
+						"first": {
+							"file": "all.txt",
+							"select": false,
+							"capitalize": true
+						}
+					},
+					"weight": 96,
+					"join": ""
+				},
+				{
+					"structure": "<HONORIFIC><FIRST>",
+					"components": {
+						"honorific":{
+							"choice": ["nur ", "ul-"],
+							"select": true,
+							"capitalize": true
+						},
+						"first": {
+							"file": "all.txt",
+							"select": false,
+							"capitalize": true
+						}
+					},
+					"weight": 2,
+					"join": ""
+				},
+				{
+					"structure": "<FIRST> tor",
+					"components": {
+						"first": {
+							"file": "all.txt",
+							"select": false,
+							"capitalize": true
+						}
+					},
+					"weight": 1,
+					"join": ""
+				},
+				{
+					"structure": "<FIRST1>'<FIRST2>",
+					"components": {
+						"first1": {
+							"file": "all.txt",
+							"select": false,
+							"capitalize": true
+						},
+						"first2": {
+							"file": "all.txt",
+							"select": false,
+							"capitalize": true
+						}
+					},
+					"weight": 1,
+					"join": ""
+				}
+			]
+		},
+		"title": {
+			"all": [
+				{
+					"structure": ", <ED-ADJECTIVE> of <NAME>",
+					"components": {
+						"ed-adjective": {
+							"file":"../ed-adjectives-of.txt",
+							"select":true,
+							"capitalize":true
+						},
+						"name":{
+							"file":"../names.txt",
+							"select":true,
+							"capitalize":true
+						}
+					},
+					"weight": 1,
+					"join": ""
+				},
+				{
+					"structure": ", <ED-ADJECTIVE> by <NAME>",
+					"components": {
+						"ed-adjective": {
+							"file":"../ed-adjectives-by.txt",
+							"select":true,
+							"capitalize":true
+						},
+						"name":{
+							"file":"../names.txt",
+							"select":true,
+							"capitalize":true
+						}
+					},
+					"weight": 1,
+					"join": ""
+				},
+				{
+					"structure": ", <NOUN> of <NAME>",
+					"components": {
+						"noun": {
+							"file":"../nouns.txt",
+							"select":true,
+							"capitalize":true
+						},
+						"name":{
+							"file":"../names.txt",
+							"select":true,
+							"capitalize":true
+						}
+					},
+					"weight": 1,
+					"join": ""
+				},
+				{
+					"structure": ", <AGENT> of <NAME>",
+					"components": {
+						"agent": {
+							"file":"../agents.txt",
+							"select":true,
+							"capitalize":true
+						},
+						"name":{
+							"file":"../names.txt",
+							"select":true,
+							"capitalize":true
+						}
+					},
+					"weight": 1,
+					"join": ""
+				},
+				{
+					"structure": ", <ARTICLE><AGENT>",
+					"components": {
+						"article":{
+							"choice":["the ", "the ", "the ", "the ", "the ", ""],
+							"select": true,
+							"capitalize": false
+						},
+						"agent": {
+							"file":"../agents.txt",
+							"select":true,
+							"capitalize":true
+						}
+					},
+					"weight": 2,
+					"join": ""
+				},
+				{
+					"structure": ", <ARTICLE><EPITHET>",
+					"components": {
+						"article":{
+							"choice":["the ", "the ", "the ", "the ", "the ", ""],
+							"select": true,
+							"capitalize": false
+						},
+						"epithet": {
+							"file":"../epithets.txt",
+							"select":true,
+							"capitalize":true
+						}
+					},
+					"weight": 2,
+					"join": ""
+				},
+				{
+					"structure": ", <ARTICLE><ADJECTIVE> <AGENT>",
+					"components": {
+						"article":{
+							"choice":["", "", "", "", "", "the "],
+							"select": true,
+							"capitalize": false
+						},
+						"adjective": {
+							"file":"../adjectives.txt",
+							"select":true,
+							"capitalize":true
+						},
+						"agent":{
+							"file":"../agents.txt",
+							"select":true,
+							"capitalize":true
+						}
+					},
+					"weight": 2,
+					"join": ""
+				}
+			]
+		}
+	}
+}

@@ -1,0 +1,25 @@
+{
+	"subraces": {
+		"thrall": {
+			"directory": "thrall",
+			"weight": 1
+		},
+		"knight": {
+			"directory": "knight",
+			"weight": 3
+		},
+		"wizard": {
+			"directory": "wizard",
+			"weight": 3
+		}
+	},
+	"synonyms": {
+		"thrall": "thrall",
+		"acolyte": "thrall",
+		"ogre": "thrall",
+		"knight": "knight",
+		"wizard": "wizard",
+		"mother": "wizard",
+		"witch": "wizard"
+	}
+}

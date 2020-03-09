@@ -1,0 +1,26 @@
+ambassador
+arbiter
+blade
+celebrant
+champion
+conductor
+conjurer
+deceiver
+envoy
+fanatic
+fatesmith
+herald
+nightmare
+prince
+protector
+shield
+summoner
+supplicant
+traitor
+warden
+instrument of torment
+blasphemer
+devotee
+ordinator
+apostle
+follower

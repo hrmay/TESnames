@@ -8,10 +8,12 @@ def weighted_choice(weighted_values):
     for weighted_value in weighted_values:
         if isinstance(weighted_values, dict):
             values.append(weighted_values[weighted_value])
-            weights.append(weighted_values[weighted_value]["weight"])
+            weights.append(weighted_values[weighted_value].get("weight", 1))
         elif isinstance(weighted_values, list):
             values.append(weighted_value)
-            weights.append(weighted_value["weight"])
+            weights.append(
+                weighted_value["weight"] if "weight" in weighted_value else 1
+            )
 
     total_weight = sum(weights)
 
