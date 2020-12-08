@@ -1,0 +1,11 @@
+{
+	"subraces": {
+		"psion": {
+			"directory": "psion",
+			"weight": 1
+		}
+	},
+	"synonyms": {
+		"psion": "psion"
+	}
+}

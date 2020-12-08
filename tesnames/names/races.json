@@ -71,6 +71,14 @@
 		"hive": {
 			"directory": "hive",
 			"weight": 0
+		},
+		"cabal": {
+			"directory": "cabal",
+			"weight": 0
+		},
+		"psion": {
+			"directory": "psion",
+			"weight": 0
 		}
 	},
 	"synonyms": {
@@ -105,7 +113,9 @@
 		"sea elf": "maormer",
 		"tropical elf": "maormer",
 		"fish elf": "maormer",
-		"hive":"hive",
-		"krill":"hive"
+		"hive": "hive",
+		"krill": "hive",
+		"cabal": "cabal",
+		"psion": "psion"
     }
 }

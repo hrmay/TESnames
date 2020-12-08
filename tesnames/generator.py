@@ -4,9 +4,9 @@ import os
 import random
 import re
 
-from .parameter_parser import get_race_path, get_gender, get_starts_with, get_syllables
-from .choice import weighted_choice
-from .error import NoStructuresForGenderError
+from parameter_parser import get_race_path, get_gender, get_starts_with, get_syllables
+from choice import weighted_choice
+from error import NoStructuresForGenderError
 
 # The maximum number of syllables a name should have if all other attempts at figuring this out fail
 DEFAULT_MAX_SYLLABLES = 4
@@ -17,6 +17,10 @@ vowel_lists = [
     for first in ["a", "e", "o", "y", ""]
 ]
 vowels = [vowel for sublist in vowel_lists for vowel in sublist]
+vowels = vowels + [
+    vowel + vowel for vowel in ["a", "e", "i", "o", "u", "y", "ä", "â", "ü", "û"]
+]
+vowels = list(set(vowels))
 
 pronouns = {
     "male": {"pronoun": "he", "possessive": "his", "object": "him", "person": "man"},

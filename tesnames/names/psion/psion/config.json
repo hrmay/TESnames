@@ -1,0 +1,50 @@
+{
+	"state_size": 2,
+	"structure": "<TITLE> <FIRST><EPITHET>",
+	"max_syllables": 3,
+	"components": {
+		"title": {
+			"all": [
+				{
+					"structure": "<TITLE>",
+					"components": {
+						"title": {
+							"file": "titles.txt",
+							"select": true,
+							"capitalize": true
+						}
+					},
+					"weight": 1,
+					"join": ""
+				}
+			]
+		},
+		"first": {
+			"all": [
+				{
+					"structure": "<FIRST>",
+					"components": {
+						"first": {
+							"file": "all.txt",
+							"select": false,
+							"capitalize": true
+						}
+					},
+					"weight": 1,
+					"join": ""
+				}
+			]
+		},
+		"epithet": {
+			"all": [
+				{
+					"structure": ", Psion Flayer",
+					"components": {
+					},
+					"weight": 1,
+					"join": ""
+				}
+			]
+		}
+	}
+}

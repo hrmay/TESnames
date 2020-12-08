@@ -1,0 +1,20 @@
+{
+	"subraces": {
+		"legion": {
+			"directory": "legion",
+			"weight": 2
+		},
+		"reformed": {
+			"directory": "reformed",
+			"weight": 8
+		}
+	},
+	"synonyms": {
+		"legion": "legion",
+		"military": "legion",
+		"reformed": "reformed",
+		"merchant": "reformed",
+		"civilian": "reformed",
+		"civillian": "reformed"
+	}
+}

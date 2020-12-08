@@ -1,0 +1,10 @@
+primus
+val
+valus
+bracus
+enforcer
+advisor
+councilor
+scribe
+underscribe
+commander
