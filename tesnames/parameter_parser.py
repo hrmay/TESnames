@@ -57,8 +57,8 @@ def get_race(parameters):
     return race
 
 
-def get_subrace(parameters):
-    """Parses the subrace from the parameter dictionary."""
+def get_race_and_subrace(parameters):
+    """Parses the race and subrace from the parameter dictionary, or randomly selects them if unspecified. Returns them in the form (race, subrace)."""
 
     race = get_race(parameters)
 
@@ -86,14 +86,13 @@ def get_subrace(parameters):
                 parameters["race"], parameters["subrace"]
             )  # Asking for an unknown subrace
 
-    return subrace
+    return race, subrace
 
 
 def get_race_path(parameters):
     """Parses the race and subrace from the parameter dictionary and returns the path to the directory containing information used to generate that race's names."""
 
-    race = get_race(parameters)
-    subrace = get_subrace(parameters)
+    race, subrace = get_race_and_subrace(parameters)
 
     return os.path.join(ABSOLUTE_PATH, f"names/{race}/{subrace}")
 
