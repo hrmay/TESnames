@@ -4,9 +4,9 @@ import os
 import random
 import re
 
-from parameter_parser import get_race_path, get_gender, get_starts_with, get_syllables
-from choice import weighted_choice
-from error import NoStructuresForGenderError
+from tesnames.parameter_parser import get_race_path, get_gender, get_starts_with, get_syllables
+from tesnames.choice import weighted_choice
+from tesnames.error import NoStructuresForGenderError
 
 # The maximum number of syllables a name should have if all other attempts at figuring this out fail
 DEFAULT_MAX_SYLLABLES = 4
