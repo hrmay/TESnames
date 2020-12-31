@@ -2,8 +2,8 @@ import random
 import os
 import json
 
-from tesnames.choice import weighted_choice
-from tesnames.error import UnknownRaceError, UnknownSubraceError, UnknownGenderError
+from .choice import weighted_choice
+from .error import UnknownRaceError, UnknownSubraceError, UnknownGenderError
 
 gender_synonyms = {
     "male": "male",
