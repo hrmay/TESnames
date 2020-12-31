@@ -1,6 +1,6 @@
 {
 	"subraces": {
-		"altmer": {
+		"bosmer": {
 			"directory": "bosmer",
 			"weight": 1
 		}

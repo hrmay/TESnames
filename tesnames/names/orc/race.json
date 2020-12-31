@@ -1,6 +1,6 @@
 {
 	"subraces": {
-		"altmer": {
+		"orc": {
 			"directory": "orc",
 			"weight": 1
 		}

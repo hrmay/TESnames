@@ -133,7 +133,21 @@ def generate_token(race_path, structure, token_name, config, parameters, gender)
             capitalize,
             gender,
         )
-
+    
+    # markov_generate_name can return None if the `starts_with`
+    # requirement is too restructive. Proposed solution: attempt
+    # to generate another name without `starts_with`.
+    if generated_name is None:
+      generated_name = markov_generate_name(
+        text_model,
+        '',
+        state_size,
+        max_syllables,
+        join_char,
+        capitalize,
+        gender,
+      )
+    
     return generated_name.title() if capitalize else generated_name
 
 
