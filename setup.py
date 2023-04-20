@@ -17,6 +17,8 @@ setuptools.setup(
     url="https://github.com/hrmay/TESnames",
     install_requires=requirements,
     packages=setuptools.find_packages(),
+	package_data={'': ['names/**/*', 'names/**/*', 'names/**/**/*']},
+    include_package_data=True,
     classifiers=[
     ],
     python_requires='>=3.6',
