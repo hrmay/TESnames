@@ -37,13 +37,12 @@ def parse_params(parameters):
     
     race, subrace = get_race_and_subrace(parameters)
     gender = get_gender(parameters)
-    starts_with = get_starts_with(parameters)
     syllables = get_syllables(parameters)
     types = (
         parameters["types"] if "types" in parameters else ["first"]
     ) # First name is the most important, so it's the default
     
-    return {
+    params = {
         "race": race,
         "subrace": subrace,
         "gender": gender,
@@ -51,6 +50,13 @@ def parse_params(parameters):
         "starts_with": starts_with,
         "syllables": syllables
     }
+    
+    for name_type in types:
+        starts_with = get_starts_with(parameters, name_type)
+        if starts_with != "":
+            params[f"{name_type} starts with"] = starts_with
+    
+    return params
 
 
 def get_race(parameters):
