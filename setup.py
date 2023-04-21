@@ -8,7 +8,7 @@ with open('requirements.txt') as f:
 
 setuptools.setup(
     name="tesnames",
-    version="1.0.0",
+    version="1.1.0",
     author="Hannah May",
     author_email="hrmay@protonmail.com",
     description="A simple name generator that generates names using a Markov chain.",
