@@ -33,24 +33,24 @@ ABSOLUTE_PATH = os.path.dirname(__file__)
 
 
 def parse_params(parameters):
-	"""Parses all the parameters from parameter dictionary. If any keys aren't provided, a default or random value will be selected."""
-	
-	race, subrace = get_race_and_subrace(parameters)
-	gender = get_gender(parameters)
-	starts_with = get_starts_with(parameters)
-	syllables = get_syllables(parameters)
-	types = (
-		parameters["types"] if "types" in parameters else ["first"]
-	) # First name is the most important, so it's the default
-	
-	return {
-		"race": race,
-		"subrace": subrace,
-		"gender": gender,
-		"types": types,
-		"starts_with": starts_with,
-		"syllables": syllables
-	}
+    """Parses all the parameters from parameter dictionary. If any keys aren't provided, a default or random value will be selected."""
+    
+    race, subrace = get_race_and_subrace(parameters)
+    gender = get_gender(parameters)
+    starts_with = get_starts_with(parameters)
+    syllables = get_syllables(parameters)
+    types = (
+        parameters["types"] if "types" in parameters else ["first"]
+    ) # First name is the most important, so it's the default
+    
+    return {
+        "race": race,
+        "subrace": subrace,
+        "gender": gender,
+        "types": types,
+        "starts_with": starts_with,
+        "syllables": syllables
+    }
 
 
 def get_race(parameters):
