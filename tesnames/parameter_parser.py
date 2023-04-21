@@ -32,6 +32,22 @@ gender_synonyms = {
 ABSOLUTE_PATH = os.path.dirname(__file__)
 
 
+def parse_params(parameters):
+	"""Parses all the parameters from parameter dictionary. If any keys aren't provided, a default or random value will be selected."""
+	
+	race, subrace = get_race_and_subrace(parameters)
+	gender = get_gender(parameters)
+	starts_with = get_starts_with(parameters)
+	syllables = get_syllables(parameters)
+	
+	return {
+		"race": race,
+		"subrace": subrace,
+		"starts_with": starts_with,
+		"syllables": syllables
+	}
+
+
 def get_race(parameters):
     """Parses the race from the parameter dictionary. If the dict contains a "race" key, and the value is a valid race, that race is chosen. If no race is given, a random race is selected. If the given race is not valid, an UnknownRaceError is raised."""
 
@@ -89,10 +105,8 @@ def get_race_and_subrace(parameters):
     return race, subrace
 
 
-def get_race_path(parameters):
-    """Parses the race and subrace from the parameter dictionary and returns the path to the directory containing information used to generate that race's names."""
-
-    race, subrace = get_race_and_subrace(parameters)
+def get_race_path(race, subrace):
+    """Returns the path to the directory containing information used to generate that race's names."""
 
     return os.path.join(ABSOLUTE_PATH, f"names/{race}/{subrace}")
 
