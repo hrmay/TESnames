@@ -37,13 +37,11 @@ pronouns = {
 
 def generate_name(parameters):
     """Generate a name based on the given dictionary. The dictionary can contain the race, subrace, gender, name types, and beginnings of the first and/or last names."""
-
-	result = {}
-	
+    
     # Fold everything to lowercase since that's what the generator uses internally
     params = parse_params(to_lower(parameters))
 
-    race_path = get_race_path(params["race"], params["subrace"])	
+    race_path = get_race_path(params["race"], params["subrace"])
 
     with open(os.path.join(race_path, "config.json")) as config_file:
         config = json.load(config_file)
@@ -73,9 +71,9 @@ def generate_name(parameters):
     name = re.sub(r"<(.*?)>", "", name)
     name = name.strip()
     return {
-		"name": name,
-		"parameters": params
-	}
+        "name": name,
+        "parameters": params
+    }
 
 
 def choose_structure(components, name_type, gender):
@@ -93,7 +91,7 @@ def choose_structure(components, name_type, gender):
 
 
 def generate_token(race_path, structure, token_name, config, parameters):
-	gender = parameters["gender"]
+    gender = parameters["gender"]
     token_info = structure["components"][token_name]
     starts_with = get_starts_with(parameters, token_name)
     state_size = config["state_size"]
