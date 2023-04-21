@@ -41,7 +41,7 @@ def parse_params(parameters):
 	syllables = get_syllables(parameters)
 	types = (
 		parameters["types"] if "types" in parameters else ["first"]
-	)
+	) # First name is the most important, so it's the default
 	
 	return {
 		"race": race,
