@@ -39,10 +39,15 @@ def parse_params(parameters):
 	gender = get_gender(parameters)
 	starts_with = get_starts_with(parameters)
 	syllables = get_syllables(parameters)
+	types = (
+		parameters["types"] if "types" in parameters else ["first"]
+	)
 	
 	return {
 		"race": race,
 		"subrace": subrace,
+		"gender": gender,
+		"types": types,
 		"starts_with": starts_with,
 		"syllables": syllables
 	}
