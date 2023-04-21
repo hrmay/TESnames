@@ -47,7 +47,6 @@ def parse_params(parameters):
         "subrace": subrace,
         "gender": gender,
         "types": types,
-        "starts_with": starts_with,
         "syllables": syllables
     }
     
