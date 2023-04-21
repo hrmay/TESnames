@@ -4,7 +4,7 @@ import os
 import random
 import re
 
-from .parameter_parser import get_race_path, get_gender, get_starts_with, get_syllables
+from .parameter_parser import get_race_path, get_gender, get_starts_with, get_syllables, parse_params
 from .choice import weighted_choice
 from .error import NoStructuresForGenderError
 
@@ -38,25 +38,22 @@ pronouns = {
 def generate_name(parameters):
     """Generate a name based on the given dictionary. The dictionary can contain the race, subrace, gender, name types, and beginnings of the first and/or last names."""
 
+	result = {}
+	
     # Fold everything to lowercase since that's what the generator uses internally
-    params = to_lower(parameters)
+    params = parse_params(to_lower(parameters))
 
-    race_path = get_race_path(params)
-    gender = get_gender(params)
+    race_path = get_race_path(params["race"], params["subrace"])	
 
     with open(os.path.join(race_path, "config.json")) as config_file:
         config = json.load(config_file)
         name = config["structure"]
 
-        types = (
-            params["types"] if "types" in params else ["first"]
-        )  # First name is the most important, so it's the default
-
-        for name_type in types:
+        for name_type in params["types"]:
             components = config["components"]
 
             if name_type in components:
-                structure = choose_structure(components, name_type, gender)
+                structure = choose_structure(components, name_type, params["gender"])
 
                 # The parts of the full name (e.g. the first name and the last name)
                 name_part = structure["structure"]
@@ -67,7 +64,7 @@ def generate_name(parameters):
 
                     # The number of arguments keeps getting longer as I write this
                     name_token = generate_token(
-                        race_path, structure, token.lower(), config, params, gender,
+                        race_path, structure, token.lower(), config, params
                     )
                     name_part = name_part.replace("<" + token.upper() + ">", name_token)
 
@@ -75,7 +72,10 @@ def generate_name(parameters):
 
     name = re.sub(r"<(.*?)>", "", name)
     name = name.strip()
-    return name
+    return {
+		"name": name,
+		"parameters": params
+	}
 
 
 def choose_structure(components, name_type, gender):
@@ -92,7 +92,8 @@ def choose_structure(components, name_type, gender):
         raise NoStructuresForGenderError(name_type, gender)
 
 
-def generate_token(race_path, structure, token_name, config, parameters, gender):
+def generate_token(race_path, structure, token_name, config, parameters):
+	gender = parameters["gender"]
     token_info = structure["components"][token_name]
     starts_with = get_starts_with(parameters, token_name)
     state_size = config["state_size"]
